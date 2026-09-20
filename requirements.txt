@@ -9,3 +9,9 @@ joblib>=1.3
 pytest>=8.0
 kagglehub>=1.0
 python-dotenv>=1.0
+
+# installs the local `scouting` package (src/ layout, see pyproject.toml) so
+# `from scouting...` resolves. Locally this is done with `pip install -e .`;
+# Streamlit Cloud only runs `pip install -r requirements.txt`, so it needs to
+# be listed here too.
+-e .
