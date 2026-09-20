@@ -1,0 +1,210 @@
+season: "2024-2025"
+
+# FBref removed all Opta-sourced advanced stats (passing/possession/defense/SCA)
+# on 2026-01-20, and its site is behind a Cloudflare challenge. The complete
+# 2024-25 tables are taken from this pre-scraped Kaggle dataset instead.
+data:
+  kaggle_dataset: "hubertsidorowicz/football-players-stats-2024-2025"
+  raw_filename: "players_data-2024_2025.csv"
+
+# Dormant: the live-scraping client in scouting/scrape is no longer used.
+scrape:
+  base_url: "https://fbref.com/en/comps/9/"
+  min_delay_seconds: 8
+  cache_ttl_days: 7
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+
+feature_engineering:
+  min_minutes: 450
+
+  # Raw season totals carried into the features table for display only.
+  # They are NOT model features.
+  keep_as_is_stats: [matches, starts, minutes, goals, assists]
+
+  # Season totals converted to "<name>_p90" = total / (minutes / 90).
+  per90_stats:
+    # shooting / scoring
+    - goals
+    - np_goals
+    - npxg
+    - assists
+    - xag
+    - shots
+    - shots_on_target
+    # chance creation
+    - key_passes
+    - sca
+    - gca
+    # passing
+    - passes_attempted
+    - passes_final_third
+    - passes_penalty_area
+    - prog_passes
+    - prog_passes_received
+    - pass_prog_dist
+    - through_balls
+    - switches
+    - crosses
+    - crosses_penalty_area
+    # possession / carrying
+    - touches
+    - touches_att_third
+    - touches_att_pen
+    - carries
+    - prog_carries
+    - carries_final_third
+    - carries_penalty_area
+    - takeons_attempted
+    - takeons_won
+    - dispossessed
+    - miscontrols
+    # defending
+    - tackles
+    - tackles_won
+    - interceptions
+    - blocks
+    - clearances
+    - recoveries
+    - aerials_won
+    - fouls_committed
+    - fouls_drawn
+    # goalkeeper
+    - gk_def_actions_outside_pen
+
+  # feature name -> [numerator, denominator]. Names ending in _pct / _share are
+  # scaled to 0-100. Each ratio is smoothed toward its position group's pooled
+  # rate: (num + k*prior) / (den + k), so 0 attempts gives the group average and
+  # 1-for-1 doesn't give 100%. k = ratio_prior_strength.
+  ratio_prior_strength: 10
+  ratios:
+    pass_completion_pct: [passes_completed, passes_attempted]
+    takeon_success_pct: [takeons_won, takeons_attempted]
+    shot_accuracy_pct: [shots_on_target, shots]
+    tackle_success_pct: [tackles_won, tackles]
+    aerial_win_pct: [aerials_won, aerials_contested]
+    challenge_success_pct: [challenges_won, challenges_attempted]
+    high_tackle_share: [tackles_mid_att_third, tackles]
+    prog_pass_share: [prog_passes, passes_completed]
+    prog_carry_share: [prog_carries, carries]
+    npxg_per_shot: [npxg, shots]
+    gk_save_pct: [gk_saves, gk_shots_on_target_against]
+    gk_cross_stop_pct: [gk_crosses_stopped, gk_crosses_faced]
+
+modeling:
+  k_range: [2, 10]
+  random_state: 42
+  kmeans_n_init: 20
+  # Chosen K per position group (evaluation in data/processed/<season>/kmeans_evaluation.csv).
+  # Silhouette alone always favours K=2 (the single biggest split), so K is the
+  # largest value whose clusters are reproducible across random seeds
+  # (stability ARI >= 0.90; goalkeepers, with only 6 features, >= 0.95) with no
+  # cluster under 5% of the group, and whose clusters show distinct feature
+  # profiles. Chosen without reference to any individual player's assignment.
+  #   GK  K=2: ARI 0.97 (K=3 is 0.90, K=4 0.76); silhouette 0.18
+  #   DEF K=5: ARI 0.96 (K=6 drops to 0.83);       silhouette 0.12
+  #   MID K=4: ARI 0.97 (K=5 drops to 0.82);       silhouette 0.15
+  #   FWD K=5: ARI 0.95 (K=6 drops to 0.87);       silhouette 0.13
+  chosen_k:
+    GK: 2
+    DEF: 5
+    MID: 4
+    FWD: 5
+
+  # log1p is applied per position group to features that are non-negative, have
+  # skewness > log1p_skew_threshold within that group, and where log1p lowers the
+  # skewness. Chosen from the 2024-25 data with skewed_features() in
+  # scouting/features/engineering.py; tests/test_scaling.py re-checks this list.
+  log1p_skew_threshold: 1.0
+  log1p_features:
+    GK:
+      - gk_def_actions_outside_pen_p90
+    DEF:
+      - prog_carries_p90
+      - crosses_p90
+      - takeons_won_p90
+      - key_passes_p90
+    MID:
+      - passes_attempted_p90
+      - prog_carries_p90
+      - takeons_won_p90
+      - prog_passes_received_p90
+      - npxg_p90
+    FWD:
+      - goals_p90
+      - npxg_p90
+      - xag_p90
+      - takeons_attempted_p90
+      - prog_carries_p90
+      - crosses_p90
+      - aerials_won_p90
+      - fouls_drawn_p90
+      - tackles_p90
+      - passes_attempted_p90
+
+  # Final feature sets, keyed by pos_group (reviewed and approved). No manual feature weights are applied.
+  position_feature_lists:
+    GK:
+      - gk_save_pct
+      - gk_cross_stop_pct
+      - gk_def_actions_outside_pen_p90
+      - passes_attempted_p90
+      - pass_completion_pct
+      - pass_prog_dist_p90
+    DEF:
+      - tackles_p90
+      - tackle_success_pct
+      - high_tackle_share
+      - interceptions_p90
+      - blocks_p90
+      - clearances_p90
+      - recoveries_p90
+      - aerials_won_p90
+      - aerial_win_pct
+      - challenge_success_pct
+      - fouls_committed_p90
+      - passes_attempted_p90
+      - pass_completion_pct
+      - prog_passes_p90
+      - prog_carries_p90
+      - crosses_p90
+      - takeons_won_p90
+      - touches_att_third_p90
+      - key_passes_p90
+    MID:
+      - tackles_p90
+      - interceptions_p90
+      - recoveries_p90
+      - fouls_committed_p90
+      - passes_attempted_p90
+      - pass_completion_pct
+      - prog_passes_p90
+      - prog_pass_share
+      - key_passes_p90
+      - prog_carries_p90
+      - takeons_won_p90
+      - touches_att_third_p90
+      - prog_passes_received_p90
+      - shots_p90
+      - npxg_p90
+      - fouls_drawn_p90
+    FWD:
+      - goals_p90
+      - assists_p90
+      - npxg_p90
+      - shots_p90
+      - shot_accuracy_pct
+      - npxg_per_shot
+      - xag_p90
+      - key_passes_p90
+      - gca_p90
+      - takeons_attempted_p90
+      - takeon_success_pct
+      - prog_carries_p90
+      - prog_passes_received_p90
+      - touches_att_pen_p90
+      - crosses_p90
+      - aerials_won_p90
+      - fouls_drawn_p90
+      - tackles_p90
+      - recoveries_p90
+      - passes_attempted_p90

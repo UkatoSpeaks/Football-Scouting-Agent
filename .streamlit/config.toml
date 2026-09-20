@@ -1,0 +1,20 @@
+# Presentation theme: dark navy sidebar and hero panels, near-white content and cards, subtle green accent.
+# The Plotly charts were validated against a light surface, so the main area stays light.
+[theme]
+base = "light"
+primaryColor = "#1f9d68"
+backgroundColor = "#f4f6f9"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#0f1b2d"
+
+[theme.sidebar]
+backgroundColor = "#0f1b2d"
+secondaryBackgroundColor = "#182a44"
+textColor = "#e6ecf5"
+primaryColor = "#3ddc97"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false

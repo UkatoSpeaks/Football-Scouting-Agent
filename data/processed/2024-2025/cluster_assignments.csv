@@ -1,0 +1,1960 @@
+player_id,player_name,league,club,position,position_group,minutes,cluster_id,cluster_key
+2,Wladimiro Falcone,Serie A,Lecce,GK,GK,3420,0,GK-0
+3,Joan García,La Liga,Espanyol,GK,GK,3420,0,GK-0
+4,Dean Henderson,Premier League,Crystal Palace,GK,GK,3420,0,GK-0
+5,Bernd Leno,Premier League,Fulham,GK,GK,3420,0,GK-0
+7,Jordan Pickford,Premier League,Everton,GK,GK,3420,1,GK-1
+8,David Raya,Premier League,Arsenal,GK,GK,3420,1,GK-1
+9,Matz Sels,Premier League,Nott'ham Forest,GK,GK,3420,0,GK-0
+10,David Soria,La Liga,Getafe,GK,GK,3420,0,GK-0
+11,Mile Svilar,Serie A,Roma,GK,GK,3420,0,GK-0
+20,Sergio Herrera,La Liga,Osasuna,GK,GK,3330,1,GK-1
+22,Vanja Milinković-Savić,Serie A,Torino,GK,GK,3330,1,GK-1
+26,Zion Suzuki,Serie A,Parma,GK,GK,3314,1,GK-1
+27,Mike Maignan,Serie A,Milan,GK,GK,3294,1,GK-1
+29,Mark Flekken,Premier League,Brentford,GK,GK,3275,1,GK-1
+33,Lorenzo Montipò,Serie A,Hellas Verona,GK,GK,3240,0,GK-0
+34,Jan Oblak,La Liga,Atlético Madrid,GK,GK,3240,0,GK-0
+35,Álex Remiro,La Liga,Real Sociedad,GK,GK,3240,1,GK-1
+36,Bart Verbruggen,Premier League,Brighton,GK,GK,3240,1,GK-1
+42,Paulo Gazzaniga,La Liga,Girona,GK,GK,3195,0,GK-0
+43,Emiliano Martínez,Premier League,Aston Villa,GK,GK,3194,1,GK-1
+75,Marcin Bułka,Ligue 1,Nice,GK,GK,3060,0,GK-0
+76,Marco Carnesecchi,Serie A,Atalanta,GK,GK,3060,0,GK-0
+77,Lucas Chevalier,Ligue 1,Lille,GK,GK,3060,0,GK-0
+78,Yehvann Diouf,Ligue 1,Reims,GK,GK,3060,0,GK-0
+80,David de Gea,Serie A,Fiorentina,GK,GK,3060,0,GK-0
+81,Vicente Guaita,La Liga,Celta Vigo,GK,GK,3060,0,GK-0
+82,Gautier Larsonneur,Ligue 1,Saint-Étienne,GK,GK,3060,0,GK-0
+85,Giorgi Mamardashvili,La Liga,Valencia,GK,GK,3060,0,GK-0
+86,Alexander Nübel,Bundesliga,Stuttgart,GK,GK,3060,1,GK-1
+87,André Onana,Premier League,Manchester Utd,GK,GK,3060,0,GK-0
+88,Gerónimo Rulli,Ligue 1,Marseille,GK,GK,3060,1,GK-1
+90,Michael Zetterer,Bundesliga,Werder Bremen,GK,GK,3060,1,GK-1
+103,Alex Meret,Serie A,Napoli,GK,GK,3005,1,GK-1
+116,Michele Di Gregorio,Serie A,Juventus,GK,GK,2970,0,GK-0
+117,Yahia Fofana,Ligue 1,Angers,GK,GK,2970,0,GK-0
+118,Lucas Perri,Ligue 1,Lyon,GK,GK,2970,0,GK-0
+121,Nikola Vasilj,Bundesliga,St. Pauli,GK,GK,2969,1,GK-1
+135,Kevin Müller,Bundesliga,Heidenheim,GK,GK,2939,1,GK-1
+154,Augusto Batalla,La Liga,Rayo Vallecano,GK,GK,2880,1,GK-1
+155,Marco Bizot,Ligue 1,Brest,GK,GK,2880,1,GK-1
+156,Marko Dmitrović,La Liga,Leganés,GK,GK,2880,0,GK-0
+157,Gregor Kobel,Bundesliga,Dortmund,GK,GK,2880,1,GK-1
+158,Donovan Léon,Ligue 1,Auxerre,GK,GK,2880,1,GK-1
+159,Robert Sánchez,Premier League,Chelsea,GK,GK,2880,1,GK-1
+160,Yann Sommer,Serie A,Inter,GK,GK,2880,1,GK-1
+161,Devis Vásquez,Serie A,Empoli,GK,GK,2880,0,GK-0
+162,Robin Zentner,Bundesliga,Mainz 05,GK,GK,2880,1,GK-1
+197,Antonio Sivera,La Liga,Alavés,GK,GK,2810,1,GK-1
+202,Kepa Arrizabalaga,Premier League,Bournemouth,GK,GK,2790,0,GK-0
+203,Dominik Greif,La Liga,Mallorca,GK,GK,2790,0,GK-0
+205,Karl Jakob Hein,La Liga,Valladolid,GK,GK,2790,1,GK-1
+206,Đorđe Petrović,Ligue 1,Strasbourg,GK,GK,2790,1,GK-1
+242,Thibaut Courtois,La Liga,Real Madrid,GK,GK,2700,0,GK-0
+243,Benjamin Lecomte,Ligue 1,Montpellier,GK,GK,2700,1,GK-1
+244,Aaron Ramsdale,Premier League,Southampton,GK,GK,2700,1,GK-1
+259,Stefano Turati,Serie A,Monza,GK,GK,2676,1,GK-1
+260,Ørjan Nyland,La Liga,Sevilla,GK,GK,2673,0,GK-0
+288,Péter Gulácsi,Bundesliga,RB Leipzig,GK,GK,2631,0,GK-0
+303,Lukáš Hrádecký,Bundesliga,Leverkusen,GK,GK,2610,0,GK-0
+305,Nicola Leali,Serie A,Genoa,GK,GK,2610,0,GK-0
+307,Ivan Provedel,Serie A,Lazio,GK,GK,2610,1,GK-1
+310,José Sá,Premier League,Wolves,GK,GK,2609,0,GK-0
+335,Kamil Grabara,Bundesliga,Wolfsburg,GK,GK,2585,1,GK-1
+365,Guillaume Restes,Ligue 1,Toulouse,GK,GK,2543,0,GK-0
+373,Oliver Baumann,Bundesliga,Hoffenheim,GK,GK,2520,1,GK-1
+374,Nick Pope,Premier League,Newcastle Utd,GK,GK,2520,0,GK-0
+375,Frederik Rønnow,Bundesliga,Union Berlin,GK,GK,2520,0,GK-0
+383,Alisson,Premier League,Liverpool,GK,GK,2508,0,GK-0
+455,Mads Hermansen,Premier League,Leicester City,GK,GK,2385,1,GK-1
+468,Łukasz Skorupski,Serie A,Bologna,GK,GK,2364,1,GK-1
+489,Jasper Cillessen,La Liga,Las Palmas,GK,GK,2335,1,GK-1
+507,Ederson,Premier League,Manchester City,GK,GK,2320,1,GK-1
+517,Noah Atubolu,Bundesliga,Freiburg,GK,GK,2307,1,GK-1
+529,Kevin Trapp,Bundesliga,Eint Frankfurt,GK,GK,2295,0,GK-0
+551,Alphonse Areola,Premier League,West Ham,GK,GK,2260,1,GK-1
+558,Maduka Okoye,Serie A,Udinese,GK,GK,2250,0,GK-0
+560,Timon Weiner,Bundesliga,Holstein Kiel,GK,GK,2250,1,GK-1
+613,Guglielmo Vicario,Premier League,Tottenham,GK,GK,2160,0,GK-0
+660,Gianluigi Donnarumma,Ligue 1,Paris S-G,GK,GK,2091,0,GK-0
+723,Manuel Neuer,Bundesliga,Bayern Munich,GK,GK,1980,1,GK-1
+736,Diego Conde,La Liga,Villarreal,GK,GK,1962,0,GK-0
+788,Patrick Drewes,Bundesliga,Bochum,GK,GK,1890,1,GK-1
+790,Unai Simón,La Liga,Athletic Club,GK,GK,1890,0,GK-0
+917,Adrián,La Liga,Betis,GK,GK,1710,0,GK-0
+918,Finn Dahmen,Bundesliga,Augsburg,GK,GK,1710,1,GK-1
+919,Philipp Köhn,Ligue 1,Monaco,GK,GK,1710,0,GK-0
+945,Jean Butez,Serie A,Como,GK,GK,1666,1,GK-1
+962,Moritz Nicolas,Bundesliga,Gladbach,GK,GK,1639,1,GK-1
+979,Elia Caprile,Serie A,Cagliari,GK,GK,1945,1,GK-1
+980,Arthur Desmas,Ligue 1,Le Havre,GK,GK,1620,0,GK-0
+981,Arijanet Muric,Premier League,Ipswich Town,GK,GK,1620,1,GK-1
+1026,Anthony Lopes,Ligue 1,Nantes,GK,GK,1563,0,GK-0
+1051,Brice Samba,Ligue 1,Rennes,GK,GK,2879,1,GK-1
+1075,Steve Mandanda,Ligue 1,Rennes,GK,GK,1486,0,GK-0
+1087,Luiz Lúcio Reis Júnior,La Liga,Villarreal,GK,GK,1458,0,GK-0
+1099,Mathieu Gorgelin,Ligue 1,Le Havre,GK,GK,1440,0,GK-0
+1131,Iñaki Peña,La Liga,Barcelona,GK,GK,1396,1,GK-1
+1157,Filip Stankovic,Serie A,Venezia,GK,GK,1367,0,GK-0
+1166,Nediljko Labrović,Bundesliga,Augsburg,GK,GK,1350,1,GK-1
+1167,Radosław Majecki,Ligue 1,Monaco,GK,GK,1350,0,GK-0
+1168,Ionuț Radu,Serie A,Venezia,GK,GK,1350,0,GK-0
+1169,Rui Silva,La Liga,Betis,GK,GK,1350,0,GK-0
+1170,Wojciech Szczęsny,La Liga,Barcelona,GK,GK,1350,0,GK-0
+1224,Mathew Ryan,Ligue 1,Lens,GK,GK,1260,0,GK-0
+1266,Julen Agirrezabala,La Liga,Athletic Club,GK,GK,1206,0,GK-0
+1294,Timo Horn,Bundesliga,Bochum,GK,GK,1170,1,GK-1
+1295,Alex Palmer,Premier League,Ipswich Town,GK,GK,1170,0,GK-0
+1296,Simone Scuffet,Serie A,Cagliari,GK,GK,1260,0,GK-0
+1305,Łukasz Fabiański,Premier League,West Ham,GK,GK,1160,1,GK-1
+1371,Stefan Ortega,Premier League,Manchester City,GK,GK,1100,0,GK-0
+1385,Dinko Horkaš,La Liga,Las Palmas,GK,GK,1085,1,GK-1
+1390,Alban Lafont,Ligue 1,Nantes,GK,GK,1080,0,GK-0
+1391,Razvan Sava,Serie A,Udinese,GK,GK,1080,0,GK-0
+1414,Federico Ravaglia,Serie A,Bologna,GK,GK,1056,1,GK-1
+1438,Pepe Reina,Serie A,Como,GK,GK,1034,0,GK-0
+1482,Jonas Omlin,Bundesliga,Gladbach,GK,GK,978,1,GK-1
+1550,Martin Dúbravka,Premier League,Newcastle Utd,GK,GK,900,0,GK-0
+1551,Caoimhín Kelleher,Premier League,Liverpool,GK,GK,900,0,GK-0
+1555,Jakub Stolarczyk,Premier League,Leicester City,GK,GK,900,0,GK-0
+1566,Matvei Safonov,Ligue 1,Paris S-G,GK,GK,879,0,GK-0
+1626,Thomas Dähne,Bundesliga,Holstein Kiel,GK,GK,810,1,GK-1
+1628,Christos Mandas,Serie A,Lazio,GK,GK,810,1,GK-1
+1661,Kauã Santos,Bundesliga,Eint Frankfurt,GK,GK,765,1,GK-1
+1681,Florian Müller,Bundesliga,Freiburg,GK,GK,753,1,GK-1
+1686,Álvaro Fernández,La Liga,Sevilla,GK,GK,747,1,GK-1
+1695,Semuel Pizzignacco,Serie A,Monza,GK,GK,736,1,GK-1
+1710,Emil Audero,Serie A,Como,GK,GK,720,0,GK-0
+1711,Jonas Urbig,Bundesliga,Bayern Munich,GK,GK,720,1,GK-1
+1725,Jesse Joronen,Serie A,Venezia,GK,GK,703,0,GK-0
+1749,Marc-André ter Stegen,La Liga,Barcelona,GK,GK,674,1,GK-1
+1783,Fraser Forster,Premier League,Tottenham,GK,GK,630,0,GK-0
+1784,Pierluigi Gollini,Serie A,Genoa,GK,GK,630,1,GK-1
+1785,Sam Johnstone,Premier League,Wolves,GK,GK,630,1,GK-1
+1786,Andriy Lunin,La Liga,Real Madrid,GK,GK,630,0,GK-0
+1787,Leo Román,La Liga,Mallorca,GK,GK,630,0,GK-0
+1789,Christian Walton,Premier League,Ipswich Town,GK,GK,630,1,GK-1
+1796,Alen Sherri,Serie A,Cagliari,GK,GK,621,0,GK-0
+1859,Dani Cárdenas,La Liga,Rayo Vallecano,GK,GK,540,0,GK-0
+1861,André Ferreira,La Liga,Valladolid,GK,GK,540,0,GK-0
+1863,Filip Jørgensen,Premier League,Chelsea,GK,GK,540,0,GK-0
+1864,Antonín Kinský,Premier League,Tottenham,GK,GK,540,0,GK-0
+1865,Luca Philipp,Bundesliga,Hoffenheim,GK,GK,540,0,GK-0
+1866,Alexander Schwolow,Bundesliga,Union Berlin,GK,GK,540,0,GK-0
+1867,Juan Soriano,La Liga,Leganés,GK,GK,540,0,GK-0
+1899,Kjetil Haug,Ligue 1,Toulouse,GK,GK,498,0,GK-0
+1910,Jesús Owono,La Liga,Alavés,GK,GK,487,1,GK-1
+1919,Marius Müller,Bundesliga,Wolfsburg,GK,GK,475,1,GK-1
+1941,Hervé Koffi,Ligue 1,Lens,GK,GK,450,0,GK-0
+1942,Matej Kovar,Bundesliga,Leverkusen,GK,GK,450,0,GK-0
+1943,Josep Martinez,Serie A,Inter,GK,GK,450,1,GK-1
+1944,Alex McCarthy,Premier League,Southampton,GK,GK,450,0,GK-0
+1945,Mattia Perin,Serie A,Juventus,GK,GK,450,0,GK-0
+1946,Marco Silvestri,Serie A,Empoli,GK,GK,450,0,GK-0
+1947,Mark Travers,Premier League,Bournemouth,GK,GK,450,0,GK-0
+0,Federico Baschirotto,Serie A,Lecce,DF,DEF,3420,0,DEF-0
+1,Nathan Collins,Premier League,Brentford,DF,DEF,3420,0,DEF-0
+6,Obite N'Dicka,Serie A,Roma,DF,DEF,3420,2,DEF-2
+13,Amir Rrahmani,Serie A,Napoli,DF,DEF,3406,2,DEF-2
+16,Max Kilman,Premier League,West Ham,DF,DEF,3348,0,DEF-0
+17,Milos Kerkez,Premier League,Bournemouth,DF,DEF,3336,3,DEF-3
+18,Dan Burn,Premier League,Newcastle Utd,DF,DEF,3330,0,DEF-0
+19,Giovanni Di Lorenzo,Serie A,Napoli,DF,DEF,3330,1,DEF-1
+21,Nikola Milenković,Premier League,Nott'ham Forest,DF,DEF,3330,0,DEF-0
+23,Virgil van Dijk,Premier League,Liverpool,DF,DEF,3330,2,DEF-2
+24,Florian Lejeune,La Liga,Rayo Vallecano,DF,DEF,3325,0,DEF-0
+25,Cristhian Mosquera,La Liga,Valencia,DF,DEF,3319,2,DEF-2
+28,Joško Gvardiol,Premier League,Manchester City,DF,DEF,3277,3,DEF-3
+32,Sebastiano Luperto,Serie A,Cagliari,DF,DEF,3240,0,DEF-0
+37,Daniel Muñoz,Premier League,Crystal Palace,DF,DEF,3228,4,DEF-4
+38,Emmanuel Gyasi,Serie A,Empoli,"DF,FW",DEF,3217,1,DEF-1
+39,Antonio Raillo,La Liga,Mallorca,DF,DEF,3207,0,DEF-0
+45,Murillo,Premier League,Nott'ham Forest,DF,DEF,3188,0,DEF-0
+47,Angeliño,Serie A,Roma,DF,DEF,3177,3,DEF-3
+48,Antonee Robinson,Premier League,Fulham,DF,DEF,3167,4,DEF-4
+49,Jackson Tchatchoua,Serie A,Hellas Verona,"DF,MF",DEF,3167,1,DEF-1
+51,Aaron Wan-Bissaka,Premier League,West Ham,DF,DEF,3154,3,DEF-3
+52,Omar El Hilali,La Liga,Espanyol,DF,DEF,3153,4,DEF-4
+53,Levi Colwill,Premier League,Chelsea,DF,DEF,3149,2,DEF-2
+54,Gianluca Mancini,Serie A,Roma,DF,DEF,3143,2,DEF-2
+56,Jay Idzes,Serie A,Venezia,DF,DEF,3127,0,DEF-0
+58,Dara O'Shea,Premier League,Ipswich Town,DF,DEF,3122,0,DEF-0
+59,Maxence Lacroix,Premier League,Crystal Palace,DF,DEF,3116,0,DEF-0
+61,Rayan Aït-Nouri,Premier League,Wolves,DF,DEF,3109,3,DEF-3
+62,Illia Zabarnyi,Premier League,Bournemouth,DF,DEF,3109,2,DEF-2
+64,Keane Lewis-Potter,Premier League,Brentford,"DF,FW",DEF,3093,1,DEF-1
+66,Tyrick Mitchell,Premier League,Crystal Palace,DF,DEF,3092,1,DEF-1
+68,Aarón Martín,Serie A,Genoa,DF,DEF,3085,1,DEF-1
+69,Vitaliy Mykolenko,Premier League,Everton,DF,DEF,3082,1,DEF-1
+70,Jesús Areso,La Liga,Osasuna,DF,DEF,3079,1,DEF-1
+71,Calvin Bassey,Premier League,Fulham,DF,DEF,3074,2,DEF-2
+72,Catena,La Liga,Osasuna,DF,DEF,3074,0,DEF-0
+73,Andrei Ratiu,La Liga,Rayo Vallecano,DF,DEF,3065,3,DEF-3
+79,Danilho Doekhi,Bundesliga,Union Berlin,DF,DEF,3060,0,DEF-0
+83,Jordan Lefort,Ligue 1,Angers,DF,DEF,3060,0,DEF-0
+84,Patrick Mainka,Bundesliga,Heidenheim,DF,DEF,3060,0,DEF-0
+89,Gabriele Zappa,Serie A,Cagliari,DF,DEF,3060,1,DEF-1
+91,Marc Guéhi,Premier League,Crystal Palace,DF,DEF,3059,0,DEF-0
+95,Johan Vásquez,Serie A,Genoa,DF,DEF,3041,0,DEF-0
+96,William Saliba,Premier League,Arsenal,DF,DEF,3039,2,DEF-2
+98,César Tárrega,La Liga,Valencia,DF,DEF,3026,0,DEF-0
+100,Dodô,Serie A,Fiorentina,DF,DEF,3025,3,DEF-3
+102,Sam Beukema,Serie A,Bologna,DF,DEF,3012,2,DEF-2
+104,Ola Aina,Premier League,Nott'ham Forest,DF,DEF,2995,1,DEF-1
+106,Marc Cucurella,Premier League,Chelsea,DF,DEF,2988,1,DEF-1
+107,Enzo Boyomo,La Liga,Osasuna,DF,DEF,3257,0,DEF-0
+109,Luca Ranieri,Serie A,Fiorentina,DF,DEF,2981,0,DEF-0
+114,Marash Kumbulla,La Liga,Espanyol,DF,DEF,2972,0,DEF-0
+115,Omar Alderete,La Liga,Getafe,DF,DEF,2971,0,DEF-0
+119,Jonathan Tah,Bundesliga,Leverkusen,DF,DEF,2970,2,DEF-2
+120,Hauke Wahl,Bundesliga,St. Pauli,DF,DEF,2970,2,DEF-2
+123,Jaka Bijol,Serie A,Udinese,DF,DEF,2963,0,DEF-0
+126,Jan Paul van Hecke,Premier League,Brighton,DF,DEF,2958,2,DEF-2
+127,Sergi,La Liga,Leganés,DF,DEF,2957,0,DEF-0
+130,Enrico Del Prato,Serie A,Parma,DF,DEF,2947,0,DEF-0
+132,Sergi Cardona,La Liga,Villarreal,DF,DEF,2945,4,DEF-4
+133,Jeffrey Gouweleeuw,Bundesliga,Augsburg,DF,DEF,2944,2,DEF-2
+134,Carmona,La Liga,Sevilla,DF,DEF,2942,4,DEF-4
+137,Ezri Konsa,Premier League,Aston Villa,DF,DEF,2936,2,DEF-2
+138,Fabian Schär,Premier League,Newcastle Utd,DF,DEF,2934,2,DEF-2
+139,Diego Coppola,Serie A,Hellas Verona,DF,DEF,2927,0,DEF-0
+140,James Tarkowski,Premier League,Everton,DF,DEF,2922,0,DEF-0
+141,Nahuel Tenaglia,La Liga,Alavés,DF,DEF,2922,4,DEF-4
+143,Kyle Walker-Peters,Premier League,Southampton,DF,DEF,2918,3,DEF-3
+144,James Justin,Premier League,Leicester City,DF,DEF,2912,1,DEF-1
+148,Iglesias,La Liga,Getafe,DF,DEF,2888,1,DEF-1
+150,Nélson Semedo,Premier League,Wolves,DF,DEF,2886,1,DEF-1
+164,Giuseppe Pezzella,Serie A,Empoli,"DF,FW",DEF,2878,1,DEF-1
+166,Emanuele Valeri,Serie A,Parma,DF,DEF,2873,1,DEF-1
+167,Leandro Cabrera,La Liga,Espanyol,DF,DEF,2869,0,DEF-0
+168,Mitchell Weiser,Bundesliga,Werder Bremen,"DF,MF",DEF,2868,3,DEF-3
+177,Saúl Coco,Serie A,Torino,DF,DEF,2845,0,DEF-0
+179,Giorgos Kyriakopoulos,Serie A,Monza,DF,DEF,2845,1,DEF-1
+182,Valentino Livramento,Premier League,Newcastle Utd,DF,DEF,2840,3,DEF-3
+184,Noussair Mazraoui,Premier League,Manchester Utd,DF,DEF,2838,4,DEF-4
+187,Eric Smith,Bundesliga,St. Pauli,"DF,MF",DEF,2827,1,DEF-1
+188,Taylor Harwood-Bellis,Premier League,Southampton,DF,DEF,2825,2,DEF-2
+194,Diego Rico,La Liga,Getafe,DF,DEF,2819,4,DEF-4
+195,Wout Faes,Premier League,Leicester City,DF,DEF,2815,0,DEF-0
+196,Diogo Dalot,Premier League,Manchester Utd,DF,DEF,2814,4,DEF-4
+204,Ko Itakura,Bundesliga,Gladbach,DF,DEF,2790,0,DEF-0
+207,Daley Blind,La Liga,Girona,DF,DEF,2780,2,DEF-2
+209,Philipp Lienhart,Bundesliga,Freiburg,DF,DEF,2770,2,DEF-2
+211,Gautier Lloris,Ligue 1,Le Havre,DF,DEF,2768,0,DEF-0
+213,Bafodé Diakité,Ligue 1,Lille,DF,DEF,2766,2,DEF-2
+214,Martin Valjent,La Liga,Mallorca,DF,DEF,2763,0,DEF-0
+216,Johan Mojica,La Liga,Mallorca,DF,DEF,2755,3,DEF-3
+217,Adrien Truffert,Ligue 1,Rennes,"DF,MF",DEF,2752,3,DEF-3
+220,Leif Davis,Premier League,Ipswich Town,DF,DEF,2743,1,DEF-1
+221,Mario Gila,Serie A,Lazio,DF,DEF,2741,2,DEF-2
+231,Moussa Niakhate,Ligue 1,Lyon,DF,DEF,2726,2,DEF-2
+234,Guela Doué,Ligue 1,Strasbourg,DF,DEF,2717,4,DEF-4
+237,Tommaso Augello,Serie A,Cagliari,DF,DEF,2713,3,DEF-3
+238,Nadir Zortea,Serie A,Cagliari,"DF,MF",DEF,2713,1,DEF-1
+240,Maximilian Wittek,Bundesliga,Bochum,DF,DEF,2706,4,DEF-4
+241,Arthur Theate,Bundesliga,Eint Frankfurt,DF,DEF,2704,2,DEF-2
+245,Alexsandro Ribeiro,Ligue 1,Lille,DF,DEF,2700,2,DEF-2
+247,Theo Hernández,Serie A,Milan,DF,DEF,2696,3,DEF-3
+251,Aron Dønnum,Ligue 1,Toulouse,"DF,MF",DEF,2689,3,DEF-3
+252,Aurélien Tchouaméni,La Liga,Real Madrid,"DF,MF",DEF,2689,2,DEF-2
+254,Loïc Bade,La Liga,Sevilla,DF,DEF,2686,0,DEF-0
+255,Kenny Lala,Ligue 1,Brest,DF,DEF,2686,3,DEF-3
+257,Anthony Caci,Bundesliga,Mainz 05,DF,DEF,2684,3,DEF-3
+261,Florent Hanin,Ligue 1,Angers,DF,DEF,2672,1,DEF-1
+262,Alessio Romagnoli,Serie A,Lazio,DF,DEF,2672,0,DEF-0
+263,Benedikt Gimber,Bundesliga,Heidenheim,DF,DEF,2671,0,DEF-0
+264,Piero Hincapié,Bundesliga,Leverkusen,DF,DEF,2670,2,DEF-2
+268,Pedro Pereira,Serie A,Monza,DF,DEF,2665,1,DEF-1
+275,Dimitris Giannoulis,Bundesliga,Augsburg,DF,DEF,2650,3,DEF-3
+280,Marcos Alonso,La Liga,Celta Vigo,DF,DEF,2647,2,DEF-2
+281,Berat Djimsiti,Serie A,Atalanta,DF,DEF,2640,0,DEF-0
+282,Jubal,Ligue 1,Auxerre,DF,DEF,2640,0,DEF-0
+283,Ismaël Doukouré,Ligue 1,Strasbourg,"DF,MF",DEF,2639,2,DEF-2
+284,Álex Grimaldo,Bundesliga,Leverkusen,DF,DEF,2636,3,DEF-3
+286,Léo Pétrot,Ligue 1,Saint-Étienne,DF,DEF,2634,4,DEF-4
+287,Manu Sánchez,La Liga,Alavés,DF,DEF,2634,1,DEF-1
+290,Arnau Martinez,La Liga,Girona,"DF,MF",DEF,2624,3,DEF-3
+291,Jean-Charles Castelletto,Ligue 1,Nantes,"DF,MF",DEF,2620,0,DEF-0
+293,Pau Cubarsí,La Liga,Barcelona,DF,DEF,2618,2,DEF-2
+295,Omar Traoré,Bundesliga,Heidenheim,DF,DEF,2616,1,DEF-1
+297,Marc-Oliver Kempf,Serie A,Como,DF,DEF,2615,0,DEF-0
+299,Toti Gomes,Premier League,Wolves,DF,DEF,2614,2,DEF-2
+300,Jhon Lucumí,Serie A,Bologna,DF,DEF,2614,2,DEF-2
+302,Luis Henrique,Ligue 1,Marseille,"DF,FW",DEF,2613,3,DEF-3
+306,Pedro Porro,Premier League,Tottenham,DF,DEF,2610,3,DEF-3
+309,Antonino Gallo,Serie A,Lecce,DF,DEF,2609,1,DEF-1
+312,Daniel Vivian,La Liga,Athletic Club,DF,DEF,2608,2,DEF-2
+313,Phillipp Mwene,Bundesliga,Mainz 05,DF,DEF,2607,1,DEF-1
+314,Jules Koundé,La Liga,Barcelona,DF,DEF,2605,3,DEF-3
+322,Valentin Rosier,La Liga,Leganés,DF,DEF,2595,4,DEF-4
+323,Neco Williams,Premier League,Nott'ham Forest,DF,DEF,2594,4,DEF-4
+325,Charlie Cresswell,Ligue 1,Toulouse,DF,DEF,2592,0,DEF-0
+329,Logan Costa,La Liga,Villarreal,DF,DEF,2677,2,DEF-2
+331,Sepp van den Berg,Premier League,Brentford,DF,DEF,2586,0,DEF-0
+332,Robin Koch,Bundesliga,Eint Frankfurt,DF,DEF,2586,0,DEF-0
+334,Pep Chavarría,La Liga,Rayo Vallecano,"DF,FW",DEF,2585,1,DEF-1
+337,Joachim Andersen,Premier League,Fulham,DF,DEF,2673,0,DEF-0
+341,Joe Scally,Bundesliga,Gladbach,DF,DEF,2578,1,DEF-1
+344,Mattia Viti,Serie A,Empoli,DF,DEF,2572,0,DEF-0
+345,Yerry Mina,Serie A,Cagliari,DF,DEF,2569,0,DEF-0
+346,Diego Moreira,Ligue 1,Strasbourg,"DF,MF",DEF,2568,3,DEF-3
+352,Matthias Ginter,Bundesliga,Freiburg,DF,DEF,2561,0,DEF-0
+354,Ibrahima Konaté,Premier League,Liverpool,DF,DEF,2560,2,DEF-2
+357,Luis Pérez,La Liga,Valladolid,DF,DEF,2558,1,DEF-1
+359,Carlos Romero,La Liga,Espanyol,DF,DEF,2554,1,DEF-1
+360,Chrislain Matsima,Bundesliga,Augsburg,DF,DEF,2551,0,DEF-0
+361,Djené,La Liga,Getafe,"DF,MF",DEF,2548,1,DEF-1
+362,Diogo Leite,Bundesliga,Union Berlin,DF,DEF,2546,0,DEF-0
+364,Facundo Medina,Ligue 1,Lens,DF,DEF,2543,2,DEF-2
+368,Saba Goglichidze,Serie A,Empoli,DF,DEF,2539,1,DEF-1
+369,Edoardo Goldaniga,Serie A,Como,DF,DEF,2532,0,DEF-0
+370,Jan Bednarek,Premier League,Southampton,DF,DEF,2531,0,DEF-0
+372,Sergio Akieme,Ligue 1,Reims,DF,DEF,2523,1,DEF-1
+376,Diego Llorente,La Liga,Betis,DF,DEF,2519,0,DEF-0
+378,Javi Rodríguez,La Liga,Celta Vigo,DF,DEF,2514,2,DEF-2
+379,Rasmus Kristensen,Bundesliga,Eint Frankfurt,DF,DEF,2513,4,DEF-4
+380,Marcos Llorente,La Liga,Atlético Madrid,"DF,MF",DEF,2513,3,DEF-3
+381,Jarrad Branthwaite,Premier League,Everton,DF,DEF,2511,0,DEF-0
+384,Ardian Ismajli,Serie A,Empoli,DF,DEF,2508,0,DEF-0
+385,Edmond Tapsoba,Bundesliga,Leverkusen,DF,DEF,2507,2,DEF-2
+388,Kingsley Ehizibue,Serie A,Udinese,DF,DEF,2498,1,DEF-1
+390,Mark McKenzie,Ligue 1,Toulouse,DF,DEF,2496,0,DEF-0
+396,Iñigo Martínez,La Liga,Barcelona,DF,DEF,2490,2,DEF-2
+398,Clément Akpa,Ligue 1,Auxerre,DF,DEF,2486,0,DEF-0
+401,Victor Bernth Kristiansen,Premier League,Leicester City,DF,DEF,2482,1,DEF-1
+402,Andrew Robertson,Premier League,Liverpool,DF,DEF,2482,3,DEF-3
+407,Mikael Ellertsson,Serie A,Venezia,"DF,MF",DEF,2470,1,DEF-1
+409,Maximilian Mittelstädt,Bundesliga,Stuttgart,DF,DEF,2469,4,DEF-4
+410,Konstantinos Koulierakis,Bundesliga,Wolfsburg,DF,DEF,2468,0,DEF-0
+412,Scott McKenna,La Liga,Las Palmas,DF,DEF,2466,0,DEF-0
+413,Abdel Abqar,La Liga,Alavés,DF,DEF,2463,0,DEF-0
+414,Denis Vavro,Bundesliga,Wolfsburg,DF,DEF,2461,0,DEF-0
+415,Jon Aramburu,La Liga,Real Sociedad,DF,DEF,2460,4,DEF-4
+416,Álex Suárez,La Liga,Las Palmas,DF,DEF,2460,0,DEF-0
+417,Loïc Nego,Ligue 1,Le Havre,"DF,FW",DEF,2459,1,DEF-1
+418,Miguel Gutiérrez,La Liga,Girona,"DF,MF",DEF,2458,3,DEF-3
+421,Timo Becker,Bundesliga,Holstein Kiel,DF,DEF,2445,1,DEF-1
+422,Ladislav Krejčí,La Liga,Girona,DF,DEF,2440,2,DEF-2
+423,Michael Amir Murillo,Ligue 1,Marseille,DF,DEF,2437,2,DEF-2
+426,Frederic Guilbert,Serie A,Lecce,DF,DEF,2435,4,DEF-4
+427,Armando Izzo,Serie A,Monza,DF,DEF,2435,0,DEF-0
+429,Robin Gosens,Serie A,Fiorentina,DF,DEF,2524,1,DEF-1
+432,David López,La Liga,Girona,DF,DEF,2429,2,DEF-2
+433,Dean Huijsen,Premier League,Bournemouth,DF,DEF,2427,2,DEF-2
+439,Jurriën Timber,Premier League,Arsenal,DF,DEF,2417,3,DEF-3
+440,Brendan Chardonnet,Ligue 1,Brest,DF,DEF,2416,0,DEF-0
+444,Raoul Bellanova,Serie A,Atalanta,DF,DEF,2489,3,DEF-3
+445,Pervis Estupiñán,Premier League,Brighton,DF,DEF,2402,4,DEF-4
+449,Mika Mármol,La Liga,Las Palmas,DF,DEF,2399,4,DEF-4
+453,Javi Hernández,La Liga,Leganés,DF,DEF,2389,1,DEF-1
+457,Thilo Kehrer,Ligue 1,Monaco,DF,DEF,2383,2,DEF-2
+463,Clinton Mata,Ligue 1,Lyon,DF,DEF,2370,2,DEF-2
+464,Mathías Olivera,Serie A,Napoli,DF,DEF,2370,4,DEF-4
+465,Pablo Maffeo,La Liga,Mallorca,DF,DEF,2368,1,DEF-1
+466,Trent Alexander-Arnold,Premier League,Liverpool,DF,DEF,2365,3,DEF-3
+467,Mamadou Sarr,Ligue 1,Strasbourg,DF,DEF,2365,0,DEF-0
+469,Gabriel Magalhães,Premier League,Arsenal,DF,DEF,2363,2,DEF-2
+472,Lorenz Assignon,Ligue 1,Rennes,"DF,MF",DEF,2357,3,DEF-3
+476,Lucas Digne,Premier League,Aston Villa,DF,DEF,2351,1,DEF-1
+484,Guillermo Maripán,Serie A,Torino,DF,DEF,2340,0,DEF-0
+487,Pierre Kalulu,Serie A,Juventus,DF,DEF,2337,2,DEF-2
+488,Adam Marušić,Serie A,Lazio,DF,DEF,2337,1,DEF-1
+491,Felix Passlack,Bundesliga,Bochum,"DF,MF",DEF,2334,1,DEF-1
+492,Alessandro Bastoni,Serie A,Inter,DF,DEF,2333,2,DEF-2
+499,Isak Hien,Serie A,Atalanta,DF,DEF,2327,0,DEF-0
+508,Etienne Youte Kinkoue,Ligue 1,Le Havre,DF,DEF,2320,0,DEF-0
+511,Jeremie Frimpong,Bundesliga,Leverkusen,"DF,MF",DEF,2314,3,DEF-3
+512,Christian Günter,Bundesliga,Freiburg,DF,DEF,2314,1,DEF-1
+519,Valentino Lazaro,Serie A,Torino,"DF,FW",DEF,2307,1,DEF-1
+521,Mickael Nade,Ligue 1,Saint-Étienne,DF,DEF,2306,0,DEF-0
+523,Jonathan Clauss,Ligue 1,Nice,"DF,MF",DEF,2303,3,DEF-3
+524,Dimitri Foulquier,La Liga,Valencia,DF,DEF,2299,1,DEF-1
+526,Adrià Pedrosa,La Liga,Sevilla,DF,DEF,2298,1,DEF-1
+527,Kilian Fischer,Bundesliga,Wolfsburg,DF,DEF,2297,1,DEF-1
+528,Dominik Kohr,Bundesliga,Mainz 05,"DF,MF",DEF,2295,4,DEF-4
+534,Antonio Rüdiger,La Liga,Real Madrid,DF,DEF,2291,2,DEF-2
+536,Alejandro Balde,La Liga,Barcelona,DF,DEF,2284,3,DEF-3
+537,Kim Min-jae,Bundesliga,Bayern Munich,DF,DEF,2283,2,DEF-2
+538,Gideon Mensah,Ligue 1,Auxerre,DF,DEF,2280,4,DEF-4
+540,Juan Miranda,Serie A,Bologna,DF,DEF,2277,3,DEF-3
+542,Tuta,Bundesliga,Eint Frankfurt,"DF,MF",DEF,2274,0,DEF-0
+543,Leonardo Balerdi,Ligue 1,Marseille,DF,DEF,2273,2,DEF-2
+545,Rúben Dias,Premier League,Manchester City,DF,DEF,2271,2,DEF-2
+546,Carl Starfelt,La Liga,Celta Vigo,DF,DEF,2270,0,DEF-0
+547,Julian Chabot,Bundesliga,Stuttgart,DF,DEF,2269,2,DEF-2
+549,Igor Zubeldia,La Liga,Real Sociedad,DF,DEF,2269,0,DEF-0
+552,Julian Ryerson,Bundesliga,Dortmund,DF,DEF,2259,3,DEF-3
+555,Zeki Çelik,Serie A,Roma,DF,DEF,2256,1,DEF-1
+563,Kike Salas,La Liga,Sevilla,DF,DEF,2238,0,DEF-0
+568,Kiko Femenía,La Liga,Villarreal,DF,DEF,2227,3,DEF-3
+574,Willi Orban,Bundesliga,RB Leipzig,DF,DEF,2222,0,DEF-0
+575,Andrea Cambiaso,Serie A,Juventus,"DF,FW",DEF,2221,3,DEF-3
+576,Kevin Akpoguma,Bundesliga,Hoffenheim,DF,DEF,2220,0,DEF-0
+578,Tim Oermann,Bundesliga,Bochum,DF,DEF,2213,1,DEF-1
+581,Jacob Greaves,Premier League,Ipswich Town,DF,DEF,2205,0,DEF-0
+588,Federico Gatti,Serie A,Juventus,DF,DEF,2195,2,DEF-2
+590,Moïse Bombito,Ligue 1,Nice,DF,DEF,2192,2,DEF-2
+592,Andrea Carboni,Serie A,Monza,DF,DEF,2191,0,DEF-0
+593,Cédric Kipré,Ligue 1,Reims,DF,DEF,2190,0,DEF-0
+594,Lewis Hall,Premier League,Newcastle Utd,DF,DEF,2189,3,DEF-3
+595,Lucas Vázquez,La Liga,Real Madrid,DF,DEF,2189,3,DEF-3
+596,Joakim Mæhle,Bundesliga,Wolfsburg,DF,DEF,2188,3,DEF-3
+597,Arthur Chaves,Bundesliga,Hoffenheim,DF,DEF,2185,0,DEF-0
+602,Natan,La Liga,Betis,DF,DEF,2175,0,DEF-0
+604,Fran Garcia,La Liga,Real Madrid,DF,DEF,2171,3,DEF-3
+607,Kelvin Amian,Ligue 1,Nantes,DF,DEF,2165,1,DEF-1
+609,Gabriel Suazo,Ligue 1,Toulouse,DF,DEF,2163,3,DEF-3
+612,Marco Friedl,Bundesliga,Werder Bremen,DF,DEF,2161,0,DEF-0
+615,Matteo Gabbia,Serie A,Milan,DF,DEF,2152,0,DEF-0
+617,Robin Le Normand,La Liga,Atlético Madrid,DF,DEF,2151,0,DEF-0
+621,Kialonda,Serie A,Lecce,DF,DEF,2144,0,DEF-0
+622,Marius Wolf,Bundesliga,Augsburg,DF,DEF,2144,3,DEF-3
+625,Modibo Sagnan,Ligue 1,Montpellier,DF,DEF,2141,0,DEF-0
+627,Federico Dimarco,Serie A,Inter,"DF,FW",DEF,2140,3,DEF-3
+628,David Nemeth,Bundesliga,St. Pauli,DF,DEF,2137,0,DEF-0
+629,Koni De Winter,Serie A,Genoa,DF,DEF,2135,0,DEF-0
+630,Nico Elvedi,Bundesliga,Gladbach,DF,DEF,2135,0,DEF-0
+632,Willian Pacho,Ligue 1,Paris S-G,DF,DEF,2132,2,DEF-2
+633,Dennis Appiah,Ligue 1,Saint-Étienne,DF,DEF,2128,4,DEF-4
+634,Ki-Jana Hoever,Ligue 1,Auxerre,DF,DEF,2124,1,DEF-1
+635,Matthijs de Ligt,Premier League,Manchester Utd,DF,DEF,2123,0,DEF-0
+640,Emerson Palmieri,Premier League,West Ham,DF,DEF,2113,1,DEF-1
+641,Jonathan Gradit,Ligue 1,Lens,DF,DEF,2112,2,DEF-2
+642,Pietro Comuzzo,Serie A,Fiorentina,DF,DEF,2110,0,DEF-0
+644,Matija Nastasić,La Liga,Leganés,DF,DEF,2110,0,DEF-0
+647,Matt Doherty,Premier League,Wolves,DF,DEF,2109,2,DEF-2
+651,Niklas Stark,Bundesliga,Werder Bremen,DF,DEF,2106,0,DEF-0
+652,Emre Can,Bundesliga,Dortmund,"DF,MF",DEF,2105,2,DEF-2
+654,Djibril Sidibé,Ligue 1,Toulouse,DF,DEF,2101,1,DEF-1
+655,Marc Bartra,La Liga,Betis,DF,DEF,2099,0,DEF-0
+658,Wilfried Singo,Ligue 1,Monaco,DF,DEF,2096,2,DEF-2
+662,Lewis Dunk,Premier League,Brighton,DF,DEF,2083,2,DEF-2
+667,Abel,La Liga,Osasuna,DF,DEF,2074,4,DEF-4
+668,Matty Cash,Premier League,Aston Villa,DF,DEF,2070,1,DEF-1
+670,Davide Zappacosta,Serie A,Atalanta,DF,DEF,2067,3,DEF-3
+671,Achraf Hakimi,Ligue 1,Paris S-G,DF,DEF,2066,3,DEF-3
+672,Vanderson,Ligue 1,Monaco,DF,DEF,2064,4,DEF-4
+675,Stefano Sabelli,Serie A,Genoa,DF,DEF,2058,1,DEF-1
+677,Botond Balogh,Serie A,Parma,DF,DEF,2053,0,DEF-0
+678,Nicolas Cozza,Ligue 1,Nantes,"DF,MF",DEF,2051,1,DEF-1
+682,Carlens Arcus,Ligue 1,Angers,DF,DEF,2047,4,DEF-4
+685,Konstantinos Mavropanos,Premier League,West Ham,DF,DEF,2045,0,DEF-0
+686,Yuri Berchiche,La Liga,Athletic Club,DF,DEF,2044,2,DEF-2
+693,Daniele Ghilardi,Serie A,Hellas Verona,DF,DEF,2029,0,DEF-0
+694,Javi Sánchez,La Liga,Valladolid,DF,DEF,2026,0,DEF-0
+695,Ramy Bensebaini,Bundesliga,Dortmund,DF,DEF,2022,4,DEF-4
+697,Geoffrey Kondogbia,Ligue 1,Marseille,"DF,MF",DEF,2020,2,DEF-2
+698,Pau Torres,Premier League,Aston Villa,DF,DEF,2020,2,DEF-2
+699,Abdul Mumin,La Liga,Rayo Vallecano,DF,DEF,2017,0,DEF-0
+700,Nicolas Pallois,Ligue 1,Nantes,DF,DEF,2017,0,DEF-0
+701,Dylan Batubinsika,Ligue 1,Saint-Étienne,DF,DEF,2016,0,DEF-0
+702,Manuel Akanji,Premier League,Manchester City,DF,DEF,2014,2,DEF-2
+705,Lucas Beraldo,Ligue 1,Paris S-G,DF,DEF,2011,2,DEF-2
+707,Danny da Costa,Bundesliga,Mainz 05,DF,DEF,2006,2,DEF-2
+710,Romain Perraud,La Liga,Betis,DF,DEF,2002,1,DEF-1
+711,Hassane Kamara,Serie A,Udinese,DF,DEF,2001,1,DEF-1
+712,José María Giménez,La Liga,Atlético Madrid,DF,DEF,1999,0,DEF-0
+718,Ainsley Maitland-Niles,Ligue 1,Lyon,DF,DEF,1985,4,DEF-4
+720,Nico Schlotterbeck,Bundesliga,Dortmund,DF,DEF,1982,2,DEF-2
+721,Viti,La Liga,Las Palmas,DF,DEF,1982,4,DEF-4
+726,Clément Lenglet,La Liga,Atlético Madrid,DF,DEF,1972,0,DEF-0
+727,Aurélio Buta,Ligue 1,Reims,DF,DEF,1970,1,DEF-1
+729,Finn Porath,Bundesliga,Holstein Kiel,"DF,MF",DEF,1970,1,DEF-1
+734,Dante,Ligue 1,Nice,DF,DEF,1964,2,DEF-2
+743,Waldemar Anton,Bundesliga,Dortmund,DF,DEF,1949,2,DEF-2
+745,Nathaniel Brown,Bundesliga,Eint Frankfurt,"DF,MF",DEF,1947,1,DEF-1
+747,Sinaly Diomande,Ligue 1,Auxerre,DF,DEF,1945,0,DEF-0
+750,Melvin Bard,Ligue 1,Nice,"DF,MF",DEF,1938,4,DEF-4
+753,Javi López,La Liga,Real Sociedad,DF,DEF,1936,1,DEF-1
+756,Domagoj Bradarić,Serie A,Hellas Verona,DF,DEF,1933,1,DEF-1
+757,Youssouf Ndayishimiye,Ligue 1,Nice,DF,DEF,1932,2,DEF-2
+758,Caio Henrique Oliveira Silva,Ligue 1,Monaco,DF,DEF,1929,3,DEF-3
+759,Thomas Meunier,Ligue 1,Lille,DF,DEF,1928,4,DEF-4
+763,Alessandro Buongiorno,Serie A,Napoli,DF,DEF,1924,2,DEF-2
+764,Destiny Udogie,Premier League,Tottenham,DF,DEF,1924,4,DEF-4
+766,Chris Richards,Premier League,Crystal Palace,DF,DEF,1922,0,DEF-0
+767,Adam Masina,Serie A,Torino,DF,DEF,1919,0,DEF-0
+770,Ethan Pinnock,Premier League,Brentford,DF,DEF,1913,0,DEF-0
+773,Sead Kolašinac,Serie A,Atalanta,DF,DEF,1903,2,DEF-2
+774,Lukas Ullrich,Bundesliga,Gladbach,DF,DEF,1903,1,DEF-1
+777,Nicolás Tagliafico,Ligue 1,Lyon,DF,DEF,1902,4,DEF-4
+780,Enzo Tchato,Ligue 1,Montpellier,DF,DEF,1899,1,DEF-1
+781,Anthony Jung,Bundesliga,Werder Bremen,DF,DEF,1898,2,DEF-2
+784,Rico Lewis,Premier League,Manchester City,"DF,MF",DEF,1893,3,DEF-3
+789,Lucas Oliveira Rosa,La Liga,Valladolid,DF,DEF,1890,4,DEF-4
+797,Ashley Young,Premier League,Everton,DF,DEF,1875,1,DEF-1
+801,Moussa Diarra,La Liga,Alavés,DF,DEF,1866,1,DEF-1
+803,Denzel Dumfries,Serie A,Inter,"DF,FW",DEF,1865,1,DEF-1
+805,Strahinja Pavlović,Serie A,Milan,DF,DEF,1864,2,DEF-2
+806,Malo Gusto,Premier League,Chelsea,DF,DEF,1862,3,DEF-3
+807,Ivan Ordets,Bundesliga,Bochum,DF,DEF,1861,0,DEF-0
+808,Domingos Duarte,La Liga,Getafe,DF,DEF,1859,0,DEF-0
+814,Santiago Mouriño,La Liga,Alavés,DF,DEF,1849,0,DEF-0
+815,Paweł Dawidowicz,Serie A,Hellas Verona,"DF,MF",DEF,1845,0,DEF-0
+819,Lukas Kübler,Bundesliga,Freiburg,DF,DEF,1842,4,DEF-4
+821,Patrick Dorgu,Serie A,Lecce,"DF,FW",DEF,2682,4,DEF-4
+823,Lukas Klostermann,Bundesliga,RB Leipzig,DF,DEF,1838,0,DEF-0
+828,Josha Vagnoman,Bundesliga,Stuttgart,"DF,MF",DEF,1834,1,DEF-1
+829,Jonas Föhrenbach,Bundesliga,Heidenheim,DF,DEF,1832,1,DEF-1
+835,Alberto Dossena,Serie A,Como,DF,DEF,1825,0,DEF-0
+836,Jean-Clair Todibo,Premier League,West Ham,DF,DEF,1825,0,DEF-0
+837,Aitor Paredes,La Liga,Athletic Club,DF,DEF,1812,0,DEF-0
+841,Malick Thiaw,Serie A,Milan,DF,DEF,1806,2,DEF-2
+842,Deiver Machado,Ligue 1,Lens,"DF,MF",DEF,1805,3,DEF-3
+843,José Luis Gayà,La Liga,Valencia,DF,DEF,1803,4,DEF-4
+844,Becir Omeragic,Ligue 1,Montpellier,DF,DEF,1799,0,DEF-0
+848,Djed Spence,Premier League,Tottenham,DF,DEF,1792,4,DEF-4
+850,Gabriel Gudmundsson,Ligue 1,Lille,DF,DEF,1785,3,DEF-3
+853,Javi Galán,La Liga,Atlético Madrid,DF,DEF,1784,1,DEF-1
+855,David Raum,Bundesliga,RB Leipzig,DF,DEF,1783,3,DEF-3
+856,Bernardo,Bundesliga,Bochum,DF,DEF,1782,0,DEF-0
+857,Yeray Álvarez,La Liga,Athletic Club,DF,DEF,1781,2,DEF-2
+858,Matteo Darmian,Serie A,Inter,DF,DEF,1781,1,DEF-1
+860,Eray Cömert,La Liga,Valladolid,"DF,MF",DEF,1779,0,DEF-0
+865,Kenny Tete,Premier League,Fulham,DF,DEF,1774,4,DEF-4
+875,Nayef Aguerd,La Liga,Real Sociedad,DF,DEF,1760,2,DEF-2
+876,Dayot Upamecano,Bundesliga,Bayern Munich,DF,DEF,1759,2,DEF-2
+877,Harry Maguire,Premier League,Manchester Utd,DF,DEF,1758,0,DEF-0
+881,Thomas Kristensen,Serie A,Udinese,DF,DEF,1754,0,DEF-0
+882,Felix Agu,Bundesliga,Werder Bremen,DF,DEF,1751,1,DEF-1
+883,Archie Gray,Premier League,Tottenham,"DF,MF",DEF,1751,2,DEF-2
+884,Lisandro Martínez,Premier League,Manchester Utd,DF,DEF,1751,2,DEF-2
+885,Matteo Ruggeri,Serie A,Atalanta,DF,DEF,1751,3,DEF-3
+890,Leopold Querfeld,Bundesliga,Union Berlin,DF,DEF,1747,0,DEF-0
+893,Christopher Trimmel,Bundesliga,Union Berlin,"DF,MF",DEF,1740,1,DEF-1
+894,Lasse Rosenboom,Bundesliga,Holstein Kiel,DF,DEF,1734,1,DEF-1
+895,Aïssa Mandi,Ligue 1,Lille,DF,DEF,1733,2,DEF-2
+901,Alberto Moreno,Serie A,Como,DF,DEF,1727,1,DEF-1
+904,Marquinhos,Ligue 1,Paris S-G,DF,DEF,1725,2,DEF-2
+906,Nicolò Savona,Serie A,Juventus,DF,DEF,1724,1,DEF-1
+912,Conor Coady,Premier League,Leicester City,DF,DEF,1714,0,DEF-0
+916,Francesco Acerbi,Serie A,Inter,DF,DEF,1710,2,DEF-2
+920,Axel Tuanzebe,Premier League,Ipswich Town,DF,DEF,1710,0,DEF-0
+922,Abdoulaye Niakhate Ndiaye,Ligue 1,Brest,DF,DEF,1707,0,DEF-0
+924,Konrad Laimer,Bundesliga,Bayern Munich,DF,DEF,1699,3,DEF-3
+925,Joël Veltman,Premier League,Brighton,DF,DEF,1697,4,DEF-4
+927,Joseph Okumu,Ligue 1,Reims,DF,DEF,1695,2,DEF-2
+929,Jorge Sáenz,La Liga,Leganés,DF,DEF,1690,0,DEF-0
+931,Santiago Bueno,Premier League,Wolves,DF,DEF,1687,0,DEF-0
+932,Nuno Tavares,Serie A,Lazio,DF,DEF,1686,3,DEF-3
+934,Hans Hateboer,Ligue 1,Rennes,DF,DEF,1684,2,DEF-2
+936,Massadio Haïdara,Ligue 1,Brest,DF,DEF,1678,1,DEF-1
+939,Nuno Mendes,Ligue 1,Paris S-G,DF,DEF,1676,3,DEF-3
+940,Matheus Nunes,Premier League,Manchester City,"DF,MF",DEF,1674,3,DEF-3
+942,Oumar Solet,Serie A,Udinese,DF,DEF,1672,4,DEF-4
+943,Raúl Asencio,La Liga,Real Madrid,DF,DEF,1670,0,DEF-0
+944,Tom Rothe,Bundesliga,Union Berlin,"DF,MF",DEF,1670,4,DEF-4
+948,Sebastian Walukiewicz,Serie A,Torino,DF,DEF,1841,1,DEF-1
+950,Marko Ivezić,Bundesliga,Holstein Kiel,DF,DEF,1657,0,DEF-0
+954,Gabriel Osho,Ligue 1,Auxerre,DF,DEF,1654,0,DEF-0
+957,Timothy Castagne,Premier League,Fulham,DF,DEF,1649,1,DEF-1
+963,Francesco Zampano,Serie A,Venezia,DF,DEF,1639,1,DEF-1
+965,Timothy Weah,Serie A,Juventus,"DF,FW",DEF,1638,1,DEF-1
+968,Stefan de Vrij,Serie A,Inter,DF,DEF,1636,2,DEF-2
+970,Adrià Altimira,La Liga,Leganés,"DF,FW",DEF,1630,1,DEF-1
+973,Pablo Marí,Serie A,Monza,DF,DEF,2726,0,DEF-0
+975,Carlos Augusto,Serie A,Inter,DF,DEF,1625,2,DEF-2
+993,Jakov Medić,Bundesliga,Bochum,DF,DEF,1603,0,DEF-0
+995,Moritz Jenz,Bundesliga,Mainz 05,DF,DEF,1600,0,DEF-0
+1001,Fikayo Tomori,Serie A,Milan,DF,DEF,1593,2,DEF-2
+1003,Nahuel Molina,La Liga,Atlético Madrid,DF,DEF,1590,3,DEF-3
+1004,Adam Smith,Premier League,Bournemouth,DF,DEF,1590,1,DEF-1
+1006,Quentin Merlin,Ligue 1,Marseille,DF,DEF,1589,3,DEF-3
+1009,Duje Ćaleta-Car,Ligue 1,Lyon,DF,DEF,1584,0,DEF-0
+1010,Benjamin Pavard,Serie A,Inter,DF,DEF,1584,2,DEF-2
+1012,Youssouf Sabaly,La Liga,Betis,DF,DEF,1581,4,DEF-4
+1013,Castello Lukeba,Bundesliga,RB Leipzig,DF,DEF,1577,2,DEF-2
+1014,Pavel Kadeřábek,Bundesliga,Hoffenheim,DF,DEF,1576,1,DEF-1
+1016,Raphaël Guerreiro,Bundesliga,Bayern Munich,"DF,MF",DEF,1572,3,DEF-3
+1019,Jake O'Brien,Premier League,Everton,DF,DEF,1571,0,DEF-0
+1021,Eric García,La Liga,Barcelona,"DF,MF",DEF,1566,2,DEF-2
+1022,Alexander Prass,Bundesliga,Hoffenheim,DF,DEF,1566,3,DEF-3
+1025,Óscar de Marcos,La Liga,Athletic Club,DF,DEF,1564,3,DEF-3
+1028,Alphonso Davies,Bundesliga,Bayern Munich,DF,DEF,1560,3,DEF-3
+1030,Lutsharel Geertruida,Bundesliga,RB Leipzig,DF,DEF,1557,2,DEF-2
+1031,Yukinari Sugawara,Premier League,Southampton,"DF,MF",DEF,1557,1,DEF-1
+1032,Lautaro Valenti,Serie A,Parma,DF,DEF,1556,0,DEF-0
+1033,Yann Aurel Bisseck,Serie A,Inter,DF,DEF,1553,2,DEF-2
+1042,Cameron Burgess,Premier League,Ipswich Town,DF,DEF,1541,0,DEF-0
+1043,David Zec,Bundesliga,Holstein Kiel,DF,DEF,1541,0,DEF-0
+1050,Fali Candé,Serie A,Venezia,DF,DEF,1530,0,DEF-0
+1052,Copete,La Liga,Mallorca,DF,DEF,1528,0,DEF-0
+1057,Alessio Zerbin,Serie A,Venezia,DF,DEF,1520,4,DEF-4
+1058,Juan Foyth,La Liga,Villarreal,DF,DEF,1517,0,DEF-0
+1059,Leonardo Spinazzola,Serie A,Napoli,"DF,FW",DEF,1517,3,DEF-3
+1063,Nathan Zeze,Ligue 1,Nantes,DF,DEF,1512,0,DEF-0
+1064,Abdoulaye Bamba,Ligue 1,Angers,DF,DEF,1510,0,DEF-0
+1067,Mattia Bani,Serie A,Genoa,DF,DEF,1507,0,DEF-0
+1068,Christian Mawissa,Ligue 1,Monaco,DF,DEF,1501,0,DEF-0
+1070,Amos Pieper,Bundesliga,Werder Bremen,DF,DEF,1498,0,DEF-0
+1073,Juan Cruz Armada,La Liga,Osasuna,DF,DEF,1492,1,DEF-1
+1074,Nnamdi Collins,Bundesliga,Eint Frankfurt,DF,DEF,1489,4,DEF-4
+1077,Andoni Gorosabel,La Liga,Athletic Club,DF,DEF,1485,4,DEF-4
+1081,Samuele Birindelli,Serie A,Monza,"DF,MF",DEF,1468,1,DEF-1
+1082,Eric Dier,Bundesliga,Bayern Munich,DF,DEF,1463,2,DEF-2
+1083,Ryan Manning,Premier League,Southampton,"DF,MF",DEF,1462,1,DEF-1
+1086,Darko Lazović,Serie A,Hellas Verona,"DF,MF",DEF,1459,1,DEF-1
+1088,Aritz Elustondo,La Liga,Real Sociedad,DF,DEF,1457,0,DEF-0
+1090,Christopher Wooh,Ligue 1,Rennes,DF,DEF,1456,0,DEF-0
+1101,Kristoffer Ajer,Premier League,Brentford,DF,DEF,1438,1,DEF-1
+1102,Stefan Bell,Bundesliga,Mainz 05,DF,DEF,1436,0,DEF-0
+1110,Derek Cornelius,Ligue 1,Marseille,DF,DEF,1420,2,DEF-2
+1112,Cristian Romero,Premier League,Tottenham,DF,DEF,1416,2,DEF-2
+1113,Álex Muñoz,La Liga,Las Palmas,DF,DEF,1415,4,DEF-4
+1114,Jordan Zemura,Serie A,Udinese,DF,DEF,1415,1,DEF-1
+1115,Valentin Gendrey,Bundesliga,Hoffenheim,DF,DEF,1594,1,DEF-1
+1117,Emmanuel Agbadou,Premier League,Wolves,DF,DEF,2670,2,DEF-2
+1118,Tosin Adarabioyo,Premier League,Chelsea,DF,DEF,1409,2,DEF-2
+1121,Manuel Lazzari,Serie A,Lazio,DF,DEF,1406,3,DEF-3
+1130,Marnon Busch,Bundesliga,Heidenheim,"DF,MF",DEF,1396,1,DEF-1
+1134,Ali Abdi,Ligue 1,Nice,"DF,MF",DEF,1393,4,DEF-4
+1135,Jannik Vestergaard,Premier League,Leicester City,DF,DEF,1391,0,DEF-0
+1137,Alexis Saelemaekers,Serie A,Roma,"DF,FW",DEF,1479,3,DEF-3
+1138,Jack Stephens,Premier League,Southampton,DF,DEF,1389,2,DEF-2
+1139,Gaby Jean,Serie A,Lecce,DF,DEF,1388,0,DEF-0
+1140,Przemysław Frankowski,Ligue 1,Lens,DF,DEF,1387,3,DEF-3
+1141,David Torres,La Liga,Valladolid,DF,DEF,1387,0,DEF-0
+1143,Malang Sarr,Ligue 1,Lens,DF,DEF,1385,2,DEF-2
+1146,Julien Le Cardinal,Ligue 1,Brest,DF,DEF,1378,0,DEF-0
+1147,Emerson,Serie A,Milan,DF,DEF,1377,4,DEF-4
+1155,Ridgeciano Haps,Serie A,Venezia,DF,DEF,1369,1,DEF-1
+1156,Myles Lewis-Skelly,Premier League,Arsenal,DF,DEF,1369,3,DEF-3
+1158,Kevin Vogt,Bundesliga,Union Berlin,DF,DEF,1367,2,DEF-2
+1159,Jorge Herrando,La Liga,Osasuna,DF,DEF,1366,0,DEF-0
+1162,Marcus Pedersen,Serie A,Torino,DF,DEF,1362,1,DEF-1
+1165,Ben Johnson,Premier League,Ipswich Town,"DF,FW",DEF,1354,1,DEF-1
+1173,Derrick Köhn,Bundesliga,Werder Bremen,"DF,FW",DEF,1343,3,DEF-3
+1175,Issa Diop,Premier League,Fulham,DF,DEF,1339,0,DEF-0
+1177,Emmanuel Biumla,Ligue 1,Angers,DF,DEF,1336,0,DEF-0
+1181,Ben Davies,Premier League,Tottenham,DF,DEF,1331,0,DEF-0
+1189,Lilian Raolisoa,Ligue 1,Angers,"DF,FW",DEF,1318,3,DEF-3
+1192,Juan Herzog,La Liga,Las Palmas,DF,DEF,1315,0,DEF-0
+1193,Michael Svoboda,Serie A,Venezia,DF,DEF,1314,0,DEF-0
+1194,Aitor Ruibal,La Liga,Betis,"DF,FW",DEF,1313,1,DEF-1
+1195,Kieran Trippier,Premier League,Newcastle Utd,DF,DEF,1309,3,DEF-3
+1196,Stanley N'Soki,Bundesliga,Hoffenheim,DF,DEF,1308,2,DEF-2
+1197,Marco Komenda,Bundesliga,Holstein Kiel,DF,DEF,1307,1,DEF-1
+1200,Keven Schlotterbeck,Bundesliga,Augsburg,DF,DEF,1297,2,DEF-2
+1204,Marin Pongračić,Serie A,Fiorentina,DF,DEF,1292,0,DEF-0
+1207,Andreas Hanche-Olsen,Bundesliga,Mainz 05,DF,DEF,1284,0,DEF-0
+1210,Max Geschwill,Bundesliga,Holstein Kiel,DF,DEF,1282,4,DEF-4
+1214,Ridle Baku,Bundesliga,RB Leipzig,"DF,MF",DEF,2445,1,DEF-1
+1215,Ricardo Rodríguez,La Liga,Betis,DF,DEF,1274,2,DEF-2
+1219,Alejandro Jiménez,Serie A,Milan,"DF,FW",DEF,1266,3,DEF-3
+1226,Ignace Van Der Brempt,Serie A,Como,DF,DEF,1257,4,DEF-4
+1229,Radu Drăgușin,Premier League,Tottenham,DF,DEF,1252,0,DEF-0
+1236,Max Rosenfelder,Bundesliga,Freiburg,DF,DEF,1249,1,DEF-1
+1238,Arouna Sangante,Ligue 1,Le Havre,DF,DEF,1244,2,DEF-2
+1247,Lilian Brassier,Ligue 1,Rennes,DF,DEF,2013,2,DEF-2
+1249,Falaye Sacko,Ligue 1,Montpellier,DF,DEF,1233,1,DEF-1
+1252,Leo Skiri Østigård,Ligue 1,Rennes,DF,DEF,2154,0,DEF-0
+1255,Cedric Zesiger,Bundesliga,Augsburg,DF,DEF,1743,0,DEF-0
+1259,Frans Krätzig,Bundesliga,Heidenheim,"DF,MF",DEF,1273,3,DEF-3
+1263,Anthony Rouault,Bundesliga,Stuttgart,DF,DEF,2184,0,DEF-0
+1267,Antoine Hainaut,Serie A,Parma,"DF,FW",DEF,1206,4,DEF-4
+1268,Iván Balliu,La Liga,Rayo Vallecano,DF,DEF,1200,1,DEF-1
+1269,Giovanni Leoni,Serie A,Parma,DF,DEF,1199,0,DEF-0
+1270,Ben White,Premier League,Arsenal,DF,DEF,1198,1,DEF-1
+1277,Raúl Albiol,La Liga,Villarreal,DF,DEF,1188,0,DEF-0
+1279,Luke Woolfenden,Premier League,Ipswich Town,DF,DEF,1187,0,DEF-0
+1282,Tim Siersleben,Bundesliga,Heidenheim,DF,DEF,1182,0,DEF-0
+1284,Carlos Dominguez,La Liga,Celta Vigo,DF,DEF,1181,2,DEF-2
+1287,Borna Sosa,Serie A,Torino,DF,DEF,1181,1,DEF-1
+1292,Alejandro Francés,La Liga,Girona,DF,DEF,1173,4,DEF-4
+1293,Wesley Fofana,Premier League,Chelsea,DF,DEF,1172,2,DEF-2
+1297,Christopher Operi,Ligue 1,Le Havre,"DF,FW",DEF,1169,3,DEF-3
+1300,Leny Yoro,Premier League,Manchester Utd,DF,DEF,1165,2,DEF-2
+1304,Christian Kabasele,Serie A,Udinese,DF,DEF,1161,0,DEF-0
+1308,Josip Juranović,Bundesliga,Union Berlin,"DF,MF",DEF,1159,3,DEF-3
+1309,Cristiano Biraghi,Serie A,Torino,DF,DEF,1591,1,DEF-1
+1311,Nhoa Sangui,Ligue 1,Reims,"DF,MF",DEF,1158,1,DEF-1
+1314,Issiaga Sylla,Ligue 1,Montpellier,DF,DEF,1156,1,DEF-1
+1317,Ramon Hendriks,Bundesliga,Stuttgart,DF,DEF,1154,0,DEF-0
+1328,Ian Maatsen,Premier League,Aston Villa,DF,DEF,1139,3,DEF-3
+1329,Emil Holm,Serie A,Bologna,DF,DEF,1137,4,DEF-4
+1331,Gerrit Holtmann,Bundesliga,Bochum,"DF,FW",DEF,1136,1,DEF-1
+1336,El Chadaille Bitshiabu,Bundesliga,RB Leipzig,DF,DEF,1130,2,DEF-2
+1337,Jakub Kamiński,Bundesliga,Wolfsburg,"DF,MF",DEF,1130,3,DEF-3
+1340,Nicolás Valentini,Serie A,Hellas Verona,DF,DEF,1129,0,DEF-0
+1342,Mory Gbane,Ligue 1,Reims,"DF,MF",DEF,1125,0,DEF-0
+1343,Odilon Kossounou,Serie A,Atalanta,DF,DEF,1125,2,DEF-2
+1344,Caleb Okoli,Premier League,Leicester City,DF,DEF,1125,0,DEF-0
+1345,Ruben Aguilar,Ligue 1,Lens,"DF,MF",DEF,1124,3,DEF-3
+1346,Jakub Kiwior,Premier League,Arsenal,DF,DEF,1122,0,DEF-0
+1347,Joël Schingtienne,Serie A,Venezia,DF,DEF,1122,1,DEF-1
+1349,Tyrone Mings,Premier League,Aston Villa,DF,DEF,1120,0,DEF-0
+1351,Willy Kambwala,La Liga,Villarreal,DF,DEF,1117,0,DEF-0
+1352,Marin Šverko,Serie A,Venezia,DF,DEF,1117,0,DEF-0
+1356,Timothee Pembele,Ligue 1,Le Havre,DF,DEF,1113,1,DEF-1
+1360,Luke Thomas,Premier League,Leicester City,DF,DEF,1110,4,DEF-4
+1361,Jaydee Canvot,Ligue 1,Toulouse,"DF,MF",DEF,1106,0,DEF-0
+1362,Marcos Senesi,Premier League,Bournemouth,DF,DEF,1106,4,DEF-4
+1365,Mërgim Vojvoda,Serie A,Torino,DF,DEF,1822,3,DEF-3
+1369,Adama Boiro,La Liga,Athletic Club,"DF,FW",DEF,1101,1,DEF-1
+1370,Mads Roerslev,Premier League,Brentford,DF,DEF,1399,1,DEF-1
+1374,Aihen Muñoz,La Liga,Real Sociedad,DF,DEF,1098,1,DEF-1
+1375,Stephan El Shaarawy,Serie A,Roma,"DF,MF",DEF,1098,3,DEF-3
+1378,Danilo D'Ambrosio,Serie A,Monza,DF,DEF,1095,1,DEF-1
+1379,Renato Veiga,Serie A,Juventus,DF,DEF,1274,0,DEF-0
+1380,Abner,Ligue 1,Lyon,DF,DEF,1090,3,DEF-3
+1386,Woyo Coulibaly,Serie A,Parma,DF,DEF,1193,4,DEF-4
+1388,José Luis Palomino,Serie A,Cagliari,DF,DEF,1081,0,DEF-0
+1389,Kevin Danso,Ligue 1,Lens,DF,DEF,1922,0,DEF-0
+1394,Adam Obert,Serie A,Cagliari,DF,DEF,1077,4,DEF-4
+1396,James Bree,Premier League,Southampton,DF,DEF,1075,3,DEF-3
+1397,Juan Jesus,Serie A,Napoli,DF,DEF,1074,2,DEF-2
+1398,Luca Marianucci,Serie A,Empoli,DF,DEF,1069,0,DEF-0
+1399,Vladimír Coufal,Premier League,West Ham,DF,DEF,1067,1,DEF-1
+1400,Luca Pellegrini,Serie A,Lazio,DF,DEF,1067,3,DEF-3
+1404,Giangiacomo Magnani,Serie A,Hellas Verona,DF,DEF,1065,0,DEF-0
+1406,Juan Berrocal,La Liga,Getafe,DF,DEF,1063,0,DEF-0
+1408,Reece James,Premier League,Chelsea,"DF,MF",DEF,1063,2,DEF-2
+1411,Trevoh Chalobah,Premier League,Crystal Palace,DF,DEF,1970,2,DEF-2
+1412,Lorenzo De Silvestri,Serie A,Bologna,DF,DEF,1060,1,DEF-1
+1418,Niklas Süle,Bundesliga,Dortmund,DF,DEF,1053,2,DEF-2
+1421,Michael Keane,Premier League,Everton,DF,DEF,1049,0,DEF-0
+1422,Fabiano Parisi,Serie A,Fiorentina,"DF,MF",DEF,1049,4,DEF-4
+1424,Charalambos Lykogiannis,Serie A,Bologna,DF,DEF,1048,1,DEF-1
+1434,Gerard Martín,La Liga,Barcelona,DF,DEF,1038,4,DEF-4
+1435,Marvin,La Liga,Las Palmas,"DF,FW",DEF,1038,1,DEF-1
+1439,Yunis Abdelhamid,Ligue 1,Saint-Étienne,DF,DEF,1033,0,DEF-0
+1440,Álex Valle,Serie A,Como,DF,DEF,1030,1,DEF-1
+1442,Miloš Veljković,Bundesliga,Werder Bremen,DF,DEF,1029,2,DEF-2
+1444,Aridane Hernández,La Liga,Rayo Vallecano,DF,DEF,1025,0,DEF-0
+1448,Mohammed Salisu,Ligue 1,Monaco,DF,DEF,1023,2,DEF-2
+1450,Waren Kamanzi,Ligue 1,Toulouse,"DF,MF",DEF,1022,3,DEF-3
+1452,Théo Sainte-Luce,Ligue 1,Montpellier,DF,DEF,1018,1,DEF-1
+1453,Saidou Sow,Ligue 1,Strasbourg,DF,DEF,1817,0,DEF-0
+1455,Brian Oliván,La Liga,Espanyol,DF,DEF,1017,1,DEF-1
+1456,Micky van de Ven,Premier League,Tottenham,DF,DEF,1015,2,DEF-2
+1457,Mats Wieffer,Premier League,Brighton,"DF,MF",DEF,1015,4,DEF-4
+1459,Lloyd Kelly,Serie A,Juventus,DF,DEF,1316,2,DEF-2
+1463,Paul Joly,Ligue 1,Auxerre,DF,DEF,1009,4,DEF-4
+1465,Antonio Candela,Serie A,Venezia,DF,DEF,1914,1,DEF-1
+1467,Ferland Mendy,La Liga,Real Madrid,DF,DEF,1005,2,DEF-2
+1468,Flavius Daniliuc,Serie A,Hellas Verona,DF,DEF,1004,1,DEF-1
+1475,Marvin Friedrich,Bundesliga,Gladbach,DF,DEF,989,0,DEF-0
+1477,Riccardo Calafiori,Premier League,Arsenal,DF,DEF,983,4,DEF-4
+1485,Yanis Zouaoui,Ligue 1,Le Havre,"DF,FW",DEF,976,3,DEF-3
+1486,Abdukodir Khusanov,Ligue 1,Lens,DF,DEF,1478,0,DEF-0
+1487,Craig Dawson,Premier League,Wolves,DF,DEF,971,0,DEF-0
+1488,Kyle Walker,Premier League,Manchester City,DF,DEF,1629,3,DEF-3
+1490,Luca Netz,Bundesliga,Gladbach,DF,DEF,969,1,DEF-1
+1496,Igor,Premier League,Brighton,DF,DEF,961,2,DEF-2
+1501,Álex Moreno,Premier League,Nott'ham Forest,"DF,MF",DEF,955,1,DEF-1
+1505,Marcus Coco,Ligue 1,Nantes,DF,DEF,951,4,DEF-4
+1506,Sael Kumbedi,Ligue 1,Lyon,DF,DEF,951,1,DEF-1
+1507,Abakar Sylla,Ligue 1,Strasbourg,DF,DEF,950,0,DEF-0
+1509,Yarek Gasiorowski,La Liga,Valencia,DF,DEF,947,0,DEF-0
+1510,Yael Mouanga,Ligue 1,Montpellier,DF,DEF,946,0,DEF-0
+1515,Reinildo Mandava,La Liga,Atlético Madrid,DF,DEF,941,4,DEF-4
+1521,Éder Militão,La Liga,Real Madrid,DF,DEF,938,2,DEF-2
+1524,Benjamin Henrichs,Bundesliga,RB Leipzig,DF,DEF,935,4,DEF-4
+1525,Ulisses Garcia,Ligue 1,Marseille,DF,DEF,930,3,DEF-3
+1526,Jérémy Jacquet,Ligue 1,Rennes,DF,DEF,927,4,DEF-4
+1533,Lars Ritzka,Bundesliga,St. Pauli,"DF,MF",DEF,922,4,DEF-4
+1537,Jesus Vazquez,La Liga,Valencia,DF,DEF,919,4,DEF-4
+1538,Pau Navarro,La Liga,Villarreal,DF,DEF,916,2,DEF-2
+1539,Mats Hummels,Serie A,Roma,DF,DEF,915,0,DEF-0
+1541,Erhan Mašović,Bundesliga,Bochum,DF,DEF,910,0,DEF-0
+1544,Morato,Premier League,Nott'ham Forest,DF,DEF,907,0,DEF-0
+1547,Ismaily,Ligue 1,Lille,DF,DEF,904,4,DEF-4
+1548,Jon Martin,La Liga,Real Sociedad,DF,DEF,904,0,DEF-0
+1549,Nicolò Casale,Serie A,Bologna,DF,DEF,1035,0,DEF-0
+1552,Alan Matturro,Serie A,Genoa,DF,DEF,900,1,DEF-1
+1553,Karol Mets,Bundesliga,St. Pauli,DF,DEF,900,2,DEF-2
+1557,Nordi Mukiele,Bundesliga,Leverkusen,DF,DEF,899,4,DEF-4
+1559,Yan Couto,Bundesliga,Dortmund,"DF,FW",DEF,895,3,DEF-3
+1562,Allan Nyom,La Liga,Getafe,"DF,MF",DEF,887,1,DEF-1
+1563,Hiroki Sekine,Ligue 1,Reims,DF,DEF,887,1,DEF-1
+1564,Adam Webster,Premier League,Brighton,DF,DEF,887,2,DEF-2
+1567,Lautaro Gianetti,Serie A,Udinese,DF,DEF,878,0,DEF-0
+1568,Lucas Hernández,Ligue 1,Paris S-G,DF,DEF,877,2,DEF-2
+1570,Adam Aznou,La Liga,Valladolid,DF,DEF,893,4,DEF-4
+1571,Luca Caldirola,Serie A,Monza,DF,DEF,876,0,DEF-0
+1572,Josip Stanišić,Bundesliga,Bayern Munich,DF,DEF,876,3,DEF-3
+1573,César Azpilicueta,La Liga,Atlético Madrid,DF,DEF,875,2,DEF-2
+1575,Siebe Van Der Heyden,Bundesliga,St. Pauli,"DF,MF",DEF,969,0,DEF-0
+1579,Juma Bah,La Liga,Valladolid,DF,DEF,1550,0,DEF-0
+1583,Tariq Lamptey,Premier League,Brighton,DF,DEF,860,1,DEF-1
+1590,Mohamed Abdelmoneim,Ligue 1,Nice,DF,DEF,855,2,DEF-2
+1591,Jon Pacheco,La Liga,Real Sociedad,DF,DEF,854,0,DEF-0
+1596,Robert Skov,Bundesliga,Union Berlin,"DF,MF",DEF,852,3,DEF-3
+1597,Leonidas Stergiou,Bundesliga,Stuttgart,DF,DEF,852,4,DEF-4
+1598,Axel Witsel,La Liga,Atlético Madrid,DF,DEF,852,0,DEF-0
+1606,Kostas Tsimikas,Premier League,Liverpool,DF,DEF,837,3,DEF-3
+1609,Alfonso Espino,La Liga,Rayo Vallecano,DF,DEF,833,4,DEF-4
+1612,Juan Cuadrado,Serie A,Atalanta,"DF,MF",DEF,832,3,DEF-3
+1613,Patrick Erras,Bundesliga,Holstein Kiel,DF,DEF,832,0,DEF-0
+1615,Diego Carlos,Premier League,Aston Villa,DF,DEF,830,0,DEF-0
+1617,Antoine Mendy,Ligue 1,Nice,DF,DEF,825,4,DEF-4
+1619,Aaron Cresswell,Premier League,West Ham,DF,DEF,824,2,DEF-2
+1627,Rodrigo Gomes,Premier League,Wolves,"DF,FW",DEF,810,1,DEF-1
+1633,Alidu Seidu,Ligue 1,Rennes,DF,DEF,803,4,DEF-4
+1634,Kiliann Sildillia,Bundesliga,Freiburg,DF,DEF,801,4,DEF-4
+1637,Yoann Salmier,Ligue 1,Le Havre,DF,DEF,797,0,DEF-0
+1640,Jordan Amavi,Ligue 1,Brest,DF,DEF,790,4,DEF-4
+1642,Yvann Macon,Ligue 1,Saint-Étienne,DF,DEF,790,4,DEF-4
+1643,Sebastiaan Bornauw,Bundesliga,Wolfsburg,DF,DEF,788,0,DEF-0
+1648,Daniel Svensson,Bundesliga,Dortmund,"DF,FW",DEF,781,3,DEF-3
+1649,Finn Jeltsch,Bundesliga,Stuttgart,DF,DEF,780,2,DEF-2
+1651,Tom Louchet,Ligue 1,Nice,"DF,MF",DEF,775,4,DEF-4
+1653,Iñigo Lekue,La Liga,Athletic Club,DF,DEF,773,1,DEF-1
+1654,Nathan Wood-Gordon,Premier League,Southampton,DF,DEF,773,0,DEF-0
+1655,Alessandro Vogliacco,Serie A,Parma,DF,DEF,1487,0,DEF-0
+1656,Mattia De Sciglio,Serie A,Empoli,DF,DEF,769,0,DEF-0
+1658,Thierry Correia,La Liga,Valencia,DF,DEF,768,4,DEF-4
+1663,Maxime Bernauer,Ligue 1,Saint-Étienne,DF,DEF,763,2,DEF-2
+1670,Stefan Lainer,Bundesliga,Gladbach,DF,DEF,757,4,DEF-4
+1671,Cenk Özkacar,La Liga,Valladolid,DF,DEF,757,0,DEF-0
+1672,Boubakar Kouyaté,Ligue 1,Montpellier,DF,DEF,756,0,DEF-0
+1675,Ronald Araújo,La Liga,Barcelona,DF,DEF,754,2,DEF-2
+1676,Conor Bradley,Premier League,Liverpool,DF,DEF,754,3,DEF-3
+1679,Giorgio Altare,Serie A,Venezia,DF,DEF,753,0,DEF-0
+1682,Arthur,Bundesliga,Leverkusen,DF,DEF,752,4,DEF-4
+1685,Henri Koudossou,Bundesliga,Augsburg,DF,DEF,748,4,DEF-4
+1687,Jordy Makengo,Bundesliga,Freiburg,DF,DEF,745,1,DEF-1
+1690,Mateu Morey,La Liga,Mallorca,DF,DEF,741,4,DEF-4
+1692,John Tolkin,Bundesliga,Holstein Kiel,"DF,MF",DEF,737,1,DEF-1
+1697,Anrie Chase,Bundesliga,Stuttgart,DF,DEF,734,0,DEF-0
+1700,Souleymane Touré,Serie A,Udinese,DF,DEF,733,2,DEF-2
+1704,Juanpe,La Liga,Girona,DF,DEF,727,0,DEF-0
+1712,Brooke Norton-Cuffy,Serie A,Genoa,"DF,FW",DEF,719,1,DEF-1
+1716,Fernando Calero,La Liga,Espanyol,"DF,MF",DEF,715,0,DEF-0
+1717,Lucas Mincarelli,Ligue 1,Montpellier,DF,DEF,715,1,DEF-1
+1718,Stefan Posch,Serie A,Bologna,DF,DEF,1101,4,DEF-4
+1723,Victor Lindelöf,Premier League,Manchester Utd,DF,DEF,704,0,DEF-0
+1727,Pasquale Mazzocchi,Serie A,Napoli,"DF,FW",DEF,702,1,DEF-1
+1729,Hamari Traoré,La Liga,Real Sociedad,DF,DEF,700,4,DEF-4
+1732,Jacques Ekomie,Ligue 1,Angers,"DF,FW",DEF,697,4,DEF-4
+1737,Mikayil Ngor Faye,Ligue 1,Rennes,DF,DEF,688,2,DEF-2
+1741,Samuel Gigot,Serie A,Lazio,DF,DEF,683,0,DEF-0
+1743,Pol Lirola,Ligue 1,Marseille,DF,DEF,680,1,DEF-1
+1744,Nathan Aké,Premier League,Manchester City,DF,DEF,678,2,DEF-2
+1745,Facundo Garcés,La Liga,Alavés,DF,DEF,678,0,DEF-0
+1748,Maxim Leitsch,Bundesliga,Mainz 05,DF,DEF,674,0,DEF-0
+1755,Oliver Scarles,Premier League,West Ham,"DF,FW",DEF,665,4,DEF-4
+1756,Sergi Gómez,La Liga,Espanyol,DF,DEF,664,0,DEF-0
+1763,Maximilian Bauer,Bundesliga,Augsburg,DF,DEF,658,0,DEF-0
+1767,Mouctar Diakhaby,La Liga,Valencia,DF,DEF,653,0,DEF-0
+1772,Unai Núñez,La Liga,Athletic Club,DF,DEF,645,0,DEF-0
+1779,Luck Zogbé,Ligue 1,Brest,DF,DEF,638,4,DEF-4
+1782,Davide Calabria,Serie A,Bologna,DF,DEF,948,3,DEF-3
+1788,Ivan Smolčić,Serie A,Como,DF,DEF,630,0,DEF-0
+1792,Rasmus Nicolaisen,Ligue 1,Toulouse,DF,DEF,623,0,DEF-0
+1795,Toni Lato,La Liga,Mallorca,DF,DEF,621,4,DEF-4
+1798,David Jurásek,Bundesliga,Hoffenheim,DF,DEF,619,3,DEF-3
+1799,Eric Bailly,La Liga,Villarreal,DF,DEF,617,0,DEF-0
+1800,Enric Franquesa,La Liga,Leganés,"DF,FW",DEF,616,1,DEF-1
+1803,Jailson Siqueira,La Liga,Celta Vigo,"DF,MF",DEF,614,2,DEF-2
+1806,Dani Carvajal,La Liga,Real Madrid,DF,DEF,609,3,DEF-3
+1809,Rui Modesto,Serie A,Udinese,"DF,MF",DEF,608,4,DEF-4
+1812,Patric,Serie A,Lazio,DF,DEF,607,2,DEF-2
+1816,Jhoanner Chávez,Ligue 1,Lens,"DF,MF",DEF,596,1,DEF-1
+1818,Aleksandar Sedlar,La Liga,Alavés,DF,DEF,594,0,DEF-0
+1820,Sacha Boey,Bundesliga,Bayern Munich,DF,DEF,593,3,DEF-3
+1822,Fodé Ballo-Touré,Ligue 1,Le Havre,"DF,MF",DEF,589,1,DEF-1
+1826,Héctor Fort,La Liga,Barcelona,DF,DEF,585,3,DEF-3
+1829,Joseph Aidoo,La Liga,Valladolid,DF,DEF,585,0,DEF-0
+1830,Yoel Lago,La Liga,Celta Vigo,DF,DEF,583,2,DEF-2
+1833,Danilo,Serie A,Juventus,DF,DEF,581,2,DEF-2
+1834,Nikola Maksimović,Ligue 1,Montpellier,DF,DEF,581,0,DEF-0
+1835,Héctor Bellerín,La Liga,Betis,DF,DEF,580,1,DEF-1
+1838,Pierre Cornud,Ligue 1,Saint-Étienne,DF,DEF,576,4,DEF-4
+1845,Jordan Teze,Ligue 1,Monaco,DF,DEF,569,4,DEF-4
+1846,Carl Johansson,Bundesliga,Holstein Kiel,DF,DEF,568,0,DEF-0
+1852,Marcão,La Liga,Sevilla,DF,DEF,552,0,DEF-0
+1853,Martin Frese,Serie A,Hellas Verona,DF,DEF,549,1,DEF-1
+1854,John Stones,Premier League,Manchester City,"DF,MF",DEF,548,2,DEF-2
+1858,Gleison Bremer,Serie A,Juventus,DF,DEF,540,2,DEF-2
+1860,Alessandro Circati,Serie A,Parma,DF,DEF,540,0,DEF-0
+1868,Andrew Omobamidele,Ligue 1,Strasbourg,DF,DEF,539,0,DEF-0
+1869,Filippo Terracciano,Serie A,Milan,"DF,MF",DEF,539,2,DEF-2
+1870,Jean-Kevin Duverne,Ligue 1,Nantes,DF,DEF,537,4,DEF-4
+1873,Nicola Zalewski,Serie A,Roma,"DF,FW",DEF,968,3,DEF-3
+1878,Michael Kayode,Premier League,Brentford,DF,DEF,655,4,DEF-4
+1880,Nico O’Reilly,Premier League,Manchester City,DF,DEF,528,3,DEF-3
+1882,Oleksandr Zinchenko,Premier League,Arsenal,"DF,MF",DEF,527,3,DEF-3
+1883,Joe Gomez,Premier League,Liverpool,DF,DEF,519,2,DEF-2
+1885,Tanguy Nianzou,La Liga,Sevilla,DF,DEF,518,0,DEF-0
+1889,Javier Manquillo,La Liga,Celta Vigo,DF,DEF,515,2,DEF-2
+1891,Krépin Diatta,Ligue 1,Monaco,"DF,FW",DEF,508,4,DEF-4
+1894,Silvan Widmer,Bundesliga,Mainz 05,DF,DEF,504,1,DEF-1
+1895,Ümit Akdag,Ligue 1,Toulouse,DF,DEF,500,2,DEF-2
+1897,Pica,La Liga,Alavés,DF,DEF,499,0,DEF-0
+1900,Julian Araujo,Premier League,Bournemouth,DF,DEF,497,1,DEF-1
+1904,Jarell Quansah,Premier League,Liverpool,DF,DEF,495,0,DEF-0
+1906,Axel Disasi,Premier League,Aston Villa,DF,DEF,854,2,DEF-2
+1913,Nathaniel Clyne,Premier League,Crystal Palace,"DF,MF",DEF,483,1,DEF-1
+1914,Welington,Premier League,Southampton,DF,DEF,482,4,DEF-4
+1915,Kosta Nedeljković,Bundesliga,RB Leipzig,DF,DEF,605,1,DEF-1
+1916,Benito Ramírez,La Liga,Las Palmas,"DF,FW",DEF,478,3,DEF-3
+1918,Lamare Bogarde,Premier League,Aston Villa,"DF,MF",DEF,476,1,DEF-1
+1921,Guimissongui Ouattara,Ligue 1,Strasbourg,"DF,FW",DEF,471,4,DEF-4
+1924,Devyne Rensch,Serie A,Roma,DF,DEF,469,4,DEF-4
+1925,Rafael Tolói,Serie A,Atalanta,DF,DEF,468,2,DEF-2
+1929,Juan David Cabal,Serie A,Juventus,DF,DEF,460,2,DEF-2
+1930,Alfonso Pedraza,La Liga,Villarreal,"DF,MF",DEF,460,3,DEF-3
+1931,Rafik Messali,Ligue 1,Toulouse,DF,DEF,456,4,DEF-4
+1935,Julián Malatini,Bundesliga,Werder Bremen,DF,DEF,454,4,DEF-4
+1952,Tomás Palacios,Serie A,Monza,DF,DEF,457,2,DEF-2
+1966,Bamo Meïté,Ligue 1,Montpellier,DF,DEF,450,0,DEF-0
+2117,Mario Hermoso,Bundesliga,Leverkusen,DF,DEF,544,2,DEF-2
+15,Moisés Caicedo,Premier League,Chelsea,"MF,DF",MID,3351,0,MID-0
+30,Bruno Guimarães,Premier League,Newcastle Utd,MF,MID,3271,2,MID-2
+31,Mattéo Guendouzi,Serie A,Lazio,MF,MID,3270,2,MID-2
+40,Remo Freuler,Serie A,Bologna,MF,MID,3204,0,MID-0
+44,Cole Palmer,Premier League,Chelsea,"MF,FW",MID,3191,3,MID-3
+46,Jesper Karlström,Serie A,Udinese,MF,MID,3186,0,MID-0
+50,Ryan Gravenberch,Premier League,Liverpool,MF,MID,3160,0,MID-0
+55,Tijjani Reijnders,Serie A,Milan,MF,MID,3128,3,MID-3
+63,Morten Frendrup,Serie A,Genoa,MF,MID,3103,0,MID-0
+74,Idrissa Gana Gueye,Premier League,Everton,MF,MID,3063,0,MID-0
+92,Marten de Roon,Serie A,Atalanta,"MF,DF",MID,3058,0,MID-0
+94,Kaishu Sano,Bundesliga,Mainz 05,MF,MID,3043,0,MID-0
+97,Federico Valverde,La Liga,Real Madrid,"MF,DF",MID,3032,2,MID-2
+99,Youri Tielemans,Premier League,Aston Villa,MF,MID,3026,2,MID-2
+101,Bruno Fernandes,Premier League,Manchester Utd,MF,MID,3018,3,MID-3
+105,Simon Sohm,Serie A,Parma,MF,MID,2989,1,MID-1
+110,Lewis Cook,Premier League,Bournemouth,"MF,DF",MID,2978,0,MID-0
+111,João Gomes,Premier League,Wolves,MF,MID,2974,0,MID-0
+122,Aimar Oroz,La Liga,Osasuna,MF,MID,2966,3,MID-3
+124,Martín Zubimendi,La Liga,Real Sociedad,MF,MID,2962,0,MID-0
+128,Lucas Torró,La Liga,Osasuna,MF,MID,2957,0,MID-0
+131,Enzo Fernández,Premier League,Chelsea,MF,MID,2947,2,MID-2
+136,Scott McTominay,Serie A,Napoli,MF,MID,2957,1,MID-1
+145,Mikkel Damsgaard,Premier League,Brentford,"MF,FW",MID,2911,2,MID-2
+146,Mateus Fernandes,Premier League,Southampton,MF,MID,2909,2,MID-2
+149,Granit Xhaka,Bundesliga,Leverkusen,MF,MID,2888,2,MID-2
+151,Éderson,Serie A,Atalanta,MF,MID,2881,2,MID-2
+152,Philipp Treu,Bundesliga,St. Pauli,"MF,DF",MID,2881,0,MID-0
+153,Julian Weigl,Bundesliga,Gladbach,MF,MID,2881,0,MID-0
+163,Pedri,La Liga,Barcelona,MF,MID,2879,2,MID-2
+165,Luis Milla,La Liga,Getafe,MF,MID,2875,2,MID-2
+170,Hans Nicolussi Caviglia,Serie A,Venezia,MF,MID,2861,0,MID-0
+172,Andrey Santos,Ligue 1,Strasbourg,MF,MID,2855,0,MID-0
+173,Valentin Atangana Edoa,Ligue 1,Reims,MF,MID,2854,0,MID-0
+174,Andre-Frank Zambo Anguissa,Serie A,Napoli,MF,MID,2852,0,MID-0
+176,Joshua Kimmich,Bundesliga,Bayern Munich,MF,MID,2847,2,MID-2
+178,Maximilian Eggestein,Bundesliga,Freiburg,MF,MID,2845,0,MID-0
+181,Himad Abdelli,Ligue 1,Angers,"MF,FW",MID,2842,2,MID-2
+185,Romano Schmid,Bundesliga,Werder Bremen,MF,MID,2834,3,MID-3
+186,Luis Rioja,La Liga,Valencia,"MF,FW",MID,2854,1,MID-1
+189,Samuele Ricci,Serie A,Torino,MF,MID,2825,0,MID-0
+190,Declan Rice,Premier League,Arsenal,MF,MID,2825,2,MID-2
+192,Manuel Locatelli,Serie A,Juventus,MF,MID,2822,2,MID-2
+193,Christian Nørgaard,Premier League,Brentford,MF,MID,2819,0,MID-0
+200,Morgan Gibbs-White,Premier League,Nott'ham Forest,MF,MID,2803,3,MID-3
+201,Thomas Partey,Premier League,Arsenal,"MF,DF",MID,2797,0,MID-0
+212,Andrej Kramarić,Bundesliga,Hoffenheim,"MF,FW",MID,2767,3,MID-3
+218,Sam Morsy,Premier League,Ipswich Town,MF,MID,2751,0,MID-0
+219,Sergi Darder,La Liga,Mallorca,"MF,FW",MID,2744,1,MID-1
+222,Angelo Stiller,Bundesliga,Stuttgart,MF,MID,2741,2,MID-2
+223,Sergio Gómez,La Liga,Real Sociedad,"MF,DF",MID,2738,1,MID-1
+225,Diego López,La Liga,Valencia,"MF,FW",MID,2737,1,MID-1
+227,Senne Lynen,Bundesliga,Werder Bremen,MF,MID,2733,0,MID-0
+228,Óscar Mingueza,La Liga,Celta Vigo,"MF,DF",MID,2729,2,MID-2
+229,Elliot Anderson,Premier League,Nott'ham Forest,MF,MID,2728,2,MID-2
+230,Antonio Blanco,La Liga,Alavés,MF,MID,2727,0,MID-0
+232,Rani Khedira,Bundesliga,Union Berlin,MF,MID,2723,0,MID-0
+233,Nicolò Rovella,Serie A,Lazio,MF,MID,2718,0,MID-0
+235,Alex Král,La Liga,Espanyol,MF,MID,2714,1,MID-1
+239,Ismaila Sarr,Premier League,Crystal Palace,MF,MID,2711,3,MID-3
+246,Cristian Cásseres Jr.,Ligue 1,Toulouse,MF,MID,2696,0,MID-0
+248,Benjamin André,Ligue 1,Lille,MF,MID,2692,0,MID-0
+249,Gaëtan Perrin,Ligue 1,Auxerre,"MF,FW",MID,2691,3,MID-3
+253,Nicolás Paz,Serie A,Como,"MF,FW",MID,2687,3,MID-3
+258,Jan Schöppner,Bundesliga,Heidenheim,MF,MID,2681,0,MID-0
+265,Bernardo Silva,Premier League,Manchester City,"MF,FW",MID,2670,2,MID-2
+266,Lassana Coulibaly,Serie A,Lecce,MF,MID,2667,0,MID-0
+269,Pierre Højbjerg,Ligue 1,Marseille,MF,MID,2664,2,MID-2
+270,Mauro Arambarri,La Liga,Getafe,MF,MID,2661,1,MID-1
+271,Carlos Baleba,Premier League,Brighton,MF,MID,2661,0,MID-0
+272,Mahdi Camara,Ligue 1,Brest,"MF,FW",MID,2659,1,MID-1
+276,Lee Jae-sung,Bundesliga,Mainz 05,MF,MID,2650,1,MID-1
+277,Samu Costa,La Liga,Mallorca,MF,MID,2649,0,MID-0
+285,Stanislav Lobotka,Serie A,Napoli,MF,MID,2636,0,MID-0
+289,Sandro Tonali,Premier League,Newcastle Utd,MF,MID,2630,2,MID-2
+294,Atakan Karazor,Bundesliga,Stuttgart,MF,MID,2618,0,MID-0
+298,Adrien Thomasson,Ligue 1,Lens,MF,MID,2615,2,MID-2
+301,Lucas Da Cunha,Serie A,Como,MF,MID,2613,2,MID-2
+304,Jackson Irvine,Bundesliga,St. Pauli,MF,MID,2610,1,MID-1
+308,Ibrahima Sissoko,Bundesliga,Bochum,MF,MID,2610,0,MID-0
+316,Alessandro Bianco,Serie A,Monza,MF,MID,2618,0,MID-0
+317,Alexis Mac Allister,Premier League,Liverpool,MF,MID,2599,2,MID-2
+320,Matheus Cunha,Premier League,Wolves,"MF,FW",MID,2597,3,MID-3
+321,Alex Baena,La Liga,Villarreal,"MF,FW",MID,2595,3,MID-3
+327,Eberechi Eze,Premier League,Crystal Palace,"MF,FW",MID,2588,3,MID-3
+328,Javier Muñoz,La Liga,Las Palmas,"MF,DF",MID,2588,1,MID-1
+333,Frank Onyeka,Bundesliga,Augsburg,MF,MID,2611,0,MID-0
+336,Anton Stach,Bundesliga,Hoffenheim,"MF,DF",MID,2585,0,MID-0
+338,Omari Hutchinson,Premier League,Ipswich Town,"MF,FW",MID,2583,1,MID-1
+339,Javier Guerra,La Liga,Valencia,MF,MID,2581,2,MID-2
+342,Pierre Ekwah Elimby,Ligue 1,Saint-Étienne,MF,MID,2575,0,MID-0
+343,Manu Koné,Serie A,Roma,MF,MID,2572,2,MID-2
+347,Tomáš Souček,Premier League,West Ham,MF,MID,2567,1,MID-1
+348,Matúš Bero,Bundesliga,Bochum,MF,MID,2565,2,MID-2
+350,Abdoulaye Doucouré,Premier League,Everton,MF,MID,2564,1,MID-1
+353,Santi Comesaña,La Liga,Villarreal,MF,MID,2560,2,MID-2
+355,Tom Bischof,Bundesliga,Hoffenheim,"MF,FW",MID,2559,2,MID-2
+377,Gianluca Busio,Serie A,Venezia,MF,MID,2518,1,MID-1
+386,Youssouf Fofana,Serie A,Milan,MF,MID,2504,2,MID-2
+389,Dilane Bakwa,Ligue 1,Strasbourg,"MF,DF",MID,2497,3,MID-3
+394,Nemanja Gudelj,La Liga,Sevilla,"MF,DF",MID,2493,0,MID-0
+395,Dominik Szoboszlai,Premier League,Liverpool,MF,MID,2491,3,MID-3
+397,Jude Bellingham,La Liga,Real Madrid,MF,MID,2488,3,MID-3
+400,Adrien Rabiot,Ligue 1,Marseille,MF,MID,2485,3,MID-3
+405,Nadiem Amiri,Bundesliga,Mainz 05,MF,MID,2473,2,MID-2
+406,André,Premier League,Wolves,MF,MID,2472,0,MID-0
+419,Nicolò Barella,Serie A,Inter,MF,MID,2456,2,MID-2
+424,Hicham Boudaoui,Ligue 1,Nice,MF,MID,2435,2,MID-2
+425,Seydouba Cissé,La Liga,Leganés,MF,MID,2435,0,MID-0
+434,Renato Tapia,La Liga,Leganés,"MF,DF",MID,2424,0,MID-0
+435,Fran Beltrán,La Liga,Celta Vigo,MF,MID,2421,0,MID-0
+438,Nicolai Remberg,Bundesliga,Holstein Kiel,MF,MID,2417,0,MID-0
+442,Michel Ndary Adopo,Serie A,Cagliari,MF,MID,2409,0,MID-0
+446,Vincent Sierro,Ligue 1,Toulouse,MF,MID,2402,2,MID-2
+450,Ondrej Duda,Serie A,Hellas Verona,MF,MID,2395,0,MID-0
+451,Joelinton,Premier League,Newcastle Utd,"MF,FW",MID,2393,1,MID-1
+452,Hugo Larsson,Bundesliga,Eint Frankfurt,MF,MID,2393,0,MID-0
+454,Dejan Kulusevski,Premier League,Tottenham,"MF,FW",MID,2389,3,MID-3
+460,Lucas Paquetá,Premier League,West Ham,"MF,FW",MID,2380,2,MID-2
+462,Takefusa Kubo,La Liga,Real Sociedad,"MF,FW",MID,2372,3,MID-3
+470,Téji Savanier,Ligue 1,Montpellier,MF,MID,2363,3,MID-3
+473,Maximilian Arnold,Bundesliga,Wolfsburg,MF,MID,2356,0,MID-0
+475,Habib Diarra,Ligue 1,Strasbourg,"MF,FW",MID,2352,1,MID-1
+477,Florian Wirtz,Bundesliga,Leverkusen,"MF,FW",MID,2351,3,MID-3
+478,Pedro Chirivella,Ligue 1,Nantes,MF,MID,2348,0,MID-0
+479,Paul Nebel,Bundesliga,Mainz 05,MF,MID,2345,3,MID-3
+480,Saša Lukić,Premier League,Fulham,MF,MID,2344,0,MID-0
+481,Elisha Owusu,Ligue 1,Auxerre,MF,MID,2344,0,MID-0
+482,Raúl Moro,La Liga,Valladolid,"MF,FW",MID,2341,3,MID-3
+483,Justin Kluivert,Premier League,Bournemouth,MF,MID,2340,3,MID-3
+486,Liam Henderson,Serie A,Empoli,MF,MID,2337,0,MID-0
+493,Yann Gboho,Ligue 1,Toulouse,"MF,FW",MID,2333,3,MID-3
+495,Pablo Barrios,La Liga,Atlético Madrid,MF,MID,2330,2,MID-2
+496,Corentin Tolisso,Ligue 1,Lyon,MF,MID,2329,2,MID-2
+497,Henrikh Mkhitaryan,Serie A,Inter,MF,MID,2328,2,MID-2
+498,Pascal Groß,Bundesliga,Dortmund,"MF,DF",MID,2327,2,MID-2
+500,Khéphren Thuram,Serie A,Juventus,MF,MID,2326,2,MID-2
+501,Martin Ødegaard,Premier League,Arsenal,MF,MID,2325,3,MID-3
+502,Wilfred Ndidi,Premier League,Leicester City,MF,MID,2324,0,MID-0
+503,Abdoulaye Touré,Ligue 1,Le Havre,MF,MID,2324,0,MID-0
+506,Hugo Magnetti,Ligue 1,Brest,MF,MID,2323,0,MID-0
+513,Manolis Saliakas,Bundesliga,St. Pauli,"MF,DF",MID,2314,1,MID-1
+514,Yvan Neyou,La Liga,Leganés,MF,MID,2312,0,MID-0
+515,Weston McKennie,Serie A,Juventus,"MF,DF",MID,2310,1,MID-1
+516,Sandi Lovrić,Serie A,Udinese,MF,MID,2308,1,MID-1
+518,Douglas,Ligue 1,Nantes,MF,MID,2307,0,MID-0
+520,Kristijan Jakić,Bundesliga,Augsburg,MF,MID,2306,0,MID-0
+522,Julian Brandt,Bundesliga,Dortmund,MF,MID,2303,3,MID-3
+531,Ludovic Blas,Ligue 1,Rennes,"MF,FW",MID,2293,3,MID-3
+541,Jefferson Lerma,Premier League,Crystal Palace,"MF,DF",MID,2274,0,MID-0
+544,Daniel Parejo,La Liga,Villarreal,MF,MID,2273,2,MID-2
+550,Patrick Osterhage,Bundesliga,Freiburg,MF,MID,2267,0,MID-0
+554,Yangel Herrera,La Liga,Girona,MF,MID,2257,0,MID-0
+556,Vitaly Janelt,Premier League,Brentford,MF,MID,2254,0,MID-0
+561,Ademola Lookman,Serie A,Atalanta,"MF,FW",MID,2247,3,MID-3
+562,Mikel Jauregizar,La Liga,Athletic Club,MF,MID,2244,0,MID-0
+565,Takumi Minamino,Ligue 1,Monaco,"MF,FW",MID,2231,3,MID-3
+566,Ellyes Skhiri,Bundesliga,Eint Frankfurt,MF,MID,2231,0,MID-0
+567,Liberato Cacace,Serie A,Empoli,"MF,DF",MID,2230,1,MID-1
+569,Andy Diouf,Ligue 1,Lens,MF,MID,2225,2,MID-2
+570,Sander Berge,Premier League,Fulham,MF,MID,2224,0,MID-0
+571,Pape Gueye,La Liga,Villarreal,MF,MID,2224,2,MID-2
+572,İlkay Gündoğan,Premier League,Manchester City,MF,MID,2223,2,MID-2
+573,John McGinn,Premier League,Aston Villa,"MF,FW",MID,2223,1,MID-1
+582,Jens Stage,Bundesliga,Werder Bremen,MF,MID,2204,1,MID-1
+583,Alberto Grassi,Serie A,Empoli,MF,MID,2203,0,MID-0
+586,Alejandro Garnacho,Premier League,Manchester Utd,"MF,FW",MID,2199,3,MID-3
+587,Mateo Kovačić,Premier League,Manchester City,MF,MID,2198,2,MID-2
+591,Enzo Barrenechea,La Liga,Valencia,MF,MID,2191,0,MID-0
+598,Bilal El Khannouss,Premier League,Leicester City,"MF,FW",MID,2182,1,MID-1
+600,Boulaye Dia,Serie A,Lazio,"MF,FW",MID,2177,1,MID-1
+605,Boubakary Soumaré,Premier League,Leicester City,MF,MID,2171,0,MID-0
+608,Jofre,La Liga,Espanyol,"MF,FW",MID,2165,1,MID-1
+610,Isaac Palazón Camacho,La Liga,Rayo Vallecano,"MF,FW",MID,2162,3,MID-3
+611,Dani Rodríguez,La Liga,Mallorca,"MF,FW",MID,2162,1,MID-1
+616,Flynn Downes,Premier League,Southampton,MF,MID,2151,0,MID-0
+618,Antoine Makoumbou,Serie A,Cagliari,MF,MID,2150,0,MID-0
+619,Xavi Simons,Bundesliga,RB Leipzig,MF,MID,2150,3,MID-3
+620,Johnny Cardoso,La Liga,Betis,MF,MID,2144,0,MID-0
+623,Denis Zakaria,Ligue 1,Monaco,MF,MID,2144,0,MID-0
+626,Pathé Ciss,La Liga,Rayo Vallecano,"MF,DF",MID,2140,0,MID-0
+631,Ilaix Moriba,La Liga,Celta Vigo,MF,MID,2132,2,MID-2
+636,Ryan Christie,Premier League,Bournemouth,MF,MID,2117,2,MID-2
+637,Nikola Vlašić,Serie A,Torino,"MF,FW",MID,2117,1,MID-1
+639,Lucien Agoume,La Liga,Sevilla,MF,MID,2114,0,MID-0
+646,Alexis Claude-Maurice,Bundesliga,Augsburg,"MF,FW",MID,2109,1,MID-1
+648,Will Hughes,Premier League,Crystal Palace,MF,MID,2108,0,MID-0
+649,Sebastian Nanasi,Ligue 1,Strasbourg,"MF,FW",MID,2107,3,MID-3
+650,Rodrigo De Paul,La Liga,Atlético Madrid,MF,MID,2106,2,MID-2
+656,Jon Moncayola,La Liga,Osasuna,MF,MID,2099,0,MID-0
+657,Yassine Kechta,Ligue 1,Le Havre,"MF,FW",MID,2096,1,MID-1
+659,Hamed Junior Traorè,Ligue 1,Auxerre,MF,MID,2093,3,MID-3
+661,Nicolas Seiwald,Bundesliga,RB Leipzig,"MF,DF",MID,2084,0,MID-0
+663,Jon Guridi,La Liga,Alavés,"MF,FW",MID,2080,1,MID-1
+664,Tomáš Suslov,Serie A,Hellas Verona,"MF,FW",MID,2080,1,MID-1
+665,Azor Matusiwa,Ligue 1,Rennes,MF,MID,2078,0,MID-0
+669,Charles De Ketelaere,Serie A,Atalanta,"MF,FW",MID,2070,3,MID-3
+673,Djibril Sow,La Liga,Sevilla,MF,MID,2062,0,MID-0
+676,Lamine Camara,Ligue 1,Monaco,MF,MID,2054,2,MID-2
+680,Warren Zaïre-Emery,Ligue 1,Paris S-G,"MF,DF",MID,2050,2,MID-2
+681,Johann Lepenant,Ligue 1,Nantes,MF,MID,2048,0,MID-0
+684,Bryan Cristante,Serie A,Roma,MF,MID,2045,2,MID-2
+687,Emile Smith Rowe,Premier League,Fulham,MF,MID,2043,1,MID-1
+688,Vitinha,Ligue 1,Paris S-G,MF,MID,3370,2,MID-2
+690,Iván Martín,La Liga,Girona,MF,MID,2039,2,MID-2
+703,Joe Aribo,Premier League,Southampton,"MF,DF",MID,2013,0,MID-0
+704,Andreas Pereira,Premier League,Fulham,MF,MID,2013,3,MID-3
+706,Nemanja Matić,Ligue 1,Lyon,MF,MID,2010,2,MID-2
+716,Teun Koopmeiners,Serie A,Juventus,"MF,FW",MID,1994,1,MID-1
+717,Omar Mascarell,La Liga,Mallorca,MF,MID,1992,0,MID-0
+722,Chris Führich,Bundesliga,Stuttgart,"MF,FW",MID,1981,3,MID-3
+724,Domingos André Ribeiro Almeida,La Liga,Valencia,"MF,FW",MID,1977,2,MID-2
+725,Sergi Altimira,La Liga,Betis,MF,MID,1972,0,MID-0
+730,Mario Pašalić,Serie A,Atalanta,MF,MID,1967,2,MID-2
+732,Tyler Adams,Premier League,Bournemouth,MF,MID,1965,0,MID-0
+733,Yasin Ayari,Premier League,Brighton,MF,MID,1965,0,MID-0
+735,Nicolás Domínguez,Premier League,Nott'ham Forest,"MF,FW",MID,1963,0,MID-0
+737,Jean-Eudes Aholou,Ligue 1,Angers,MF,MID,1959,0,MID-0
+738,Jens Cajuste,Premier League,Ipswich Town,MF,MID,1959,0,MID-0
+742,Jens Odgaard,Serie A,Bologna,"MF,FW",MID,1952,1,MID-1
+746,Ander Guevara,La Liga,Alavés,MF,MID,1947,0,MID-0
+748,Pol Lozano,La Liga,Espanyol,MF,MID,1943,0,MID-0
+751,Dario Essugo,La Liga,Las Palmas,MF,MID,1938,0,MID-0
+755,Yeremi Pino,La Liga,Villarreal,"MF,FW",MID,1934,1,MID-1
+761,Koke,La Liga,Atlético Madrid,MF,MID,1926,2,MID-2
+762,Giuliano Simeone,La Liga,Atlético Madrid,MF,MID,1926,1,MID-1
+765,Fabián Ruiz Peña,Ligue 1,Paris S-G,MF,MID,1923,2,MID-2
+768,Ryan Yates,Premier League,Nott'ham Forest,MF,MID,1915,0,MID-0
+769,Pape Matar Sarr,Premier League,Tottenham,MF,MID,1913,0,MID-0
+775,Alassane Pléa,Bundesliga,Gladbach,"MF,FW",MID,1902,3,MID-3
+778,Zakaria Aboukhlal,Ligue 1,Toulouse,"MF,FW",MID,1901,1,MID-1
+779,Amad Diallo,Premier League,Manchester Utd,"MF,FW",MID,1901,3,MID-3
+782,Morten Thorsby,Serie A,Genoa,"MF,FW",MID,1898,1,MID-1
+783,Armin Gigovic,Bundesliga,Holstein Kiel,MF,MID,1895,1,MID-1
+786,Joris Chotard,Ligue 1,Montpellier,MF,MID,1892,0,MID-0
+787,Jurgen Ekkelenkamp,Serie A,Udinese,MF,MID,1892,1,MID-1
+793,Hakan Çalhanoğlu,Serie A,Inter,MF,MID,1879,2,MID-2
+809,Máximo Perrone,Serie A,Como,MF,MID,1857,0,MID-0
+810,Rolando Mandragora,Serie A,Fiorentina,MF,MID,1856,1,MID-1
+813,Magnus Knudsen,Bundesliga,Holstein Kiel,MF,MID,1850,0,MID-0
+816,João Neves,Ligue 1,Paris S-G,"MF,DF",MID,1844,2,MID-2
+817,Enzo Millot,Bundesliga,Stuttgart,"MF,FW",MID,1843,3,MID-3
+818,Jack Hinshelwood,Premier League,Brighton,"MF,DF",MID,1842,0,MID-0
+827,Óscar Valentín,La Liga,Rayo Vallecano,MF,MID,1835,0,MID-0
+830,Rocco Reitz,Bundesliga,Gladbach,MF,MID,1830,0,MID-0
+832,Pablo Fornals,La Liga,Betis,"MF,FW",MID,1827,2,MID-2
+833,Luka Modrić,La Liga,Real Madrid,MF,MID,1827,2,MID-2
+834,Mandela Keita,Serie A,Parma,MF,MID,1826,0,MID-0
+838,James Maddison,Premier League,Tottenham,MF,MID,1809,3,MID-3
+840,Ylber Ramadani,Serie A,Lecce,MF,MID,1807,0,MID-0
+845,Jamal Musiala,Bundesliga,Bayern Munich,MF,MID,1798,3,MID-3
+847,Haris Belkebla,Ligue 1,Angers,MF,MID,1792,0,MID-0
+849,Luka Sučić,La Liga,Real Sociedad,MF,MID,1792,1,MID-1
+851,Elvis Rexhbeçaj,Bundesliga,Augsburg,MF,MID,1785,1,MID-1
+852,Manuel Ugarte Ribeiro,Premier League,Manchester Utd,MF,MID,1785,0,MID-0
+859,Matìas Soulé,Serie A,Roma,"MF,DF",MID,1781,3,MID-3
+861,Félix Lemaréchal,Ligue 1,Strasbourg,"MF,FW",MID,1779,1,MID-1
+862,Phil Foden,Premier League,Manchester City,"MF,FW",MID,1777,3,MID-3
+864,Pablo Rosario,Ligue 1,Nice,"MF,DF",MID,1775,0,MID-0
+866,Jordan Ferri,Ligue 1,Montpellier,MF,MID,1773,2,MID-2
+867,Edson Álvarez,Premier League,West Ham,MF,MID,1772,0,MID-0
+868,Benjamin Bouchouari,Ligue 1,Saint-Étienne,MF,MID,1772,2,MID-2
+870,Paul Wanner,Bundesliga,Heidenheim,"MF,FW",MID,1771,1,MID-1
+871,Patrick Wimmer,Bundesliga,Wolfsburg,"MF,FW",MID,1770,3,MID-3
+878,Kirian Rodríguez,La Liga,Las Palmas,MF,MID,1758,2,MID-2
+879,Hákon Arnar Haraldsson,Ligue 1,Lille,"MF,FW",MID,1755,3,MID-3
+887,Eliesse Ben Seghir,Ligue 1,Monaco,"MF,FW",MID,1750,3,MID-3
+889,Mario Martín,La Liga,Valladolid,MF,MID,1748,0,MID-0
+892,José Luis García Vayá,La Liga,Valencia,MF,MID,1742,2,MID-2
+899,Stanko Jurić,La Liga,Valladolid,MF,MID,1729,0,MID-0
+902,Boubacar Kamara,Premier League,Aston Villa,MF,MID,1726,0,MID-0
+907,Balthazar Pierret,Serie A,Lecce,MF,MID,1723,0,MID-0
+908,Juanlu Sánchez,La Liga,Sevilla,"MF,DF",MID,1722,1,MID-1
+910,Anuar,La Liga,Valladolid,"MF,FW",MID,1720,0,MID-0
+911,Beñat Prados,La Liga,Athletic Club,MF,MID,1715,0,MID-0
+913,Danilo Cataldi,Serie A,Fiorentina,MF,MID,1712,0,MID-0
+914,Curtis Jones,Premier League,Liverpool,"MF,DF",MID,1712,2,MID-2
+921,Unai López,La Liga,Rayo Vallecano,MF,MID,1707,2,MID-2
+923,Kevin De Bruyne,Premier League,Manchester City,"MF,FW",MID,1702,3,MID-3
+926,Janik Haberer,Bundesliga,Union Berlin,"MF,DF",MID,1696,0,MID-0
+928,Marshall Munetsi,Ligue 1,Reims,MF,MID,2770,1,MID-1
+930,Rabby Nzingoula,Ligue 1,Montpellier,MF,MID,1689,0,MID-0
+937,Jean-Ricner Bellegarde,Premier League,Wolves,"MF,FW",MID,1677,1,MID-1
+938,Fabio Miretti,Serie A,Genoa,"MF,FW",MID,1677,1,MID-1
+947,Jamie Leweling,Bundesliga,Stuttgart,"MF,FW",MID,1663,1,MID-1
+949,Reda Belahyane,Serie A,Hellas Verona,MF,MID,1856,0,MID-0
+951,Sergio Carreira,La Liga,Celta Vigo,"MF,DF",MID,1656,1,MID-1
+952,Georginio Rutter,Premier League,Brighton,"MF,FW",MID,1656,3,MID-3
+953,Lesley Ugochukwu,Premier League,Southampton,MF,MID,1655,0,MID-0
+955,Gianluca Caprari,Serie A,Monza,"MF,FW",MID,1651,1,MID-1
+956,Kobbie Mainoo,Premier League,Manchester Utd,MF,MID,1651,0,MID-0
+958,Carlo Boukhalfa,Bundesliga,St. Pauli,MF,MID,1646,1,MID-1
+959,Rodrigo Bentancur,Premier League,Tottenham,MF,MID,1645,0,MID-0
+969,Conor Gallagher,La Liga,Atlético Madrid,MF,MID,1633,0,MID-0
+974,Lorenzo Pellegrini,Serie A,Roma,MF,MID,1626,1,MID-1
+982,Oihan Sancet,La Liga,Athletic Club,MF,MID,1620,3,MID-3
+983,Warren Bondo,Serie A,Monza,MF,MID,1780,0,MID-0
+984,Darko Brašanac,La Liga,Leganés,MF,MID,1617,0,MID-0
+985,Amadou Onana,Premier League,Aston Villa,MF,MID,1617,0,MID-0
+986,Marcel Sabitzer,Bundesliga,Dortmund,MF,MID,1616,1,MID-1
+988,Marc Casado,La Liga,Barcelona,MF,MID,1611,0,MID-0
+989,Christoph Baumgartner,Bundesliga,RB Leipzig,MF,MID,1610,1,MID-1
+996,Robert Andrich,Bundesliga,Leverkusen,"MF,DF",MID,1598,0,MID-0
+997,Adrian Beck,Bundesliga,Heidenheim,"MF,FW",MID,1598,3,MID-3
+998,Ansgar Knauff,Bundesliga,Eint Frankfurt,"MF,DF",MID,1597,3,MID-3
+999,James Garner,Premier League,Everton,"MF,DF",MID,1594,0,MID-0
+1000,Kevin Kampl,Bundesliga,RB Leipzig,MF,MID,1593,2,MID-2
+1007,Neil El Aynaoui,Ligue 1,Lens,MF,MID,1588,0,MID-0
+1008,Mikel Merino,Premier League,Arsenal,"MF,FW",MID,1586,1,MID-1
+1015,Hugo Álvarez,La Liga,Celta Vigo,"MF,DF",MID,1572,3,MID-3
+1017,Arthur Vermeeren,Bundesliga,RB Leipzig,MF,MID,1572,0,MID-0
+1018,Yunus Musah,Serie A,Milan,"MF,FW",MID,1571,1,MID-1
+1024,Daichi Kamada,Premier League,Crystal Palace,MF,MID,1564,2,MID-2
+1027,Valentin Rongier,Ligue 1,Marseille,"MF,DF",MID,1562,0,MID-0
+1029,Antonio Nusa,Bundesliga,RB Leipzig,"MF,DF",MID,1558,1,MID-1
+1034,Saúl Ñíguez,La Liga,Sevilla,MF,MID,1553,0,MID-0
+1035,Jordan Veretout,Ligue 1,Lyon,MF,MID,1553,2,MID-2
+1036,Samuel Lino,La Liga,Atlético Madrid,"MF,DF",MID,1552,3,MID-3
+1037,Kevin Stöger,Bundesliga,Gladbach,MF,MID,1551,3,MID-3
+1038,Isco,La Liga,Betis,MF,MID,1547,3,MID-3
+1041,Mario Götze,Bundesliga,Eint Frankfurt,"MF,FW",MID,1542,2,MID-2
+1044,Karol Linetty,Serie A,Torino,MF,MID,1540,0,MID-0
+1045,Patrizio Masini,Serie A,Genoa,MF,MID,1538,0,MID-0
+1046,Harry Winks,Premier League,Leicester City,MF,MID,1538,2,MID-2
+1048,András Schäfer,Bundesliga,Union Berlin,MF,MID,1534,0,MID-0
+1049,Brais Méndez,La Liga,Real Sociedad,MF,MID,1531,3,MID-3
+1053,Pierre Lees-Melou,Ligue 1,Brest,MF,MID,1526,2,MID-2
+1054,Yassin Belkhdim,Ligue 1,Angers,MF,MID,1523,0,MID-0
+1056,Yannick Gerhardt,Bundesliga,Wolfsburg,"MF,DF",MID,1518,1,MID-1
+1065,Youssef Maleh,Serie A,Empoli,MF,MID,1510,0,MID-0
+1066,Felix Nmecha,Bundesliga,Dortmund,MF,MID,1509,0,MID-0
+1072,Casemiro,Premier League,Manchester Utd,MF,MID,1494,0,MID-0
+1078,Iñigo Ruiz de Galarreta,La Liga,Athletic Club,MF,MID,1477,2,MID-2
+1079,Milan Badelj,Serie A,Genoa,MF,MID,1472,0,MID-0
+1080,Albert Sambi Lokonga,La Liga,Sevilla,MF,MID,1471,2,MID-2
+1084,Kévin Danois,Ligue 1,Auxerre,MF,MID,1460,2,MID-2
+1089,Giovani Lo Celso,La Liga,Betis,"MF,FW",MID,1457,3,MID-3
+1091,Aleix García,Bundesliga,Leverkusen,MF,MID,1455,2,MID-2
+1093,Adrian Bernabe,Serie A,Parma,MF,MID,1453,2,MID-2
+1094,Aleksandar Pavlovic,Bundesliga,Bayern Munich,MF,MID,1451,2,MID-2
+1095,Yehor Yarmoliuk,Premier League,Brentford,MF,MID,1450,0,MID-0
+1105,Alessandro Deiola,Serie A,Cagliari,MF,MID,1432,0,MID-0
+1106,Carles Pérez,La Liga,Getafe,"MF,FW",MID,1431,1,MID-1
+1107,Gvidas Gineitis,Serie A,Torino,MF,MID,1430,1,MID-1
+1109,Donny van de Beek,La Liga,Girona,MF,MID,1421,1,MID-1
+1116,Joan Jordán,La Liga,Alavés,MF,MID,1414,2,MID-2
+1119,Carlos Soler,Premier League,West Ham,"MF,FW",MID,1409,1,MID-1
+1120,Yves Bissouma,Premier League,Tottenham,MF,MID,1408,0,MID-0
+1122,Răzvan Marin,Serie A,Cagliari,MF,MID,1406,2,MID-2
+1125,Iván Sánchez,La Liga,Valladolid,"MF,FW",MID,1404,3,MID-3
+1128,Philipp Sander,Bundesliga,Gladbach,MF,MID,1400,0,MID-0
+1132,Antonio Sánchez,La Liga,Mallorca,"MF,DF",MID,1395,1,MID-1
+1144,Jacopo Fazzini,Serie A,Empoli,MF,MID,1383,1,MID-1
+1145,Martín Payero,Serie A,Udinese,MF,MID,1381,1,MID-1
+1148,Selim Amallah,La Liga,Valladolid,MF,MID,1376,1,MID-1
+1149,Suat Serdar,Serie A,Hellas Verona,MF,MID,1376,1,MID-1
+1151,Urko González,La Liga,Espanyol,MF,MID,1419,0,MID-0
+1152,Leandro Paredes,Serie A,Roma,MF,MID,1373,2,MID-2
+1154,Dwight McNeil,Premier League,Everton,"MF,FW",MID,1371,3,MID-3
+1160,Mario Lemina,Premier League,Wolves,"MF,DF",MID,1364,0,MID-0
+1163,Nathan Tella,Bundesliga,Leverkusen,"MF,FW",MID,1359,1,MID-1
+1164,Oriol Romeu,La Liga,Girona,MF,MID,1356,0,MID-0
+1176,Manu Morlanes,La Liga,Mallorca,MF,MID,1338,0,MID-0
+1179,Niklas Dorsch,Bundesliga,Heidenheim,MF,MID,1367,0,MID-0
+1182,Óscar Rodríguez Arnaiz,La Liga,Leganés,"MF,FW",MID,1330,1,MID-1
+1183,Hernani,Serie A,Parma,MF,MID,1327,2,MID-2
+1184,Leon Goretzka,Bundesliga,Bayern Munich,"MF,DF",MID,1325,2,MID-2
+1185,Steven Skrzybski,Bundesliga,Holstein Kiel,"MF,FW",MID,1323,1,MID-1
+1186,Kamory Doumbia,Ligue 1,Brest,"MF,FW",MID,1322,2,MID-2
+1188,Amadou Haidara,Bundesliga,RB Leipzig,MF,MID,1320,0,MID-0
+1191,Adam Wharton,Premier League,Crystal Palace,MF,MID,1318,2,MID-2
+1198,Daniel Maldini,Serie A,Monza,"MF,FW",MID,1564,3,MID-3
+1199,Bence Dárdai,Bundesliga,Wolfsburg,MF,MID,1304,0,MID-0
+1201,Pablo Ibáñez,La Liga,Osasuna,MF,MID,1294,1,MID-1
+1202,Amadou Koné,Ligue 1,Reims,MF,MID,1293,0,MID-0
+1206,Unai Gómez,La Liga,Athletic Club,"MF,FW",MID,1284,1,MID-1
+1212,Roberto Navarro,La Liga,Mallorca,"MF,FW",MID,1278,1,MID-1
+1213,André Gomes,Ligue 1,Lille,MF,MID,1276,2,MID-2
+1220,Ander Barrenetxea,La Liga,Real Sociedad,"MF,FW",MID,1263,3,MID-3
+1222,Jeong Woo-yeong,Bundesliga,Union Berlin,"MF,FW",MID,1263,3,MID-3
+1223,Orel Mangala,Premier League,Everton,MF,MID,1328,0,MID-0
+1227,Hugo Sotelo,La Liga,Celta Vigo,MF,MID,1254,2,MID-2
+1230,Fermin López,La Liga,Barcelona,"MF,FW",MID,1252,3,MID-3
+1232,Florian Tardieu,Ligue 1,Saint-Étienne,MF,MID,1252,2,MID-2
+1233,Arthur Atta,Serie A,Udinese,"MF,FW",MID,1251,1,MID-1
+1234,Arda Güler,La Liga,Real Madrid,"MF,FW",MID,1250,3,MID-3
+1241,Pablo Marín,La Liga,Real Sociedad,MF,MID,1239,1,MID-1
+1242,Lewis Holtby,Bundesliga,Holstein Kiel,MF,MID,1238,0,MID-0
+1244,Álvaro Tejero,La Liga,Espanyol,"MF,DF",MID,1238,1,MID-1
+1245,Kalvin Phillips,Premier League,Ipswich Town,MF,MID,1237,0,MID-0
+1248,Tanner Tessmann,Ligue 1,Lyon,MF,MID,1234,0,MID-0
+1251,Niccolò Pisilli,Serie A,Roma,MF,MID,1227,1,MID-1
+1254,Thomas Müller,Bundesliga,Bayern Munich,"MF,FW",MID,1225,3,MID-3
+1256,Yacine Adli,Serie A,Fiorentina,MF,MID,1219,2,MID-2
+1257,Mattias Svanberg,Bundesliga,Wolfsburg,MF,MID,1219,1,MID-1
+1258,Ramón Terrats,La Liga,Getafe,"MF,FW",MID,1350,1,MID-1
+1260,Dani Ceballos,La Liga,Real Madrid,MF,MID,1215,2,MID-2
+1261,Lucas Bergvall,Premier League,Tottenham,MF,MID,1212,0,MID-0
+1262,Dani Olmo,La Liga,Barcelona,"MF,FW",MID,1212,3,MID-3
+1264,Pedro Díaz,La Liga,Rayo Vallecano,MF,MID,1211,3,MID-3
+1265,Nikola Moro,Serie A,Bologna,MF,MID,1208,2,MID-2
+1271,Eren Dinkçi,Bundesliga,Freiburg,"MF,FW",MID,1196,1,MID-1
+1274,Kike Pérez,La Liga,Valladolid,MF,MID,2305,2,MID-2
+1275,Ngal'Ayel Mukau,Ligue 1,Lille,MF,MID,1190,0,MID-0
+1276,José Campaña,La Liga,Las Palmas,MF,MID,1189,2,MID-2
+1280,Shavy Babicka,Ligue 1,Toulouse,"MF,FW",MID,1186,1,MID-1
+1288,Jordan James,Ligue 1,Rennes,MF,MID,1178,2,MID-2
+1290,Tommaso Pobega,Serie A,Bologna,MF,MID,1178,0,MID-0
+1291,Billy Gilmour,Serie A,Napoli,MF,MID,1275,2,MID-2
+1298,Lazar Samardzic,Serie A,Atalanta,MF,MID,1169,3,MID-3
+1301,Yannik Engelhardt,Serie A,Como,"MF,DF",MID,1164,0,MID-0
+1310,Davide Frattesi,Serie A,Inter,MF,MID,1158,1,MID-1
+1312,Valentín Barco,Ligue 1,Strasbourg,"MF,DF",MID,1445,2,MID-2
+1313,Þórir Jóhann Helgason,Serie A,Lecce,MF,MID,1156,1,MID-1
+1315,Exequiel Palacios,Bundesliga,Leverkusen,MF,MID,1155,2,MID-2
+1318,Aleksandr Golovin,Ligue 1,Monaco,"MF,FW",MID,1153,2,MID-2
+1320,Dani de Wit,Bundesliga,Bochum,"MF,FW",MID,1153,1,MID-1
+1321,Ayyoub Bouaddi,Ligue 1,Lille,MF,MID,1151,0,MID-0
+1322,Guido Rodríguez,Premier League,West Ham,MF,MID,1149,0,MID-0
+1324,Frenkie de Jong,La Liga,Barcelona,MF,MID,1143,2,MID-2
+1330,Anthony Losilla,Bundesliga,Bochum,MF,MID,1137,0,MID-0
+1333,Peque,La Liga,Sevilla,"MF,FW",MID,1134,1,MID-1
+1335,Tanguy Ndombele,Ligue 1,Nice,MF,MID,1131,2,MID-2
+1339,Oliver Skipp,Premier League,Leicester City,MF,MID,1129,0,MID-0
+1348,Djaoui Cissé,Ligue 1,Rennes,MF,MID,1121,2,MID-2
+1354,Faustino Anjorin,Serie A,Empoli,MF,MID,1114,1,MID-1
+1358,Patrick Ciurria,Serie A,Monza,"MF,DF",MID,1111,1,MID-1
+1364,Edimilson Fernandes,Ligue 1,Brest,"MF,DF",MID,1105,0,MID-0
+1367,Eduardo Camavinga,La Liga,Real Madrid,"MF,DF",MID,1102,2,MID-2
+1372,Badredine Bouanani,Ligue 1,Nice,"MF,FW",MID,1099,3,MID-3
+1381,Carles Aleñá,La Liga,Alavés,"MF,FW",MID,1542,1,MID-1
+1382,Maxence Caqueret,Serie A,Como,MF,MID,1660,2,MID-2
+1383,Joe Willock,Premier League,Newcastle Utd,"MF,FW",MID,1086,1,MID-1
+1384,Gavi,La Liga,Barcelona,"MF,FW",MID,1085,2,MID-2
+1393,Tom Krauß,Bundesliga,Bochum,MF,MID,1077,2,MID-2
+1405,Sofiane Diop,Ligue 1,Nice,"MF,FW",MID,1064,3,MID-3
+1409,Christian Eriksen,Premier League,Manchester Utd,MF,MID,1061,2,MID-2
+1410,Rassoul Ndiaye,Ligue 1,Le Havre,MF,MID,1061,0,MID-0
+1413,Hamza Rafia,Serie A,Lecce,MF,MID,1058,0,MID-0
+1417,Jeremie Boga,Ligue 1,Nice,"MF,FW",MID,1054,3,MID-3
+1425,Yann Karamoh,Serie A,Torino,"MF,FW",MID,1046,1,MID-1
+1426,Han-Noah Massengo,Ligue 1,Auxerre,MF,MID,1046,0,MID-0
+1427,Edu Expósito,La Liga,Espanyol,MF,MID,1045,3,MID-3
+1428,Angelo Fulgini,Ligue 1,Lens,"MF,FW",MID,1045,3,MID-3
+1429,Louis Mouton,Ligue 1,Saint-Étienne,MF,MID,1045,2,MID-2
+1432,Aimen Moueffek,Ligue 1,Saint-Étienne,MF,MID,1039,1,MID-1
+1433,James Ward-Prowse,Premier League,West Ham,MF,MID,1439,0,MID-0
+1436,Ruben Loftus-Cheek,Serie A,Milan,MF,MID,1037,2,MID-2
+1441,Alex Sola,La Liga,Getafe,"MF,FW",MID,1029,1,MID-1
+1443,Khalil Fayad,Ligue 1,Montpellier,"MF,FW",MID,1028,2,MID-2
+1445,Soungoutou Magassa,Ligue 1,Monaco,MF,MID,1025,0,MID-0
+1446,Amir Richardson,Serie A,Fiorentina,MF,MID,1024,0,MID-0
+1447,Giovanni Fabbian,Serie A,Bologna,MF,MID,1023,1,MID-1
+1454,Cesare Casadei,Serie A,Torino,MF,MID,1017,1,MID-1
+1458,Fares Chaïbi,Bundesliga,Eint Frankfurt,"MF,FW",MID,1013,3,MID-3
+1462,Gianluca Gaetano,Serie A,Cagliari,"MF,FW",MID,1009,3,MID-3
+1466,Coba da Costa,La Liga,Getafe,"MF,FW",MID,1006,1,MID-1
+1471,Gonçalo Guedes,Premier League,Wolves,"MF,FW",MID,995,3,MID-3
+1473,Marco Brescianini,Serie A,Atalanta,MF,MID,991,1,MID-1
+1474,Oussama Targhalline,Ligue 1,Le Havre,MF,MID,990,0,MID-0
+1476,Mikel Vesga,La Liga,Athletic Club,MF,MID,988,0,MID-0
+1478,Lewis Ferguson,Serie A,Bologna,MF,MID,983,0,MID-0
+1479,Leonardo Bittencourt,Bundesliga,Werder Bremen,MF,MID,982,2,MID-2
+1480,Kristjan Asllani,Serie A,Inter,MF,MID,980,2,MID-2
+1481,Piotr Zieliński,Serie A,Inter,MF,MID,980,2,MID-2
+1489,Stefan Bajcetic,La Liga,Las Palmas,"MF,DF",MID,969,0,MID-0
+1491,Jean-Daniel Akpa-Akpro,Serie A,Monza,MF,MID,966,0,MID-0
+1493,Merlin Röhl,Bundesliga,Freiburg,"MF,FW",MID,965,1,MID-1
+1495,Nicolò Fagioli,Serie A,Fiorentina,MF,MID,1533,2,MID-2
+1499,Alfred Duncan,Serie A,Venezia,MF,MID,957,0,MID-0
+1500,Ado Onaiwu,Ligue 1,Auxerre,"MF,FW",MID,957,1,MID-1
+1502,Junior Mwanga,Ligue 1,Le Havre,MF,MID,1248,0,MID-0
+1504,Thiago Almada,Ligue 1,Lyon,"MF,FW",MID,951,3,MID-3
+1508,Fisayo Dele-Bashiru,Serie A,Lazio,"MF,FW",MID,947,1,MID-1
+1512,Antoine Joujou,Ligue 1,Le Havre,"MF,FW",MID,943,1,MID-1
+1514,Beñat Turrientes,La Liga,Real Sociedad,MF,MID,942,0,MID-0
+1516,Arthur Melo,La Liga,Girona,MF,MID,941,2,MID-2
+1519,Issa Doumbia,Serie A,Venezia,MF,MID,939,1,MID-1
+1520,Arne Maier,Bundesliga,Augsburg,MF,MID,938,2,MID-2
+1522,Matt O'Riley,Premier League,Brighton,MF,MID,938,1,MID-1
+1527,Damián Rodríguez,La Liga,Celta Vigo,MF,MID,927,2,MID-2
+1528,Baptiste Santamaria,Ligue 1,Nice,MF,MID,1409,0,MID-0
+1531,Mattia Felici,Serie A,Cagliari,"MF,FW",MID,925,1,MID-1
+1532,Aljoscha Kemlein,Bundesliga,Union Berlin,MF,MID,922,0,MID-0
+1534,Jean Mattéo Bahoya,Bundesliga,Eint Frankfurt,"MF,FW",MID,921,1,MID-1
+1536,Ivan Ilić,Serie A,Torino,MF,MID,920,1,MID-1
+1545,Marc Roca,La Liga,Betis,MF,MID,906,0,MID-0
+1556,Romain Faivre,Ligue 1,Brest,"MF,FW",MID,899,3,MID-3
+1558,Oier Zarraga,Serie A,Udinese,MF,MID,896,1,MID-1
+1569,Matías Vecino,Serie A,Lazio,MF,MID,877,1,MID-1
+1574,Grigoris Kastanos,Serie A,Hellas Verona,"MF,FW",MID,872,1,MID-1
+1576,Julio Enciso,Premier League,Ipswich Town,"MF,FW",MID,1163,3,MID-3
+1578,Fabian Rieder,Bundesliga,Stuttgart,"MF,FW",MID,867,1,MID-1
+1581,Mathias Jensen,Premier League,Brentford,MF,MID,862,2,MID-2
+1584,Jack Taylor,Premier League,Ipswich Town,MF,MID,860,0,MID-0
+1585,Mathis Amougou,Ligue 1,Saint-Étienne,MF,MID,867,0,MID-0
+1587,Tamás Nikitscher,La Liga,Valladolid,"MF,DF",MID,858,0,MID-0
+1588,Conor Chaplin,Premier League,Ipswich Town,"MF,FW",MID,857,1,MID-1
+1589,Olasagasti,La Liga,Real Sociedad,MF,MID,857,0,MID-0
+1592,Matteo Pessina,Serie A,Monza,MF,MID,854,0,MID-0
+1602,Gerard Gumbau,La Liga,Rayo Vallecano,MF,MID,849,1,MID-1
+1604,Junior Messias,Serie A,Genoa,"MF,FW",MID,847,1,MID-1
+1605,Seko Fofana,Ligue 1,Rennes,MF,MID,844,3,MID-3
+1608,Edoardo Bove,Serie A,Fiorentina,"MF,FW",MID,836,0,MID-0
+1611,Tommaso Baldanzi,Serie A,Roma,"MF,FW",MID,832,3,MID-3
+1622,Louis Leroux,Ligue 1,Nantes,"MF,DF",MID,816,0,MID-0
+1623,Pablo Sarabia,Premier League,Wolves,"MF,FW",MID,814,3,MID-3
+1624,Albert Grønbaek,Ligue 1,Rennes,"MF,FW",MID,956,1,MID-1
+1629,Senny Mayulu,Ligue 1,Paris S-G,MF,MID,808,3,MID-3
+1635,Sean Longstaff,Premier League,Newcastle Utd,MF,MID,798,0,MID-0
+1636,Roméo Lavia,Premier League,Chelsea,MF,MID,797,0,MID-0
+1638,Moi Gómez,La Liga,Osasuna,"MF,FW",MID,796,2,MID-2
+1639,Nicolas Höfler,Bundesliga,Freiburg,MF,MID,794,0,MID-0
+1647,Luca Kerber,Bundesliga,Heidenheim,"MF,DF",MID,783,0,MID-0
+1660,Amine Adli,Bundesliga,Leverkusen,"MF,FW",MID,766,3,MID-3
+1664,Fredrik Jensen,Bundesliga,Augsburg,MF,MID,763,1,MID-1
+1666,João Félix,Serie A,Milan,MF,MID,1129,3,MID-3
+1667,Nicolás González,Premier League,Manchester City,MF,MID,760,0,MID-0
+1668,Lennard Maloney,Bundesliga,Heidenheim,MF,MID,786,0,MID-0
+1669,Ola Solbakken,Serie A,Empoli,"MF,FW",MID,760,1,MID-1
+1673,Alex Scott,Premier League,Bournemouth,MF,MID,755,2,MID-2
+1674,Cheikh Tidiane Niasse,Serie A,Hellas Verona,MF,MID,755,0,MID-0
+1684,Teddy Teuma,Ligue 1,Reims,MF,MID,750,2,MID-2
+1689,Marco Asensio,Premier League,Aston Villa,MF,MID,1361,3,MID-3
+1694,Angel Gomes,Ligue 1,Lille,MF,MID,736,1,MID-1
+1698,Dennis Geiger,Bundesliga,Hoffenheim,"MF,FW",MID,734,0,MID-0
+1701,Mathieu Cafaro,Ligue 1,Saint-Étienne,"MF,FW",MID,732,1,MID-1
+1703,Chuky san jose,La Liga,Valladolid,MF,MID,728,1,MID-1
+1705,Michel Aebischer,Serie A,Bologna,MF,MID,724,0,MID-0
+1706,Rayan Raveloson,Ligue 1,Auxerre,"MF,DF",MID,724,0,MID-0
+1707,Oscar Højlund,Bundesliga,Eint Frankfurt,MF,MID,722,2,MID-2
+1713,Yorbe Vertessen,Bundesliga,Union Berlin,"MF,FW",MID,718,3,MID-3
+1715,Medon Berisha,Serie A,Lecce,MF,MID,716,2,MID-2
+1722,Jorginho,Premier League,Arsenal,MF,MID,704,2,MID-2
+1726,Nathan Broadhead,Premier League,Ipswich Town,"MF,FW",MID,702,1,MID-1
+1730,Juan Bernat,La Liga,Getafe,"MF,DF",MID,911,1,MID-1
+1731,Stoichkov,La Liga,Alavés,"MF,FW",MID,699,1,MID-1
+1734,Sergi Roberto,Serie A,Como,MF,MID,696,2,MID-2
+1735,Magnus Kofod Andersen,Serie A,Venezia,MF,MID,695,0,MID-0
+1736,William Smallbone,Premier League,Southampton,MF,MID,690,1,MID-1
+1738,Brajan Gruda,Premier League,Brighton,"MF,FW",MID,687,3,MID-3
+1740,Enzo Loiodice,La Liga,Las Palmas,MF,MID,684,0,MID-0
+1747,Can Uzun,Bundesliga,Eint Frankfurt,"MF,FW",MID,675,3,MID-3
+1750,João Palhinha,Bundesliga,Bayern Munich,MF,MID,673,0,MID-0
+1753,Finn Ole Becker,Bundesliga,Hoffenheim,MF,MID,670,0,MID-0
+1757,Assane Dioussé,Ligue 1,Auxerre,MF,MID,663,0,MID-0
+1758,Glen Kamara,Ligue 1,Rennes,MF,MID,662,0,MID-0
+1759,Hwang Hee-chan,Premier League,Wolves,"MF,FW",MID,661,1,MID-1
+1764,Nahuel Estévez,Serie A,Parma,MF,MID,657,0,MID-0
+1766,Mert Kömür,Bundesliga,Augsburg,MF,MID,654,1,MID-1
+1770,Adrien Tameze,Serie A,Torino,"MF,DF",MID,649,0,MID-0
+1771,Ismaël Bennacer,Ligue 1,Marseille,MF,MID,946,2,MID-2
+1776,Darwin Machís,La Liga,Valladolid,"MF,FW",MID,639,1,MID-1
+1781,Yaya Kader Fofana,Ligue 1,Reims,"MF,FW",MID,634,1,MID-1
+1790,Tom Cairney,Premier League,Fulham,MF,MID,628,2,MID-2
+1791,Florian Grillitsch,La Liga,Valladolid,MF,MID,1224,2,MID-2
+1794,Mason Mount,Premier League,Manchester Utd,MF,MID,622,3,MID-3
+1805,Iker Muñoz,La Liga,Osasuna,MF,MID,610,1,MID-1
+1810,Denis Suárez,La Liga,Villarreal,MF,MID,608,3,MID-3
+1814,Adnan Januzaj,La Liga,Las Palmas,"MF,FW",MID,598,3,MID-3
+1815,Gaetano Castrovilli,Serie A,Monza,MF,MID,744,1,MID-1
+1817,Antoine Bernede,Serie A,Hellas Verona,MF,MID,594,0,MID-0
+1821,Ibrahim Sangaré,Premier League,Nott'ham Forest,MF,MID,590,0,MID-0
+1823,László Bénes,Bundesliga,Union Berlin,"MF,FW",MID,589,3,MID-3
+1824,Nampalys Mendy,Ligue 1,Lens,MF,MID,588,0,MID-0
+1827,Ilias Akhomach,La Liga,Villarreal,"MF,FW",MID,584,3,MID-3
+1828,Martin Terrier,Bundesliga,Leverkusen,"MF,FW",MID,584,1,MID-1
+1831,Mahamadou Diawara,Ligue 1,Le Havre,MF,MID,598,0,MID-0
+1832,Ross Barkley,Premier League,Aston Villa,MF,MID,581,2,MID-2
+1840,Tim Iroegbunam,Premier League,Everton,MF,MID,574,0,MID-0
+1843,Matteo Prati,Serie A,Cagliari,MF,MID,570,0,MID-0
+1844,José Gragera,La Liga,Espanyol,MF,MID,569,0,MID-0
+1847,Daler Kuzyaev,Ligue 1,Le Havre,MF,MID,567,0,MID-0
+1848,Lucas Tousart,Bundesliga,Union Berlin,MF,MID,561,0,MID-0
+1850,Aster Vranckx,Bundesliga,Wolfsburg,MF,MID,556,0,MID-0
+1855,Yan Diomandé,La Liga,Leganés,"MF,FW",MID,545,3,MID-3
+1856,John Joe,Ligue 1,Reims,MF,MID,593,0,MID-0
+1872,Jhon Solis,La Liga,Girona,MF,MID,535,0,MID-0
+1876,Hong Hyunseok,Bundesliga,Mainz 05,MF,MID,530,1,MID-1
+1877,Douglas Luiz,Serie A,Juventus,MF,MID,529,2,MID-2
+1884,Amine Harit,Ligue 1,Marseille,MF,MID,519,3,MID-3
+1886,Diego Gómez,Premier League,Brighton,MF,MID,516,2,MID-2
+1887,Rodrigo Riquelme,La Liga,Atlético Madrid,"MF,DF",MID,516,3,MID-3
+1890,Tino Kadewere,Ligue 1,Nantes,"MF,FW",MID,512,1,MID-1
+1892,Justin Devenny,Premier League,Crystal Palace,MF,MID,507,1,MID-1
+1896,Kacper Urbanski,Serie A,Monza,MF,MID,747,2,MID-2
+1901,Jonas Martin,Ligue 1,Brest,MF,MID,496,0,MID-0
+1902,Óscar Trejo,La Liga,Rayo Vallecano,MF,MID,496,2,MID-2
+1907,Tommy Doyle,Premier League,Wolves,MF,MID,488,2,MID-2
+1908,Carlos Benavídez,La Liga,Alavés,MF,MID,487,0,MID-0
+1911,William Carvalho,La Liga,Betis,MF,MID,484,2,MID-2
+1912,Pierrick Capelle,Ligue 1,Angers,MF,MID,483,0,MID-0
+1917,Peter González,La Liga,Getafe,"MF,FW",MID,477,1,MID-1
+1922,Samuele Vignato,Serie A,Monza,MF,MID,470,1,MID-1
+1923,Ismaël Koné,Ligue 1,Rennes,MF,MID,829,1,MID-1
+1928,Abdou Harroui,Serie A,Hellas Verona,"MF,FW",MID,463,3,MID-3
+1932,Pere Milla,La Liga,Espanyol,"MF,FW",MID,456,1,MID-1
+1936,Mohamed Haj,Serie A,Parma,MF,MID,453,1,MID-1
+1937,James Sands,Bundesliga,St. Pauli,"MF,DF",MID,453,0,MID-0
+1938,Cheick Doucouré,Premier League,Crystal Palace,MF,MID,452,0,MID-0
+1939,Mohamed Kaba,Serie A,Lecce,MF,MID,452,0,MID-0
+1973,Tajon Buchanan,La Liga,Villarreal,MF,MID,511,1,MID-1
+1975,Jacob Bruun Larsen,Bundesliga,Stuttgart,"MF,FW",MID,814,3,MID-3
+1994,Salih Özcan,Bundesliga,Dortmund,MF,MID,744,2,MID-2
+12,Bryan Mbeumo,Premier League,Brentford,FW,FWD,3414,2,FWD-2
+14,Mohamed Salah,Premier League,Liverpool,FW,FWD,3371,4,FWD-4
+41,Antoine Semenyo,Premier League,Bournemouth,FW,FWD,3203,2,FWD-2
+57,Roberto Piccoli,Serie A,Cagliari,FW,FWD,3127,0,FWD-0
+60,Morgan Rogers,Premier League,Aston Villa,"FW,MF",FWD,3114,2,FWD-2
+65,Dodi Lukebakio,La Liga,Sevilla,FW,FWD,3092,2,FWD-2
+67,Carlos Vicente,La Liga,Alavés,"FW,MF",FWD,3092,1,FWD-1
+93,Nikola Krstović,Serie A,Lecce,FW,FWD,3057,0,FWD-0
+108,Alex Iwobi,Premier League,Fulham,"FW,MF",FWD,2981,2,FWD-2
+112,Javi Puado,La Liga,Espanyol,"FW,MF",FWD,2974,0,FWD-0
+113,Jarrod Bowen,Premier League,West Ham,"FW,MF",FWD,2973,2,FWD-2
+125,Chris Wood,Premier League,Nott'ham Forest,FW,FWD,2959,0,FWD-0
+129,Ante Budimir,La Liga,Osasuna,FW,FWD,2952,0,FWD-0
+142,Yoane Wissa,Premier League,Brentford,FW,FWD,2919,3,FWD-3
+147,Kylian Mbappé,La Liga,Real Madrid,FW,FWD,2907,4,FWD-4
+169,Ritsu Doan,Bundesliga,Freiburg,"FW,MF",FWD,2862,1,FWD-1
+171,Lamine Yamal,La Liga,Barcelona,FW,FWD,2856,4,FWD-4
+175,Andrea Pinamonti,Serie A,Genoa,FW,FWD,2850,0,FWD-0
+180,Romelu Lukaku,Serie A,Napoli,FW,FWD,2843,0,FWD-0
+183,Raphinha,La Liga,Barcelona,"FW,MF",FWD,2839,4,FWD-4
+191,Jamie Vardy,Premier League,Leicester City,FW,FWD,2823,0,FWD-0
+198,Mason Greenwood,Ligue 1,Marseille,"FW,MF",FWD,2804,2,FWD-2
+199,Matteo Politano,Serie A,Napoli,"FW,MF",FWD,2804,2,FWD-2
+208,Zuriko Davitashvili,Ligue 1,Saint-Étienne,"FW,MF",FWD,2778,2,FWD-2
+210,Matthis Abline,Ligue 1,Nantes,FW,FWD,2768,0,FWD-0
+215,Alexander Isak,Premier League,Newcastle Utd,FW,FWD,2756,3,FWD-3
+224,Tim Kleindienst,Bundesliga,Gladbach,FW,FWD,2737,3,FWD-3
+226,Erling Haaland,Premier League,Manchester City,FW,FWD,2736,3,FWD-3
+236,Alberto Moleiro,La Liga,Las Palmas,"FW,MF",FWD,2714,1,FWD-1
+250,Junya Ito,Ligue 1,Reims,"FW,MF",FWD,2690,2,FWD-2
+256,Mattia Zaccagni,Serie A,Lazio,FW,FWD,2686,2,FWD-2
+267,Robert Lewandowski,La Liga,Barcelona,FW,FWD,2667,3,FWD-3
+273,Che Adams,Serie A,Torino,FW,FWD,2652,0,FWD-0
+274,Iñaki Williams,La Liga,Athletic Club,FW,FWD,2652,2,FWD-2
+278,Keito Nakamura,Ligue 1,Reims,"FW,MF",FWD,2649,1,FWD-1
+279,Jean-Philippe Mateta,Premier League,Crystal Palace,FW,FWD,2648,0,FWD-0
+292,Gabriel Strefezza,Serie A,Como,"FW,MF",FWD,2619,1,FWD-1
+296,Moise Kean,Serie A,Fiorentina,FW,FWD,2615,3,FWD-3
+311,Moses Simon,Ligue 1,Nantes,"FW,MF",FWD,2609,2,FWD-2
+315,Kaoru Mitoma,Premier League,Brighton,"FW,MF",FWD,2603,2,FWD-2
+318,Serhou Guirassy,Bundesliga,Dortmund,FW,FWD,2598,3,FWD-3
+319,Ollie Watkins,Premier League,Aston Villa,FW,FWD,2598,3,FWD-3
+324,Liam Delap,Premier League,Ipswich Town,FW,FWD,2593,0,FWD-0
+326,Mohammed Kudus,Premier League,West Ham,"FW,MF",FWD,2590,1,FWD-1
+330,Jørgen Strand Larsen,Premier League,Wolves,FW,FWD,2587,0,FWD-0
+340,Arnaud Kalimuendo,Ligue 1,Rennes,"FW,MF",FWD,2578,0,FWD-0
+349,Evann Guessand,Ligue 1,Nice,"FW,MF",FWD,2565,2,FWD-2
+351,Hugo Ekitike,Bundesliga,Eint Frankfurt,FW,FWD,2563,3,FWD-3
+356,Álvaro García,La Liga,Rayo Vallecano,"FW,MF",FWD,2559,2,FWD-2
+358,Jonathan David,Ligue 1,Lille,FW,FWD,2554,3,FWD-3
+363,Leandro Trossard,Premier League,Arsenal,FW,FWD,2546,2,FWD-2
+366,Kiké,La Liga,Alavés,FW,FWD,2542,0,FWD-0
+367,Benedict Hollerbach,Bundesliga,Union Berlin,"FW,MF",FWD,2540,1,FWD-1
+371,Ange-Yoan Bonny,Serie A,Parma,FW,FWD,2529,0,FWD-0
+382,Julián Álvarez,La Liga,Atlético Madrid,FW,FWD,2509,3,FWD-3
+387,Anthony Elanga,Premier League,Nott'ham Forest,"FW,MF",FWD,2501,2,FWD-2
+391,Ludovic Ajorque,Ligue 1,Brest,FW,FWD,2495,0,FWD-0
+392,Jorge de Frutos,La Liga,Rayo Vallecano,"FW,MF",FWD,2495,1,FWD-1
+393,Raúl Jiménez,Premier League,Fulham,FW,FWD,2494,0,FWD-0
+399,Christantus Uche,La Liga,Getafe,"FW,MF",FWD,2486,1,FWD-1
+403,Christian Pulisic,Serie A,Milan,"FW,MF",FWD,2478,2,FWD-2
+404,Lautaro Martínez,Serie A,Inter,FW,FWD,2474,3,FWD-3
+408,Antoine Griezmann,La Liga,Atlético Madrid,"FW,MF",FWD,2469,2,FWD-2
+411,Mohamed Amoura,Bundesliga,Wolfsburg,FW,FWD,2467,2,FWD-2
+420,Loïs Openda,Bundesliga,RB Leipzig,"FW,MF",FWD,2453,3,FWD-3
+428,Anthony Gordon,Premier League,Newcastle Utd,"FW,MF",FWD,2434,2,FWD-2
+430,Vincenzo Grifo,Bundesliga,Freiburg,"FW,MF",FWD,2432,2,FWD-2
+431,Iliman Ndiaye,Premier League,Everton,FW,FWD,2430,1,FWD-1
+436,Artem Dovbyk,Serie A,Roma,FW,FWD,2418,0,FWD-0
+437,Marvin Ducksch,Bundesliga,Werder Bremen,FW,FWD,2418,2,FWD-2
+441,Rubén García,La Liga,Osasuna,"FW,MF",FWD,2413,1,FWD-1
+443,Maghnes Akliouche,Ligue 1,Monaco,"FW,MF",FWD,2406,2,FWD-2
+447,Kenan Yıldız,Serie A,Juventus,"FW,MF",FWD,2402,2,FWD-2
+448,Luis Díaz,Premier League,Liverpool,FW,FWD,2399,4,FWD-4
+456,Valentín Castellanos,Serie A,Lazio,FW,FWD,2384,3,FWD-3
+458,Mateo Retegui,Serie A,Atalanta,FW,FWD,2383,3,FWD-3
+459,Harry Kane,Bundesliga,Bayern Munich,FW,FWD,2381,3,FWD-3
+461,Benjamin Šeško,Bundesliga,RB Leipzig,"FW,MF",FWD,2380,0,FWD-0
+471,Jacob Murphy,Premier League,Newcastle Utd,FW,FWD,2360,2,FWD-2
+474,Lorenzo Lucca,Serie A,Udinese,FW,FWD,2353,0,FWD-0
+485,Álex Berenguer,La Liga,Athletic Club,"FW,MF",FWD,2339,2,FWD-2
+490,Michael Olise,Bundesliga,Bayern Munich,"FW,MF",FWD,2334,4,FWD-4
+494,Sebastiano Esposito,Serie A,Empoli,"FW,MF",FWD,2331,1,FWD-1
+504,Thierno Barry,La Liga,Villarreal,FW,FWD,2323,0,FWD-0
+505,Rafael Leão,Serie A,Milan,FW,FWD,2323,4,FWD-4
+509,Evanilson,Premier League,Bournemouth,FW,FWD,2319,0,FWD-0
+510,Gaetano Oristanio,Serie A,Venezia,"FW,MF",FWD,2315,1,FWD-1
+525,Lassine Sinayoko,Ligue 1,Auxerre,"FW,MF",FWD,2299,2,FWD-2
+530,Santiago Castro,Serie A,Bologna,FW,FWD,2294,0,FWD-0
+532,Emanuel Emegha,Ligue 1,Strasbourg,FW,FWD,2293,3,FWD-3
+533,Kevin Schade,Premier League,Brentford,FW,FWD,2293,3,FWD-3
+535,Gabriel Martinelli,Premier League,Arsenal,"FW,MF",FWD,2290,2,FWD-2
+539,Philipp Hofmann,Bundesliga,Bochum,FW,FWD,2277,0,FWD-0
+548,Pedro Neto,Premier League,Chelsea,FW,FWD,2269,2,FWD-2
+553,Juan Cruz,La Liga,Leganés,"FW,MF",FWD,2257,1,FWD-1
+557,Vinicius Júnior,La Liga,Real Madrid,FW,FWD,2253,4,FWD-4
+559,Mikel Oyarzabal,La Liga,Real Sociedad,FW,FWD,2250,0,FWD-0
+564,Lorenzo Colombo,Serie A,Empoli,"FW,MF",FWD,2233,0,FWD-0
+577,Nicolas Jackson,Premier League,Chelsea,FW,FWD,2220,3,FWD-3
+579,Gustav Isaksen,Serie A,Lazio,FW,FWD,2210,2,FWD-2
+580,Marvin Pieringer,Bundesliga,Heidenheim,"FW,MF",FWD,2206,0,FWD-0
+584,Dominic Solanke,Premier League,Tottenham,FW,FWD,2201,0,FWD-0
+585,Marcus Thuram,Serie A,Inter,FW,FWD,2200,3,FWD-3
+589,Callum Hudson-Odoi,Premier League,Nott'ham Forest,"FW,MF",FWD,2194,2,FWD-2
+599,Bradley Barcola,Ligue 1,Paris S-G,FW,FWD,2181,4,FWD-4
+601,Brennan Johnson,Premier League,Tottenham,FW,FWD,2177,3,FWD-3
+603,Robin Hack,Bundesliga,Gladbach,"FW,MF",FWD,2172,2,FWD-2
+606,Hugo Duro,La Liga,Valencia,FW,FWD,2166,0,FWD-0
+614,Isaac Romero,La Liga,Sevilla,FW,FWD,2156,0,FWD-0
+624,Dan Ndoye,Serie A,Bologna,FW,FWD,2143,2,FWD-2
+638,Danny Welbeck,Premier League,Brighton,FW,FWD,2115,0,FWD-0
+643,Son Heung-min,Premier League,Tottenham,FW,FWD,2110,4,FWD-4
+645,Jonathan Burkardt,Bundesliga,Mainz 05,FW,FWD,2109,3,FWD-3
+653,Dany Mota,Serie A,Monza,"FW,MF",FWD,2104,0,FWD-0
+666,Jack Harrison,Premier League,Everton,FW,FWD,2076,1,FWD-1
+674,Vedat Muriqi,La Liga,Mallorca,FW,FWD,2058,0,FWD-0
+679,Alexandre Lacazette,Ligue 1,Lyon,FW,FWD,2051,3,FWD-3
+683,Patrick Cutrone,Serie A,Como,FW,FWD,2047,0,FWD-0
+689,Rayan Cherki,Ligue 1,Lyon,"FW,MF",FWD,2041,4,FWD-4
+691,Sandro Ramírez,La Liga,Las Palmas,"FW,MF",FWD,2034,1,FWD-1
+692,Noni Madueke,Premier League,Chelsea,FW,FWD,2033,4,FWD-4
+696,Tete Morente,Serie A,Lecce,"FW,MF",FWD,2021,1,FWD-1
+708,Dango Ouattara,Premier League,Bournemouth,FW,FWD,2005,2,FWD-2
+709,Rasmus Højlund,Premier League,Manchester Utd,FW,FWD,2004,0,FWD-0
+713,Josué Casimir,Ligue 1,Le Havre,"FW,MF",FWD,1997,1,FWD-1
+714,Nico Williams,La Liga,Athletic Club,FW,FWD,1996,2,FWD-2
+715,Dennis Man,Serie A,Parma,"FW,MF",FWD,1995,2,FWD-2
+719,Abde Ezzalzouli,La Liga,Betis,"FW,MF",FWD,1984,2,FWD-2
+728,Ayoze Pérez,La Liga,Villarreal,FW,FWD,1970,3,FWD-3
+731,Jonas Wind,Bundesliga,Wolfsburg,"FW,MF",FWD,1966,0,FWD-0
+739,Florian Thauvin,Serie A,Udinese,"FW,MF",FWD,1956,2,FWD-2
+740,Shuto Machino,Bundesliga,Holstein Kiel,"FW,MF",FWD,1953,0,FWD-0
+741,Borja Iglesias,La Liga,Celta Vigo,FW,FWD,1952,3,FWD-3
+744,João Pedro,Premier League,Brighton,"FW,MF",FWD,1948,2,FWD-2
+749,Marcus Tavernier,Premier League,Bournemouth,"FW,MF",FWD,1939,2,FWD-2
+752,Santiago Pierotti,Serie A,Lecce,FW,FWD,1937,1,FWD-1
+754,Cody Gakpo,Premier League,Liverpool,FW,FWD,1935,2,FWD-2
+760,Rodrygo,La Liga,Real Madrid,"FW,MF",FWD,1928,2,FWD-2
+771,Viktor Tsyhankov,La Liga,Girona,"FW,MF",FWD,1913,2,FWD-2
+772,Amin Sarr,Serie A,Hellas Verona,FW,FWD,1907,0,FWD-0
+776,Issa Soumaré,Ligue 1,Le Havre,"FW,MF",FWD,1902,1,FWD-1
+785,Farid El Melali,Ligue 1,Angers,FW,FWD,1893,1,FWD-1
+791,Lucas Stassin,Ligue 1,Saint-Étienne,FW,FWD,1887,3,FWD-3
+792,Tiago Tomás,Bundesliga,Wolfsburg,"FW,MF",FWD,1884,1,FWD-1
+794,Dani Raba,La Liga,Leganés,"FW,MF",FWD,1879,2,FWD-2
+795,Riccardo Orsolini,Serie A,Bologna,FW,FWD,1878,2,FWD-2
+796,Kai Havertz,Premier League,Arsenal,"FW,MF",FWD,1875,3,FWD-3
+798,Tyler Dibling,Premier League,Southampton,"FW,MF",FWD,1874,1,FWD-1
+799,Adam Hložek,Bundesliga,Hoffenheim,"FW,MF",FWD,1871,2,FWD-2
+800,Lucas Höler,Bundesliga,Freiburg,"FW,MF",FWD,1867,0,FWD-0
+802,Fábio Silva,La Liga,Las Palmas,FW,FWD,1866,0,FWD-0
+804,Lucas Beltrán,Serie A,Fiorentina,"FW,MF",FWD,1864,1,FWD-1
+811,Ermedin Demirović,Bundesliga,Stuttgart,FW,FWD,1855,3,FWD-3
+812,Johannes Eggestein,Bundesliga,St. Pauli,FW,FWD,1853,0,FWD-0
+820,Breel Embolo,Ligue 1,Monaco,"FW,MF",FWD,1841,3,FWD-3
+822,Gorka Guruzeta,La Liga,Athletic Club,FW,FWD,1840,0,FWD-0
+824,Yankuba Minteh,Premier League,Brighton,"FW,MF",FWD,1838,2,FWD-2
+825,Oliver McBurnie,La Liga,Las Palmas,FW,FWD,1837,0,FWD-0
+826,Bryan Zaragoza,La Liga,Osasuna,"FW,MF",FWD,1836,2,FWD-2
+831,Gaëtan Laborde,Ligue 1,Nice,FW,FWD,1829,3,FWD-3
+839,Morgan Guilavogui,Bundesliga,St. Pauli,"FW,MF",FWD,1807,0,FWD-0
+846,Florian Sotoca,Ligue 1,Lens,"FW,MF",FWD,1794,1,FWD-1
+854,Dušan Vlahović,Serie A,Juventus,FW,FWD,1784,3,FWD-3
+863,Jamie Gittens,Bundesliga,Dortmund,"FW,MF",FWD,1776,2,FWD-2
+869,Adama Traoré,Premier League,Fulham,"FW,MF",FWD,1772,2,FWD-2
+872,Sávio,Premier League,Manchester City,"FW,MF",FWD,1766,4,FWD-4
+873,Cyle Larin,La Liga,Mallorca,FW,FWD,1764,0,FWD-0
+874,Jadon Sancho,Premier League,Chelsea,FW,FWD,1764,2,FWD-2
+880,Harvey Barnes,Premier League,Newcastle Utd,FW,FWD,1755,2,FWD-2
+886,Jim Allevinah,Ligue 1,Angers,FW,FWD,1750,1,FWD-1
+888,Nicolás González,Serie A,Juventus,"FW,MF",FWD,1750,1,FWD-1
+891,Iago Aspas,La Liga,Celta Vigo,"FW,MF",FWD,1745,2,FWD-2
+896,Ousmane Dembélé,Ligue 1,Paris S-G,FW,FWD,1730,4,FWD-4
+897,Désiré Doué,Ligue 1,Paris S-G,"FW,MF",FWD,1730,4,FWD-4
+898,Marius Bülter,Bundesliga,Hoffenheim,"FW,DF",FWD,1729,2,FWD-2
+900,Bukayo Saka,Premier League,Arsenal,"FW,MF",FWD,1729,4,FWD-4
+903,Deniz Undav,Bundesliga,Stuttgart,"FW,MF",FWD,1726,3,FWD-3
+905,Miguel,La Liga,Leganés,FW,FWD,1724,0,FWD-0
+909,Bryan Gil,La Liga,Girona,"FW,MF",FWD,1721,2,FWD-2
+915,Alessandro Zanoli,Serie A,Genoa,"FW,DF",FWD,1711,1,FWD-1
+933,Phillip Tietz,Bundesliga,Augsburg,FW,FWD,1686,0,FWD-0
+935,Patrik Schick,Bundesliga,Leverkusen,FW,FWD,1684,3,FWD-3
+941,Joshua King,Ligue 1,Toulouse,"FW,MF",FWD,1673,0,FWD-0
+946,Lee Kang-in,Ligue 1,Paris S-G,"FW,MF",FWD,1663,2,FWD-2
+960,Alieu Fadera,Serie A,Como,"FW,DF",FWD,1644,1,FWD-1
+961,Oladapo Afolayan,Bundesliga,St. Pauli,"FW,MF",FWD,1639,1,FWD-1
+964,Jordan Ayew,Premier League,Leicester City,"FW,MF",FWD,1659,1,FWD-1
+966,Leroy Sané,Bundesliga,Bayern Munich,FW,FWD,1637,4,FWD-4
+967,Samuel Essende,Bundesliga,Augsburg,FW,FWD,1636,0,FWD-0
+971,Esteban Lepaul,Ligue 1,Angers,FW,FWD,1629,0,FWD-0
+972,Oumar Diakité,Ligue 1,Reims,FW,FWD,1628,0,FWD-0
+976,Jacob Ramsey,Premier League,Aston Villa,"FW,MF",FWD,1623,1,FWD-1
+977,Nick Woltemade,Bundesliga,Stuttgart,"FW,MF",FWD,1622,3,FWD-3
+978,Mohamed Ali Cho,Ligue 1,Nice,"FW,MF",FWD,1621,2,FWD-2
+987,Stephy Mavididi,Premier League,Leicester City,FW,FWD,1615,1,FWD-1
+990,Dominic Calvert-Lewin,Premier League,Everton,FW,FWD,1609,0,FWD-0
+991,Adri Embarba,La Liga,Rayo Vallecano,"FW,MF",FWD,1607,1,FWD-1
+992,Zito Luvumbo,Serie A,Cagliari,"FW,MF",FWD,1606,1,FWD-1
+994,Joel Pohjanpalo,Serie A,Venezia,FW,FWD,1603,0,FWD-0
+1002,Maximilian Beier,Bundesliga,Dortmund,"FW,MF",FWD,1591,3,FWD-3
+1005,Malick Fofana,Ligue 1,Lyon,FW,FWD,1589,2,FWD-2
+1011,Mamadou Sylla,La Liga,Valladolid,"FW,MF",FWD,1583,0,FWD-0
+1020,Mathias Pereira Lage,Ligue 1,Brest,"FW,MF",FWD,1571,2,FWD-2
+1023,Alexander Sørloth,La Liga,Atlético Madrid,FW,FWD,1566,3,FWD-3
+1039,Junior Adamu,Bundesliga,Freiburg,FW,FWD,1545,0,FWD-0
+1040,Phil Harres,Bundesliga,Holstein Kiel,FW,FWD,1544,0,FWD-0
+1047,Beto,Premier League,Everton,FW,FWD,1534,0,FWD-0
+1055,Facundo Buonanotte,Premier League,Leicester City,"FW,MF",FWD,1523,1,FWD-1
+1060,Casper Tengstedt,Serie A,Hellas Verona,FW,FWD,1517,0,FWD-0
+1061,Jeremy Doku,Premier League,Manchester City,"FW,MF",FWD,1516,4,FWD-4
+1062,Frank Magri,Ligue 1,Toulouse,"FW,MF",FWD,1516,0,FWD-0
+1069,Nicolas Pépé,La Liga,Villarreal,"FW,MF",FWD,1500,2,FWD-2
+1071,Roberto Férnandez,La Liga,Espanyol,FW,FWD,1497,0,FWD-0
+1076,Tanguy Coulibaly,Ligue 1,Montpellier,"FW,MF",FWD,1485,1,FWD-1
+1085,M'Bala Nzola,Ligue 1,Lens,FW,FWD,1460,3,FWD-3
+1092,André Ayew,Ligue 1,Le Havre,FW,FWD,1453,0,FWD-0
+1096,Georges Mikautadze,Ligue 1,Lyon,FW,FWD,1449,3,FWD-3
+1097,Omar Marmoush,Bundesliga,Eint Frankfurt,FW,FWD,2623,4,FWD-4
+1098,Cameron Archer,Premier League,Southampton,FW,FWD,1441,0,FWD-0
+1100,Franck Honorat,Bundesliga,Gladbach,FW,FWD,1439,2,FWD-2
+1103,Karim Adeyemi,Bundesliga,Dortmund,"FW,MF",FWD,1433,4,FWD-4
+1104,Andrea Colpani,Serie A,Fiorentina,"FW,MF",FWD,1432,1,FWD-1
+1108,Matteo Cancellieri,Serie A,Parma,"FW,MF",FWD,1424,1,FWD-1
+1111,Paulo Dybala,Serie A,Roma,"FW,MF",FWD,1417,2,FWD-2
+1123,Yaser Asprilla,La Liga,Girona,"FW,MF",FWD,1405,2,FWD-2
+1124,Anass Zaroury,Ligue 1,Lens,"FW,MF",FWD,1405,2,FWD-2
+1126,Kamaldeen Sulemana,Premier League,Southampton,"FW,MF",FWD,1402,1,FWD-1
+1127,Joshua Zirkzee,Premier League,Manchester Utd,"FW,MF",FWD,1402,0,FWD-0
+1129,Juanmi Latasa,La Liga,Valladolid,FW,FWD,1398,0,FWD-0
+1133,Pablo Durán,La Liga,Celta Vigo,"FW,MF",FWD,1394,1,FWD-1
+1136,Moritz Broschinski,Bundesliga,Bochum,"FW,MF",FWD,1390,1,FWD-1
+1142,Brahim Díaz,La Liga,Real Madrid,"FW,MF",FWD,1385,2,FWD-2
+1150,Daniel Mosquera,Serie A,Hellas Verona,FW,FWD,1375,0,FWD-0
+1153,Alfon,La Liga,Celta Vigo,"FW,MF",FWD,1371,4,FWD-4
+1161,Antony,La Liga,Betis,FW,FWD,1503,2,FWD-2
+1171,Williot Swedberg,La Liga,Celta Vigo,"FW,MF",FWD,1348,3,FWD-3
+1172,Abel Ruiz,La Liga,Girona,FW,FWD,1346,0,FWD-0
+1174,Francisco Conceição,Serie A,Juventus,"FW,MF",FWD,1340,2,FWD-2
+1178,Arnaut Danjuma,La Liga,Girona,"FW,MF",FWD,1535,1,FWD-1
+1180,Carlos Martín,La Liga,Alavés,"FW,MF",FWD,1333,1,FWD-1
+1187,Sorba Thomas,Ligue 1,Nantes,"FW,MF",FWD,1321,2,FWD-2
+1190,Antonio Sanabria,Serie A,Torino,FW,FWD,1318,0,FWD-0
+1203,Osame Sahraoui,Ligue 1,Lille,"FW,MF",FWD,1293,2,FWD-2
+1205,Valentin Mihaila,Serie A,Parma,"FW,MF",FWD,1288,1,FWD-1
+1208,David Neres,Serie A,Napoli,FW,FWD,1283,2,FWD-2
+1209,Kingsley Coman,Bundesliga,Bayern Munich,FW,FWD,1282,4,FWD-4
+1211,Benjamín Domínguez,Serie A,Bologna,FW,FWD,1281,1,FWD-1
+1216,Albert Guðmundsson,Serie A,Fiorentina,"FW,MF",FWD,1273,1,FWD-1
+1217,Milan Đurić,Serie A,Monza,FW,FWD,1538,0,FWD-0
+1218,Nicolas Viola,Serie A,Cagliari,"FW,MF",FWD,1267,1,FWD-1
+1221,Alexander Bernhardsson,Bundesliga,Holstein Kiel,"FW,MF",FWD,1263,1,FWD-1
+1225,Romain Del Castillo,Ligue 1,Brest,FW,FWD,1259,2,FWD-2
+1228,Assane Diao,Serie A,Como,"FW,MF",FWD,1529,1,FWD-1
+1231,Mostafa Mohamed,Ligue 1,Nantes,FW,FWD,1252,0,FWD-0
+1235,Danel Sinani,Bundesliga,St. Pauli,"FW,MF",FWD,1250,1,FWD-1
+1237,Adam Armstrong,Premier League,Southampton,"FW,MF",FWD,1248,0,FWD-0
+1239,Serge Gnabry,Bundesliga,Bayern Munich,"FW,MF",FWD,1242,4,FWD-4
+1240,Jesper Lindstrøm,Premier League,Everton,FW,FWD,1239,1,FWD-1
+1243,Abdallah Sima,Ligue 1,Brest,"FW,MF",FWD,1238,3,FWD-3
+1246,Vitor Roque,La Liga,Betis,FW,FWD,1235,0,FWD-0
+1250,Mika Biereth,Ligue 1,Monaco,FW,FWD,1228,3,FWD-3
+1253,John Yeboah,Serie A,Venezia,"FW,MF",FWD,1226,1,FWD-1
+1272,Diogo Jota,Premier League,Liverpool,FW,FWD,1196,3,FWD-3
+1273,Diego,La Liga,Leganés,FW,FWD,1195,0,FWD-0
+1278,Marcos André,La Liga,Valladolid,FW,FWD,1188,0,FWD-0
+1281,Tammy Abraham,Serie A,Milan,FW,FWD,1184,3,FWD-3
+1283,Jack Clarke,Premier League,Ipswich Town,"FW,MF",FWD,1181,1,FWD-1
+1285,Marco Grüll,Bundesliga,Werder Bremen,"FW,MF",FWD,1181,1,FWD-1
+1286,Mathias Honsak,Bundesliga,Heidenheim,"FW,DF",FWD,1181,1,FWD-1
+1289,Khvicha Kvaratskhelia,Serie A,Napoli,"FW,MF",FWD,2094,4,FWD-4
+1299,Arnaud Nordin,Ligue 1,Montpellier,FW,FWD,1246,1,FWD-1
+1302,Tim Skarke,Bundesliga,Union Berlin,"FW,MF",FWD,1164,1,FWD-1
+1303,Harry Wilson,Premier League,Fulham,"FW,MF",FWD,1162,1,FWD-1
+1306,Randal Kolo Muani,Serie A,Juventus,FW,FWD,1518,3,FWD-3
+1307,Noah Weißhaupt,Bundesliga,St. Pauli,"FW,MF",FWD,1240,1,FWD-1
+1316,Thijs Dallinga,Serie A,Bologna,FW,FWD,1154,0,FWD-0
+1319,Léo Scienza,Bundesliga,Heidenheim,"FW,MF",FWD,1153,2,FWD-2
+1323,Mama Samba Baldé,Ligue 1,Brest,FW,FWD,1182,1,FWD-1
+1325,Leon Bailey,Premier League,Aston Villa,"FW,MF",FWD,1139,2,FWD-2
+1326,Mitchel Bakker,Ligue 1,Lille,"FW,DF",FWD,1161,2,FWD-2
+1327,Cucho,La Liga,Betis,FW,FWD,1139,0,FWD-0
+1332,Sergio Camello,La Liga,Rayo Vallecano,FW,FWD,1134,0,FWD-0
+1334,Darwin Núñez,Premier League,Liverpool,FW,FWD,1133,3,FWD-3
+1338,Randy Nteka,La Liga,Rayo Vallecano,FW,FWD,1129,0,FWD-0
+1341,Alejo Véliz,La Liga,Espanyol,FW,FWD,1127,0,FWD-0
+1350,Wahbi Khazri,Ligue 1,Montpellier,"FW,MF",FWD,1118,1,FWD-1
+1353,Musa Al-Taamari,Ligue 1,Montpellier,"FW,MF",FWD,1683,1,FWD-1
+1355,Borja Mayoral,La Liga,Getafe,FW,FWD,1114,0,FWD-0
+1357,Pontus Almqvist,Serie A,Parma,"FW,MF",FWD,1112,1,FWD-1
+1359,Jesus Rodríguez,La Liga,Betis,FW,FWD,1111,1,FWD-1
+1363,Ferrán Torres,La Liga,Barcelona,"FW,MF",FWD,1106,3,FWD-3
+1366,Giacomo Raspadori,Serie A,Napoli,"FW,MF",FWD,1103,2,FWD-2
+1368,Pedro,Serie A,Lazio,"FW,MF",FWD,1102,2,FWD-2
+1373,Álvaro Morata,Serie A,Milan,"FW,MF",FWD,1099,0,FWD-0
+1376,Simon Adingra,Premier League,Brighton,"FW,MF",FWD,1097,2,FWD-2
+1377,Eldor Shomurodov,Serie A,Roma,"FW,MF",FWD,1097,3,FWD-3
+1387,Bertuğ Yıldırım,La Liga,Getafe,FW,FWD,1083,0,FWD-0
+1392,Cristhian Stuani,La Liga,Girona,FW,FWD,1078,3,FWD-3
+1395,Akor Adams,Ligue 1,Montpellier,FW,FWD,1209,0,FWD-0
+1401,Keinan Davis,Serie A,Udinese,FW,FWD,1066,0,FWD-0
+1402,Gonçalo Ramos,Ligue 1,Paris S-G,FW,FWD,1066,3,FWD-3
+1403,Matias Fernandez-Pardo,Ligue 1,Lille,"FW,MF",FWD,1065,2,FWD-2
+1407,Irvin Cardona,Ligue 1,Saint-Étienne,FW,FWD,1669,1,FWD-1
+1415,Giorgos Masouras,Bundesliga,Bochum,"FW,MF",FWD,1055,1,FWD-1
+1416,Takuma Asano,La Liga,Mallorca,"FW,MF",FWD,1054,1,FWD-1
+1419,Ernest Nuamah,Ligue 1,Lyon,"FW,MF",FWD,1052,2,FWD-2
+1420,Paul Onuachu,Premier League,Southampton,FW,FWD,1050,0,FWD-0
+1423,Amine Gouiri,Ligue 1,Marseille,"FW,MF",FWD,2085,3,FWD-3
+1430,Myron Boadu,Bundesliga,Bochum,FW,FWD,1042,3,FWD-3
+1431,Neal Maupay,Ligue 1,Marseille,FW,FWD,1042,3,FWD-3
+1437,Eddie Nketiah,Premier League,Crystal Palace,"FW,MF",FWD,1034,3,FWD-3
+1449,Antoniu,La Liga,Espanyol,"FW,MF",FWD,1022,1,FWD-1
+1451,Elif Elmas,Serie A,Torino,"FW,MF",FWD,1065,1,FWD-1
+1460,Toni Martínez,La Liga,Alavés,FW,FWD,1012,0,FWD-0
+1461,Rémy Cabella,Ligue 1,Lille,"FW,MF",FWD,1011,2,FWD-2
+1464,Victor Boniface,Bundesliga,Leverkusen,FW,FWD,1008,3,FWD-3
+1469,Manuel Fuster,La Liga,Las Palmas,"FW,MF",FWD,1003,2,FWD-2
+1470,Sheraldo Becker,La Liga,Real Sociedad,"FW,MF",FWD,995,1,FWD-1
+1472,Sammie Szmodics,Premier League,Ipswich Town,"FW,MF",FWD,992,0,FWD-0
+1483,Marcus Rashford,Premier League,Manchester Utd,"FW,MF",FWD,1422,2,FWD-2
+1484,Edon Zhegrova,Ligue 1,Lille,"FW,MF",FWD,978,2,FWD-2
+1492,Chidera Ejuke,La Liga,Sevilla,FW,FWD,966,2,FWD-2
+1494,Rodrigo Muniz,Premier League,Fulham,FW,FWD,964,3,FWD-3
+1497,David Brooks,Premier League,Bournemouth,"FW,MF",FWD,960,1,FWD-1
+1498,Budu Zivzivadze,Bundesliga,Heidenheim,FW,FWD,958,1,FWD-1
+1503,Justin Njinmah,Bundesliga,Werder Bremen,"FW,MF",FWD,952,3,FWD-3
+1511,Orri Steinn Óskarsson,La Liga,Real Sociedad,FW,FWD,944,0,FWD-0
+1513,Ibrahima Niane,Ligue 1,Angers,FW,FWD,943,0,FWD-0
+1517,Dailon Livramento,Serie A,Hellas Verona,"FW,MF",FWD,940,0,FWD-0
+1518,Theo Bair,Ligue 1,Auxerre,FW,FWD,939,0,FWD-0
+1523,Andrej Ilic,Bundesliga,Union Berlin,FW,FWD,937,0,FWD-0
+1529,Wes Burns,Premier League,Ipswich Town,"FW,DF",FWD,926,1,FWD-1
+1530,Samuel Chukwueze,Serie A,Milan,"FW,MF",FWD,925,2,FWD-2
+1535,Christopher Nkunku,Premier League,Chelsea,FW,FWD,921,3,FWD-3
+1540,Mathys Tel,Premier League,Tottenham,FW,FWD,1167,1,FWD-1
+1542,Oliver Burke,Bundesliga,Werder Bremen,FW,FWD,908,3,FWD-3
+1543,Jordan Pefok,Bundesliga,Union Berlin,FW,FWD,1288,0,FWD-0
+1546,Wesley Saïd,Ligue 1,Lens,FW,FWD,905,0,FWD-0
+1554,Elias Saad,Bundesliga,St. Pauli,"FW,MF",FWD,900,1,FWD-1
+1560,Ethan Nwaneri,Premier League,Arsenal,"FW,MF",FWD,895,2,FWD-2
+1561,Sirlord Conteh,Bundesliga,Heidenheim,"FW,MF",FWD,892,1,FWD-1
+1565,Goduine Koyalipou,Ligue 1,Lens,FW,FWD,885,3,FWD-3
+1577,Bojan Miovski,La Liga,Girona,FW,FWD,869,0,FWD-0
+1580,Munir El Haddadi,La Liga,Leganés,"FW,MF",FWD,862,1,FWD-1
+1582,Tijjani Noslin,Serie A,Lazio,"FW,MF",FWD,861,0,FWD-0
+1586,Mamadou Diakhon,Ligue 1,Reims,"FW,MF",FWD,858,1,FWD-1
+1593,Jota Silva,Premier League,Nott'ham Forest,"FW,MF",FWD,854,1,FWD-1
+1594,Kasey McAteer,Premier League,Leicester City,FW,FWD,852,1,FWD-1
+1595,Álvaro Rodríguez,La Liga,Getafe,FW,FWD,852,0,FWD-0
+1599,Koka,Ligue 1,Le Havre,FW,FWD,851,0,FWD-0
+1600,Wilson Odobert,Premier League,Tottenham,"FW,MF",FWD,850,1,FWD-1
+1601,Zinedine Ferhat,Ligue 1,Angers,"FW,MF",FWD,849,1,FWD-1
+1603,Tomás Conechny,La Liga,Alavés,"FW,MF",FWD,847,1,FWD-1
+1607,Michail Antonio,Premier League,West Ham,FW,FWD,836,1,FWD-1
+1610,Riccardo Sottil,Serie A,Fiorentina,"FW,MF",FWD,956,2,FWD-2
+1614,Tomáš Čvančara,Bundesliga,Gladbach,FW,FWD,831,0,FWD-0
+1616,Nathan N'Goumou,Bundesliga,Gladbach,FW,FWD,828,2,FWD-2
+1618,Umar Sadiq,La Liga,Valencia,FW,FWD,1052,0,FWD-0
+1620,Haris Tabakovic,Bundesliga,Hoffenheim,FW,FWD,821,0,FWD-0
+1621,Ibrahim Sissoko,Ligue 1,Saint-Étienne,FW,FWD,819,0,FWD-0
+1625,Jonathan Bamba,La Liga,Celta Vigo,"FW,MF",FWD,811,1,FWD-1
+1630,Jon Rowe,Ligue 1,Marseille,"FW,MF",FWD,807,4,FWD-4
+1631,Mehdi Taremi,Serie A,Inter,FW,FWD,807,0,FWD-0
+1632,Ángel Correa,La Liga,Atlético Madrid,"FW,MF",FWD,805,4,FWD-4
+1641,Niclas Füllkrug,Premier League,West Ham,FW,FWD,790,0,FWD-0
+1644,Ante Rebić,Serie A,Lecce,"FW,MF",FWD,788,1,FWD-1
+1645,Crysencio Summerville,Premier League,West Ham,"FW,MF",FWD,786,1,FWD-1
+1646,Benedikt Pichler,Bundesliga,Holstein Kiel,FW,FWD,785,0,FWD-0
+1650,Portu,La Liga,Girona,"FW,MF",FWD,779,2,FWD-2
+1652,Rubén Peña,La Liga,Osasuna,"FW,DF",FWD,775,1,FWD-1
+1657,Jeff Ekhator,Serie A,Genoa,"FW,MF",FWD,769,0,FWD-0
+1659,Sekou Mara,Ligue 1,Strasbourg,"FW,MF",FWD,768,0,FWD-0
+1662,Carlos Alcaraz,Premier League,Everton,"FW,MF",FWD,774,2,FWD-2
+1665,Armindo Sieb,Bundesliga,Mainz 05,"FW,MF",FWD,762,1,FWD-1
+1677,Christian Gytkjær,Serie A,Venezia,FW,FWD,754,0,FWD-0
+1678,Maroan Sannadi,La Liga,Athletic Club,FW,FWD,754,0,FWD-0
+1680,Rafa Mir,La Liga,Valencia,"FW,MF",FWD,753,0,FWD-0
+1683,Raúl,La Liga,Osasuna,"FW,MF",FWD,750,0,FWD-0
+1688,Bobby De Cordova-Reid,Premier League,Leicester City,FW,FWD,744,1,FWD-1
+1691,Mateo Pellegrino,Serie A,Parma,FW,FWD,737,0,FWD-0
+1693,Patson Daka,Premier League,Leicester City,"FW,MF",FWD,736,0,FWD-0
+1696,Saïd Benrahma,Ligue 1,Lyon,"FW,MF",FWD,735,2,FWD-2
+1699,Augustine Boakye,Ligue 1,Saint-Étienne,"FW,MF",FWD,733,1,FWD-1
+1702,Joaquín Correa,Serie A,Inter,"FW,MF",FWD,731,2,FWD-2
+1708,Jack Grealish,Premier League,Manchester City,"FW,MF",FWD,721,4,FWD-4
+1709,Gerard Moreno,La Liga,Villarreal,FW,FWD,721,4,FWD-4
+1714,George Ilenikhena,Ligue 1,Monaco,FW,FWD,717,3,FWD-3
+1719,Jann-Fiete Arp,Bundesliga,Holstein Kiel,"FW,MF",FWD,713,1,FWD-1
+1720,Cédric Bakambu,La Liga,Betis,FW,FWD,710,3,FWD-3
+1721,Samuel Mbangula,Serie A,Juventus,FW,FWD,709,2,FWD-2
+1724,Nelson Weiper,Bundesliga,Mainz 05,"FW,MF",FWD,704,3,FWD-3
+1728,Anastasios Douvikas,La Liga,Celta Vigo,FW,FWD,1280,3,FWD-3
+1733,Juanmi,La Liga,Getafe,"FW,MF",FWD,940,0,FWD-0
+1739,Gift Orban,Bundesliga,Hoffenheim,FW,FWD,873,0,FWD-0
+1742,Iker Bravo,Serie A,Udinese,"FW,MF",FWD,682,1,FWD-1
+1746,Ezequiel Ávila,La Liga,Betis,FW,FWD,677,1,FWD-1
+1751,Fer López,La Liga,Celta Vigo,"FW,MF",FWD,671,2,FWD-2
+1752,Ruben Vargas,La Liga,Sevilla,"FW,MF",FWD,976,2,FWD-2
+1754,Santiago Giménez,Serie A,Milan,FW,FWD,669,3,FWD-3
+1760,George Hirst,Premier League,Ipswich Town,FW,FWD,661,0,FWD-0
+1761,Loum Tchaouna,Serie A,Lazio,"FW,MF",FWD,660,2,FWD-2
+1762,Álvaro djaló,La Liga,Athletic Club,FW,FWD,659,1,FWD-1
+1765,Jaime Mata,La Liga,Las Palmas,"FW,MF",FWD,656,0,FWD-0
+1768,Emmanuel Sabbi,Ligue 1,Le Havre,"FW,MF",FWD,653,1,FWD-1
+1769,Michael Folorunsho,Serie A,Fiorentina,"FW,MF",FWD,685,1,FWD-1
+1773,Walid Cheddira,La Liga,Espanyol,FW,FWD,652,0,FWD-0
+1774,Chuba Akpom,Ligue 1,Lille,FW,FWD,639,3,FWD-3
+1775,Michael Gregoritsch,Bundesliga,Freiburg,FW,FWD,639,0,FWD-0
+1777,Keita Baldé,Serie A,Monza,FW,FWD,638,0,FWD-0
+1778,Jáder Durán,Premier League,Aston Villa,FW,FWD,638,3,FWD-3
+1780,Rémy Labeau Lascary,Ligue 1,Lens,"FW,MF",FWD,637,2,FWD-2
+1793,Christian Kouamé,Serie A,Fiorentina,"FW,MF",FWD,1129,0,FWD-0
+1797,Nicolò Cambiaghi,Serie A,Bologna,FW,FWD,620,4,FWD-4
+1801,Folarin Balogun,Ligue 1,Monaco,FW,FWD,615,3,FWD-3
+1802,Donyell Malen,Bundesliga,Dortmund,"FW,MF",FWD,919,3,FWD-3
+1804,Lameck Banda,Serie A,Lecce,"FW,MF",FWD,610,1,FWD-1
+1807,Bazoumana Touré,Bundesliga,Hoffenheim,"FW,MF",FWD,609,2,FWD-2
+1808,Gabriel Jesus,Premier League,Arsenal,FW,FWD,608,3,FWD-3
+1811,Andy Delort,Ligue 1,Montpellier,FW,FWD,607,0,FWD-0
+1813,Suso,La Liga,Sevilla,"FW,MF",FWD,606,2,FWD-2
+1819,Andrea Belotti,Serie A,Como,FW,FWD,593,0,FWD-0
+1825,Duván Zapata,Serie A,Torino,FW,FWD,587,3,FWD-3
+1836,Ryan Sessegnon,Premier League,Fulham,"FW,DF",FWD,580,2,FWD-2
+1837,Abdul Fatawu Issahaku,Premier League,Leicester City,FW,FWD,579,2,FWD-2
+1839,Florian Ayé,Ligue 1,Auxerre,FW,FWD,575,0,FWD-0
+1841,Elye Wahi,Ligue 1,Marseille,FW,FWD,770,3,FWD-3
+1842,Francisco Perez,La Liga,Valencia,"FW,MF",FWD,570,1,FWD-1
+1849,Luka Jović,Serie A,Milan,"FW,MF",FWD,557,0,FWD-0
+1851,Caleb Ekuban,Serie A,Genoa,FW,FWD,555,3,FWD-3
+1857,Mohamed Meité,Ligue 1,Rennes,FW,FWD,544,0,FWD-0
+1862,Jonathan Ikone,Serie A,Como,FW,FWD,874,1,FWD-1
+1871,Andreas Skov Olsen,Bundesliga,Wolfsburg,"FW,MF",FWD,535,2,FWD-2
+1874,Bamba Dieng,Ligue 1,Angers,FW,FWD,532,0,FWD-0
+1875,Dani Gómez,La Liga,Valencia,FW,FWD,532,0,FWD-0
+1879,Ben Old,Ligue 1,Saint-Étienne,"FW,MF",FWD,528,1,FWD-1
+1881,Marko Arnautović,Serie A,Inter,FW,FWD,527,3,FWD-3
+1888,Timo Werner,Premier League,Tottenham,"FW,MF",FWD,516,4,FWD-4
+1893,Richarlison,Premier League,Tottenham,FW,FWD,504,3,FWD-3
+1898,Raheem Sterling,Premier League,Arsenal,"FW,MF",FWD,499,2,FWD-2
+1903,Jesper Karlsson,Serie A,Lecce,FW,FWD,793,1,FWD-1
+1905,Daniel Fila,Serie A,Venezia,FW,FWD,492,0,FWD-0
+1909,Reiss Nelson,Premier League,Fulham,FW,FWD,490,2,FWD-2
+1920,Jaden Philogene Bidace,Premier League,Ipswich Town,"FW,DF",FWD,806,1,FWD-1
+1926,Lukas Nmecha,Bundesliga,Wolfsburg,"FW,MF",FWD,467,3,FWD-3
+1927,Koji Miyoshi,Bundesliga,Bochum,"FW,MF",FWD,464,1,FWD-1
+1933,Abdón Prats,La Liga,Mallorca,"FW,MF",FWD,456,0,FWD-0
+1934,Fabio Carvalho,Premier League,Brentford,"FW,MF",FWD,455,1,FWD-1
+1940,Max Moerstedt,Bundesliga,Hoffenheim,FW,FWD,451,0,FWD-0
+1976,Noah Okafor,Serie A,Milan,FW,FWD,454,2,FWD-2
+2016,André Silva,Bundesliga,Werder Bremen,FW,FWD,507,3,FWD-3
+2041,Iker Losada,La Liga,Celta Vigo,"FW,MF",FWD,694,1,FWD-1
+2048,Mirko Marić,Serie A,Venezia,FW,FWD,462,0,FWD-0
+2050,Nicolò Zaniolo,Serie A,Atalanta,"FW,MF",FWD,699,1,FWD-1
