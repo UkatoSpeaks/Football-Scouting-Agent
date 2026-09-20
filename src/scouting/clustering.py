@@ -20,7 +20,7 @@ import numpy as np
 import pandas as pd
 from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
-from sklearn.metrics import adjusted_rand_score, silhouette_samples, silhouette_score
+from sklearn.metrics import adjusted_rand_score, silhouette_samples
 
 from scouting.config import Config, load_config
 from scouting.labels import label
